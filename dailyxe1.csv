@@ -1,0 +1,1003 @@
+Name,Address,Phone,Province,Brand,Quantity
+VinFast Đông Sài Gòn,"Số 391 Xa lộ Hà Nội, Phường An Phú, TP.Thủ Đức, TP.HCM",0966.891.781,TP.HCM,Vinfas,8
+VinFast VMM Royal City,"Vincom Mega Mall Royal City, 72A Nguyễn Trãi, Phường Thượng Đình, Quận Thanh Xuân, Hà Nội",0983.497.996,Hà Nội,Vinfas,8
+VinFast VCP Long Biên,"Khu Đô Thị Vinhomes Riverside, Phường Phúc Lợi, Quận Long Biên, Hà Nội",0983.497.996,Hà Nội,Vinfas,8
+VinFast Mỹ Đình,"Số 8 Phạm Hùng, Phường Mai Dịch, Quận Cầu Giấy, Hà Nội",0983.497.996,Hà Nội,Vinfas,8
+VinFast VCP Lý Thái Tổ,"Vincom Plaza Lý Thái Tổ, Ngã 6 Mặt Đường Lý Thái Tổ và Trần Hưng Đạo, Phường Suối Hoa, TP. Bắc Ninh",0983.497.996,Bắc Ninh,Vinfas,8
+VinFast Hải Dương,"Số 2A, đường Ngô Quyền, phường Cẩm Thượng, Thành phố Hải Dương, Tỉnh Hải Dương",0983.497.996,Hải Dương,Vinfas,8
+VinFast Hải Phòng,"Tầng L1, TTTM Vincom Plaza Imperia Hải Phòng - Số 1 Bạch Đằng, Phường Thượng Lý, Quận Hồng Bàng, TP. Hải Phòng",0983.497.996,Hải Phòng,Vinfas,8
+Mazda Bình Tân,"75 Đại Lộ Võ Văn Kiệt, Phường An Lạc, Quận Bình Tân, TPHCM",0967.556.650,TP.HCM,Mazda,26
+Mazda Phú Mỹ Hưng,"314 Nguyễn Văn Linh, Phường Bình Thuận, Quận 7, TP.HCM",0934.072.449,TP.HCM,Mazda,26
+Mazda Bình Triệu,"127 Quốc Lộ 13, Phường Hiệp Bình Chánh, Quận Thủ Đức, TPHCM",0906.682.102,TP.HCM,Mazda,26
+Mazda Trường Chinh,"Số 827A - 829, Đường Trường Chinh, Phường Tây Thạnh, Quận Tân Phú, TPHCM",0784.888.898,TP.HCM,Mazda,26
+Mazda Đà Nẵng,"Lô 8A Phạm Văn Đồng, Quận sơn trà.  TP. Đà Nẵng",0913.556.681,Đà Nẵng,Mazda,30
+KIA Tân Sơn Nhất,"07 Hoàng Minh Giám, Phường 9, Quận Phú Nhuận, TP.HCM",0388.863.250,TP.HCM,Kia,48
+KIA Bình Triệu,"153 Quốc Lộ 13, Phường Hiệp Bình Chánh, Quận Thủ Đức, TP.HCM",0587.533.699,TP.HCM,Kia,54
+KIA Phú Mỹ Hưng,"314 Nguyễn Văn Linh, Phường Bình Thuận, Quận 7, TP.HCM",0934.072.449,TP.HCM,Kia,43
+KIA Hồ Chí Minh,"Quận Thủ Đức, TP.HCM",0934.434.031,TP.HCM,Kia,43
+KIA Yên Nghĩa,"Số 899, Tổ 9, Phường Phú Lãm, Quận Hà Đông, Hà Nội",0968.506.893,Hà Nội,Kia,50
+KIA Đà Nẵng,"14 Phạm Văn Đồng, Quận Sơn Trà, TP. Đà Nẵng",0966.308.886,Đà Nẵng,Kia,43
+KIA Biên Hòa,"Số 19 Đường 2A, Phường An Bình, TP. Biên Hòa, Tỉnh Đồng Nai",0385.200.367,Đồng Nai,Kia,43
+KIA Phan Thiết,"Quốc Lộ 1A, Thôn Thắng Lợi, Xã Hàm Thắng, Huyện Hàm Thuận Bắc, Bình Thuận",0938.901.097,Bình Thuận,Kia,43
+KIA Nha Trang,"Lô số 1, Khu Vực 2, Đường 23/10, Xã Vĩnh Hiệp, TP. Nha Trang, Tỉnh Khánh Hòa",0938.333.847,Khánh Hòa,Kia,43
+Toyota Hiroshima Tân Cảng,"220Bis Điện Biên Phủ, Phường 22, Quận Bình Thạnh, TP.HCM",0936.241.629,TP.HCM,Toyota,35
+Toyota Đắk Nông,"Quốc Lộ 14, Nguyễn Tất Thành, Nghĩa Tân, TP. Gia Nghĩa, Đắk Nông",0899.811.399,Đắk Nông,Toyota,37
+Toyota Bắc Giang,"Thôn Riễu, Xã Dĩnh Trì, Thành Phố Bắc Giang, Tỉnh Bắc Giang",0981.865.222,Bắc Giang,Toyota,35
+Toyota Bình Dương,"Lô C13 Đường Hùng Vương, Phường Hòa Phú, TP. Thủ Dầu Một, Tỉnh Bình Dương",0901.239.807,Bình Dương,Toyota,35
+Toyota Nha Trang,"Km5 đường 23/10, Vĩnh Hiệp, TP. Nha Trang, Tỉnh Khánh Hòa",0933.807.222,Khánh Hòa,Toyota,35
+Ford Miền Nam,Thành Phố Hồ Chí Minh,0903.196.169,TP.HCM,Ford,15
+Trần Hưng Đạo Ford - Chi Nhánh Sài Gòn Ford,"Số 6 Trần Hưng Đạo, Phường Phạm Ngũ Lão, Quận 1, TP.HCM",0764.715.317,TP.HCM,Ford,15
+Gia Định Ford,"900 Quốc Lộ 1A, Phường Thạnh Xuân, Quận 12, TP.HCM",0979.934.915,TP.HCM,Ford,15
+City Ford,"218 Quốc Lộ 13, Phường Hiệp Bình Chánh, TP. Thủ Đức, TP.HCM",0938.747.636,TP.HCM,Ford,15
+Phú Mỹ Ford,"507C Xa Lộ Hà Nội, Phường An Phú, Quận 2, TP. Thủ Đức, TP.HCM",0365.273.812,TP.HCM,Ford,15
+Long Khánh Ford,"Đường 21/4, tổ 1, Khu Phố Cẩm Tân, Phường Xuân Tân, TP. Long Khánh, Tỉnh Đồng Nai",0398 288 795,Đồng Nai,Ford,16
+Vinh Ford,"Km 200 Đại lộ Lê Nin, Thành Phố Vinh, Tỉnh Nghệ An",0915.434.226,Nghệ An,Ford,15
+Hyundai Trường Chinh,"Số 682A Trường chinh, Phường 15, Quận Tân Bình, TP.HCM",0969.369.710,TP.HCM,,26
+Hyundai Đắk Lắk,"15A Nguyễn Chí Thanh, Phường Tân An, TP. Buôn Ma Thuột, ĐắkLắk",0945.983.377,Đắk Lắk,,26
+Honda Ôtô Hải Phòng,"Thửa 3+4, Lô 26 Lê Hồng Phong, Quận Ngô Quyền, TP. Hải Phòng",0934.211.811,Hải Phòng,Honda,12
+Mitsubishi Trường Chinh,"831 Đường Trường Chinh, Phường Tây Thạnh, Quận Tân Phú, TP.HCM",0355 464 870,TP.HCM,Mitsubishi,14
+Mitsubishi Quận 9,TP. HCM,0903.191.378,TP.HCM,Mitsubishi,13
+Mitsubishi ISAMCO Bình Triệu,"79-81 Quốc Lộ 13, Phường Hiệp Bình Chánh, TP. Thủ Đức, TP. HCM",0903.191.378,TP.HCM,Mitsubishi,13
+Mitsubishi ISAMCO Cô Giang,"139 Cô Giang, Phường Cô Giang, Quận 1, TP. HCM",0903.191.378,TP.HCM,Mitsubishi,13
+Mitsubishi ISAMCO Võ Văn Kiệt,"664 Võ Văn Kiệt, Phường 1, Quận 5, TP.HCM",0903.191.378,TP.HCM,Mitsubishi,13
+Mitsubishi Phương Nguyên,"63A Võ Văn Kiệt, Phường An Lạc, Quận Bình Tân, TP.HCM",0903.191.378,TP.HCM,Mitsubishi,13
+Mitsubishi Đắk Lắk,"144 Nguyễn Chí Thanh, Phường Tân An, TP. Buôn Ma Thuột, Tỉnh Đắk Lắk",0984.222.556,Đắk Lắk,Mitsubishi,13
+Mitsubishi Đắk Nông,"799 Nguyễn Tất Thành, Phường Nghĩa Phú, TP. Gia Nghĩa, Tỉnh Đắk Nông",0984.222.556,Đắk Nông,Mitsubishi,14
+Mitsubishi Vũng Tàu,"Thành phố Vũng Tàu, Tỉnh Bà Rịa Vũng Tàu",0903.191.378,Bà Rịa - Vũng Tàu,Mitsubishi,13
+Mitsubishi Nha Trang,"17 Đường Phong Châu, Phước Hải, TP. Nha Trang, Tỉnh Khánh Hoà",0914.14.93.14,Khánh Hòa,Mitsubishi,13
+Mitsubishi Tiền Giang,"Ấp 4, Xã Trung An, Thành phố Mỹ Tho, Tỉnh Tiền Giang",0888.802.949,Tiền Giang,Mitsubishi,13
+Mercedes-Benz VietNam Star Phú Mỹ Hưng,"811 - 813 Nguyễn Văn Linh, Phường Tân Phong, Quận 7, TP.HCM",0903.288.666,TP.HCM,Mercedes-Benz,21
+Mercedes-Benz Haxaco Điện Biên Phủ,"333 Điện Biên Phủ, Phường 15, Quận Bình Thạnh, TP.HCM",0974.10.10.58,TP.HCM,Mercedes-Benz,22
+Mercedes-Benz VietNam Star Long Biên,"386 Nguyễn Văn Linh, Quận Long Biên, Hà Nội",0969.993.869,Hà Nội,Mercedes-Benz,22
+Mercedes-Benz VietNam Star Hoàn Kiếm - Hà Nội,"7 Đặng Thái Thân, Phan Chu Trinh, Quận Hoàn Kiếm, Hà Nội",0969.993.869,Hà Nội,Mercedes-Benz,21
+Mercedes-Benz Haxaco Láng Hạ,"46 Láng Hạ, Phường Láng Hạ, Quận Đống Đa, Hà Nội",0969.993.869,Hà Nội,Mercedes-Benz,22
+Mercedes-Benz Haxaco Kim Giang,"256 Kim Giang, Phường Đại Kim, Quận Hoàng Mai, Hà Nội",0969.993.869,Hà Nội,Mercedes-Benz,22
+Mercedes-Benz VietNam Star Ngô Quyền,"Số 2 Ngô Quyền, Phường Lý Thái Tổ, Quận Hoàn Kiếm, Hà Nội",0969.993.869,Hà Nội,Mercedes-Benz,22
+Mercedes-Benz An Du Phạm Hùng,"11 Phạm Hùng, Phường Mỹ Đình 2, Quận Nam Từ Liêm, Hà Nội",0969.993.869,Hà Nội,Mercedes-Benz,22
+Mercedes-Benz Đồng Nai,"Thành Phố Biên Hòa, Tỉnh Đồng Nai",0974.10.10.58,Đồng Nai,Mercedes-Benz,22
+Mercedes-Benz Vũng Tàu,"30 Tháng 4, Phường Thống Nhất, TP. Vũng Tàu, Tỉnh Bà Rịa Vũng Tàu",0974.10.10.58,Bà Rịa - Vũng Tàu,Mercedes-Benz,22
+Mercedes-Benz Đà Lạt,"Thành Phố Đà Lạt, Tỉnh Lâm Đồng",0974.10.10.58,Lâm Đồng,Mercedes-Benz,22
+BMW Hồ Chí Minh,TP. Hồ Chí Minh,09 46 26 90 26,TP.HCM,Bmw,22
+BMW Bình Dương,"56 Đại Lộ Bình Dương, Tổ 15 , KP Bình Giao, Phường Thuận Giao, TP. Thuận An, Tỉnh Bình Dương",0901.889.798,Bình Dương,Bmw,20
+Lexus Trung tâm Sài Gòn,"264 Trần Hưng Đạo, Phường Nguyễn Cư Trinh, Quận 1, TP. Hồ Chí Minh",090.113.1193,TP.HCM,Lexus,5
+Audi Hồ Chí Minh,"6B Lầu 1 Đường Tôn Đức Thắng, Phường Bến Nghé, Quận 1, TP.HCM",0937.979.080,TP.HCM,Audi,12
+Audi Tân Bình,"Lô IV-22 Tây Thạnh, Phường Tây Thạnh, Quận Tân Phú, TP. Hồ Chí Minh",0902.10.55.99,TP.HCM,Audi,18
+Audi Phú Mỹ Hưng,"Đường Nguyễn Văn Linh, Quận 7, TP.HCM",0928.797997,TP.HCM,Audi,21
+Subaru Phú Mỹ,"Lô D3 đường D1, KCN Cát Lái, Phường Thạnh Mỹ Lợi, TP.Thủ Đức, TP.HCM",0968.090.209,TP.HCM,Subaru,5
+Peugeot Phú Mỹ Hưng,"330 Nguyễn Văn Linh, Phường Bình Thuận, Quận 7, TP.HCM",0932.007.378,TP.HCM,,8
+Suzuki Nam Định,"Đại Lộ Thiên Trường, TP. Nam Định, Tỉnh Nam Định",0847.904.333,Nam Định,Suzuki,8
+MG Vinh,"Số 73 Đại Lộ Lê-Nin, Phường Hà Huy Tập, TP. Vinh, Nghệ An",0969828737,Nghệ An,,5
+VinFast VCC Landmark 81,"Khu Đô Thị Vincom Central Park, 208 Đường Nguyễn Hữu Cảnh, Phường 22, Quận Bình Thạnh, TP.HCM",0899.49.04.07,TP.HCM,Vinfas,8
+VinFast VMM Thảo Điền,"Vincom Mega Mall Thảo Điền, 159 Xa lộ Hà Nội, Phường Thảo Điền, TP. Thủ Đức, TP.HCM",0899.49.04.07,TP.HCM,Vinfas,8
+VinFast VCP Lê Văn Việt,"Vincom Plaza Lê Văn Việt, 50 Lê Văn Việt, Phường Hiệp Phú, TP. Thủ Đức, TP.HCM",0899.49.04.07,TP.HCM,Vinfas,8
+VinFast Quang Trung,"Vincom Plaza Quang Trung, 190 Quang Trung, Phường 10, Quận Gò Vấp, TP.HCM",0899.49.04.07,TP.HCM,Vinfas,8
+VinFast Phú Mỹ Hưng,"1489 Nguyễn Văn Linh, Phường Tân Phong, Quận 7, TP.HCM",0899.49.04.07,TP.HCM,Vinfas,8
+VinFast Trường Chinh,"Chế Lan Viên, Phường Tây Thạnh, Quận Tân Phú, TP.HCM",0899.49.04.07,TP.HCM,Vinfas,8
+VinFast An Thái,"Số 464 đường Kinh Dương Vương, Phường An Lạc A, Quận Bình Tân, TP.HCM",0899.49.04.07,TP.HCM,Vinfas,8
+VinFast Sài Gòn,"Dạ Nam, Phường 3, Quận 8, TP. HCM",0899.49.04.07,TP.HCM,Vinfas,8
+VinFast Đồng Khởi,"Số 72 Lê Thánh Tôn và 45A Lý Tự Trọng, P. Bến Nghé, Q.1, Thành phố Hồ Chí Minh",0899.49.04.07,TP.HCM,Vinfas,8
+VinFast 3 Tháng 2,"3C Đường 3/2, Phường 11, Quận 10, TP. HCM",0899.49.04.07,TP.HCM,Vinfas,8
+VinFast Cộng Hoà,"447A Cộng Hoà, Phường 15, Quận Tân Bình, TP. HCM",0899.49.04.07,TP.HCM,Vinfas,8
+VinFast Gò Vấp,"786B Nguyễn Kiệm, Phường 3, Quận Gò Vấp, TP.HCM",0899.49.04.07,TP.HCM,Vinfas,8
+VinFast Bình Thạnh,"382 Bạch Đằng, Phường 14, Quận Bình Thạnh, TP.HCM",0899.49.04.07,TP.HCM,Vinfas,8
+VinFast Nhà Bè,"770 Nguyễn Văn Tạo, Phường Hiệp Phước, Huyện Nhà Bè, TP.HCM",0899.49.04.07,TP.HCM,Vinfas,8
+VinFast Quận 12,"Quốc Lộ 1A, Phường Thạnh Xuân, Quận 12, TP.HCM",0899.49.04.07,TP.HCM,Vinfas,8
+VinFast Trần Duy Hưng,"119 Trần Duy Hưng, Phường Trung Hòa, Quận Cầu Giấy, Hà Nội",0899.49.04.07,Hà Nội,Vinfas,8
+VinFast Ocean Park,"Tầng 1, TTTM Vincom Ocean Park, Khu đô thị Vinhomes Ocean Park - Cổng vận hành số 1, Kiêu Kỵ, Gia Lâm, Hà Nội",0899.49.04.07,Hà Nội,Vinfas,8
+VinFast Miền Bắc,"Tòa nhà Symphony, Đường Chu Huy Mân, Vinhomes Riverside, Quận Long Biên, Hà Nội",0899.49.04.07,Hà Nội,Vinfas,8
+VinFast Phạm Ngọc Thạch,"Vincom Center Phạm Ngọc Thạch, Số 2 Phạm Ngọc Thạch, Phường Kim Liên, Quận Đống Đa, Hà Nội",0899.49.04.07,Hà Nội,Vinfas,8
+VinFast VMM Times City,"Vincom Mega Mall Times City, 458 Minh Khai, Phường Vĩnh Tuy, Quận Hai Bà Trưng, Hà Nội",0899.49.04.07,Hà Nội,Vinfas,8
+VinFast Tràng An,"68 Lê Văn Lương, Phường Nhân Chính, Quận Thanh Xuân, Hà Nội",0899.49.04.07,Hà Nội,Vinfas,8
+VinFast Phạm Văn Đồng,"138 Phạm Văn Đồng, Phường Xuân Đỉnh, Quận Bắc Từ Liêm, Hà Nội",0899.49.04.07,Hà Nội,Vinfas,8
+Showroom VinFast Vinsmart City,"Đại Lộ Thăng Long, Phường Tây Mỗ, Quận Từ Liêm, Hà Nội",0899.49.04.07,Hà Nội,Vinfas,8
+Showroom VinFast Tây Hồ,"612 Lạc Long Quân, Phường Nhật Tân, Quận Tây Hồ, Hà Nội.",0899.49.04.07,Hà Nội,Vinfas,8
+VinFast Newway,"183 Yên Lãng , Phường Thịnh Quang, Quận Đống Đa, Hà Nội",0899.49.04.07,Hà Nội,Vinfas,8
+VinFast Giải Phóng,"Số 9 Đường Ngọc Hồi, Phường Hoàng Liệt, Quận Hoàng Mai, Hà Nội",0899.49.04.07,Hà Nội,Vinfas,8
+VinFast Thăng Long,"Lê Quang Đạo, Phường Mỹ Đình, Quận Nam Từ Liêm, Hà Nội",0899.49.04.07,Hà Nội,Vinfas,8
+VinFast Nguyễn Văn Linh,"Số 1 Nguyễn Văn Linh, P.Gia Thụy, Quận Long Biên, Thành phố Hà Nội",0899.49.04.07,Hà Nội,Vinfas,8
+VinFast Hà Nội,"Quang Trung, Phường Yên Nghĩa, Quận Hà Đông, Hà Nội",0899.49.04.07,Hà Nội,Vinfas,8
+Showroom VinFast Hà Thành,"162 Trường Chinh, Phường Khương Thượng, Quận Đống Đa, Hà Nội",0899.49.04.07,Hà Nội,Vinfas,8
+VinFast Quốc Oai,"Khu công nghiệp Thạch Thất - Quốc Oai, Thị Trấn Quốc Oai, Huyện Quốc Oai, Hà Nội",0899.49.04.07,Hà Nội,Vinfas,8
+Showroom VinFast Ngô Quyền,"Tầng 1 Vincom, 910 A Phường An Hải Bắc, Quận Sơn Trà, TP. Đà Nẵng",0899.49.04.07,Đà Nẵng,Vinfas,8
+VinFast Hải Châu,"115 Nguyễn Văn Linh, Phường Nam Dương, Quận Hải Châu, Thành phố Đà Nẵng",0899.49.04.07,Đà Nẵng,Vinfas,8
+VinFast Đăk Lăk,"Ybih Aleo, Phường Tân Lợi, TP. Buôn Ma Thuột, Tỉnh Đắk Lắk",0899.49.04.07,Đắk Lắk,Vinfas,8
+VinFast Biên Hòa,"Quốc Lộ 1, Khu Phố 2, Phường Long Bình, TP. Biên Hoà, Đồng Nai",0899.49.04.07,Đồng Nai,Vinfas,8
+VinFast Đồng Tháp,"TTTM Vincom Số 02 Đường 30/4, Phường 1, Thành phố Cao Lãnh, Tỉnh Đồng Tháp",0899.49.04.07,Đồng Tháp,Vinfas,8
+VinFast Kon Tum,"Vincom KonTum, 02 Phan Đình Phùng, Phường Quyết Thắng, TP. KonTum, Tỉnh KonTum",0899.49.04.07,Gia Lai,Vinfas,8
+VinFast Hà Giang,TP. Hà Giang,0899.49.04.07,Hà Giang,Vinfas,8
+VinFast An Giang,"Trần Hưng Đạo, Phường Mỹ Bình, Thành Phố Long Xuyên, Tỉnh An Giang",0899.49.04.07,An Giang,Vinfas,8
+VinFast Vũng Tàu,"Quốc Lộ 51A, Phước Trung, TP. Bà Rịa, Tỉnh Bà Rịa Vũng Tàu",0899.49.04.07,Bà Rịa - Vũng Tàu,Vinfas,8
+VinFast Bạc Liêu,"Tầng 1 TTTM Vincom Plaza Bạc Liêu, 109 Trần Huỳnh, phường 7, Thành phố Bạc Liêu, Tỉnh Bạc Liêu",0899.49.04.07,Bạc Liêu,Vinfas,8
+VinFast Bắc Kạn,"Vincom Plaza Bắc Kạn, 48 Trường Chinh, phường Phùng Chí Kiên, TP. Bắc Cạn",0899.49.04.07,Bắc Cạn,Vinfas,8
+VinFast Quang Tuấn Bắc Giang,"Dãy 1, Nguyễn Thị Minh Khai, TP Bắc Giang",0899.49.04.07,Bắc Giang,Vinfas,8
+VinFast Đào Dương Bắc Giang,"Lô ATM 2 khu đô thị phía Nam, thôn Xuân, Xã Tân Tiến, Thành phố Bắc Giang, Tỉnh Bắc Giang",0899.49.04.07,Bắc Giang,Vinfas,8
+VinFast Bến Tre,"Tầng 1 TTTM Vincom Plaza Bến Tre, Số 49C Đại Lộ Đồng Khởi, Phường Phú Khương, TP. Bến Tre, Tỉnh Bến Tre",0899.49.04.07,Bến Tre,Vinfas,8
+VinFast Nam Thái,"Đại lộ Bình Dương, Khu Phố Bình Đức 2, Phường Bình Hòa, TP. Thuận An, Tỉnh Bình Dương",0899.49.04.07,Bình Dương,Vinfas,8
+VinFast Dĩ An,"Tầng L1 TTTM Vincom Plaza Dĩ An, Số 79 đường ĐT 743B, Phường Dĩ An, TP. Dĩ An, Bình Dương",0899.49.04.07,Bình Dương,Vinfas,8
+VinFast Bình Phước,"Lô H6, 1 phần Lô H7, Đường D1, KCN Bắc Đồng Phú, Thị trấn Tân Phú, Huyện Đồng Phú, Tỉnh Bình Phước",0899.49.04.07,Bình Phước,Vinfas,8
+VinFast Bình Thuận,"171-173 Lê Hồng Phong, Phú Trinh, TP. Phan Thiết, Tỉnh Bình Thuận",0899.49.04.07,Bình Thuận,Vinfas,8
+VinFast Cà Mau,"139 Nguyễn Tất Thành, Phường 8, Thành Phố Cà Mau, Tỉnh Cà Mau",0899.49.04.07,Cà Mau,Vinfas,8
+VinFast Cao Bằng,Cao Bằng,0899.49.04.07,Cao Bằng,Vinfas,8
+VinFast VCP Hùng Vương,"Vincom Plaza Hùng Vương, Số 2 Đường Hùng Vương, Phường Thới Bình, Quận Ninh Kiều, TP. Cần Thơ",0899.49.04.07,Cần Thơ,Vinfas,8
+VinFast Cần Thơ,"Số 274 Đường 30/4, Phường Hưng Lợi, Quận Ninh Kiều, TP. Cần Thơ",0899.49.04.07,Cần Thơ,Vinfas,8
+VinFast Xuân Khánh,"Tầng L1, TTTM Vincom Plaza Xuân Khánh, Số 209 Đường 30 Tháng 4, Phường Xuân Khánh, Quận Ninh Kiều, Thành phố Cần Thơ",0899.49.04.07,Cần Thơ,Vinfas,8
+VinFast Hà Tĩnh,"Tầng 1, TTTM Vincom Plaza Hà Tĩnh, Góc Ngã Tư Đường Hà Huy Tập và Đường Hàm Nghi, Phường Hà Huy Tập, TP. Hà Tĩnh",0899.49.04.07,Hà Tĩnh,Vinfas,8
+VinFast Âu Lạc,"Số 1248 Nguyễn Bỉnh Khiêm, Phường Đông Hải 2, Quận Hải An, Thành phố Hải Phòng",0899.49.04.07,Hải Phòng,Vinfas,6
+VinFast Hoà Bình,"TTTM Shophose Hòa Bình, Đường Cù Chính Lan, Phường Đồng Tiến, TP. Hòa Bình, Tỉnh Hòa Bình",0899.49.04.07,Hòa Bình,Vinfas,8
+VinFast Hà Nam,"Tầng 1, TTTM Vincom Plaza Phủ Lý, Phường Minh Khai, Thành phố Phủ Lý, Tỉnh Hà Nam",0899.49.04.07,Hà Nam,Vinfas,8
+VinFast Hậu Giang,"Vincom Hậu Giang, TP. Vị Thanh, Tỉnh Hậu Giang",0899.49.04.07,Hậu Giang,Vinfas,8
+VinFast Hưng Yên,"88 Phạm Bạch Hổ, Phường Lam Sơn, TP. Hưng Yên",0899.49.04.07,Hưng Yên,Vinfas,8
+VinFast VCP Trần Phú,"Vincom Plaza Trần Phú, Ngã Tư Trần Phú và Trần Quang Khải, TP. Nha Trang, Tỉnh Khánh Hòa",0899.49.04.07,Khánh Hòa,Vinfas,8
+VinFast Thái Nguyên - Nha Trang,"Tầng 1, TTTM Vincom Plaza Thái Nguyên, 60 Thái Nguyên, P. Phương Sài, Thành phố Nha Trang, Tỉnh Khánh Hòa",0899.49.04.07,Khánh Hòa,Vinfas,8
+VinFast Kiên Giang,"Tầng L1, TTTM Vincom Plaza Kiên Giang, Lô A12, Khu phố 1, Đường Cô Bắc, Phường Vĩnh Bảo, TP. Rạch Giá, Kiên Giang",0899.49.04.07,Kiên Giang,Vinfas,8
+VinFast KonTum,"Số 02 Đường Phan Đình Phùng, Phường Quyết Thắng, Thành phố Kon Tum, Tỉnh Kon Tum",0899.49.04.07,KonTum,Vinfas,8
+VinFast Lai Châu,"Đường 30 Tháng 4, Tổ 18, Phường Tân Phong, TP. Lai Châu, Tỉnh Lai Châu",0899.49.04.07,Lai Châu,Vinfas,8
+VinFast Hoàng Hải Lào Cai,"Ngã Tư B4, Đại Lộ Trần Hưng Đạo, Tổ 8, Phường Nam Cường, Thành phố Lào Cai, Tỉnh Lào Cai",0899.49.04.07,Lào Cai,Vinfas,8
+VinFast Lạng Sơn,"TTTM Vincom, Phía Nam Cầu Kỳ Lừa, Phường Chi Lăng, Thành phố Lạng Sơn, Tỉnh Lạng Sơn",0899.49.04.07,Lạng Sơn,Vinfas,8
+VinFast Đà Lạt,"Số 22 Đường Ba Tháng Tư, Phường 3, TP. Đà Lạt, Lâm Đồng",0899.49.04.07,Lâm Đồng,Vinfas,8
+VinFast VCP Bảo Lộc,"Vincom Plaza Bảo Lộc, 83 Lê Hồng Phong, Phường 1, TP. Bảo Lộc, Tỉnh Lâm Đồng",0899.49.04.07,Lâm Đồng,Vinfas,8
+VinFast Long An,"Tầng 1 Vincom Plaza Tân An, Góc đường Hùng Vương và đường Mai Thị Tốt, Phường 2, TP. Tân An, Tỉnh Long An",0899.49.04.07,Long An,Vinfas,8
+VinFast Nam Định,"Đại lộ Thiên Trường, Phường Lộc Hòa, TP. Nam Định",0899.49.04.07,Nam Định,Vinfas,8
+VinFast Vinh,"Đường 72m, Phường Hà Huy Tập, Thành Phố Vinh, Tỉnh Nghệ An",0899.49.04.07,Nghệ An,Vinfas,8
+VinFast Ninh Bình,"1065 Trần Hưng Đạo, Phường Vân Giang, TP. Ninh Bình, Tỉnh Ninh Bình",0899.49.04.07,Ninh Bình,Vinfas,8
+VinFast Ninh Thuận,"122 Mười Sáu Tháng Tư, Mỹ Hải, Thành phố Phan Rang-Tháp Chàm, Tỉnh Ninh Thuận",0899.49.04.07,Ninh Thuận,Vinfas,8
+VinFast Duy Hùng - VinFast Phú Thọ,"Khu 11, Xã Phú Lộc, Huyện Phù Ninh, Tỉnh Phú Thọ",0899.49.04.07,Phú Thọ,Vinfas,8
+VinFast Việt Trì,"Tầng 1, TTTM Vincom Plaza Viêt Trì, Đường Hùng Vương, Phường Tiên Cát, Thành phố Việt Trì, Tỉnh Phú Thọ",0899.49.04.07,Phú Thọ,Vinfas,8
+VinFast Thành Thành Phát 1,"Đại Lộ Hùng Vương, Khu 4, Phường Vân Phú, Thành phố Việt Trì, Tỉnh Phú Thọ",0899.49.04.07,Phú Thọ,Vinfas,8
+VinFast Phú Yên,"Vincom Plaza Tuy Hoà, Góc Đông Bắc ngã tư đường Hùng Vương và đường Trần Phú, Phường 7, TP. Tuy Hoà, Phú Yên",0899.49.04.07,Phú Yên,Vinfas,8
+VinFast Đồng Hới,"Tầng 1, TTTM Vincom Plaza Đồng Hới, Quách Xuân Kỳ, Phường Đồng Hải, TP. Đồng Hới, Tỉnh Quảng Bình",0899.49.04.07,Quảng Bình,Vinfas,8
+VinFast Phúc Thành,"306 Lý Thường Kiệt, Phường Đồng Phú, TP. Đồng Hới, Tỉnh Quảng Bình",0899.49.04.07,Quảng Bình,Vinfas,8
+VinFast Quảng Nam,"Vincom Plaza, Phường An Mỹ, TP. Tam Kỳ, Tỉnh Quảng Nam",0899.49.04.07,Quảng Nam,Vinfas,8
+VinFast Quảng Ngãi,"Vincom Quảng Ngãi, số 26, đường Lê Thánh Tôn, Phường Nghĩa Chánh, TP. Quảng Ngãi, Tỉnh Quảng Ngãi",0899.49.04.07,Quảng Ngãi,Vinfas,8
+VinFast VCP Hạ Long,"Vincom Plaza Hạ Long, Khu Cột Đồng Hồ, Phường Bạch Đằng, Thành Phố Hạ Long, Tỉnh Quảng Ninh",0899.49.04.07,Quảng Ninh,Vinfas,8
+VinFast Cẩm Phả,"Tổ 5, Khu Diêm Thủy, TP. Cẩm Phả, Tỉnh Quảng Ninh",0899.49.04.07,Quảng Ninh,Vinfas,8
+VinFast Quảng Trị,"Số 133 đường Lê Duẩn, Thị trấn Ái Tử, Huyện Triệu Phong, Tỉnh Quảng Trị",0899.49.04.07,Quảng Trị,Vinfas,8
+VinFast Sóc Trăng,"Tầng 1, TTTM Vincom Plaza Sóc Trăng, Số 20-22 Trần Hưng Đạo, Khóm 1, P.2, Thành phố Sóc Trăng, Tỉnh Sóc Trăng",0899.49.04.07,Sóc Trăng,Vinfas,8
+VinFast Sơn La,"Tầng 1, TTTM Vincom Plaza Sơn La, Tổ 3, Phường Quyết Thắng, TP. Sơn La, Tỉnh Sơn La",0899.49.04.07,Sơn La,Vinfas,8
+VinFast Tây Ninh,"Vincom Tây Ninh, Số 444 Đường 30/4, Phường 3, TP. Tây Ninh, Tỉnh Tây Ninh",0899.49.04.07,Tây Ninh,Vinfas,8
+VinFast Thăng Long Auto - VinFast Thái Bình,"Đại Lộ Kỳ Đồng - Khu Đô Thị Thái Bình Dragon City, TP. Thái Bình",0899.49.04.07,Thái Bình,Vinfas,8
+Showroom VinFast Thái Nguyên,"286 Lương Ngọc Quyến, Phường Quang Trung, TP. Thái Nguyên, Tỉnh Thái Nguyên",0899.49.04.07,Thái Nguyên,Vinfas,8
+VinFast Minh Đạo,"Km 5, đường Cách Mạng Tháng 8, Cam Giá, Thành phố Thái Nguyên, Tỉnh Thái Nguyên",0899.49.04.07,Thái Nguyên,Vinfas,8
+VinFast Thanh Hóa,"Số 999 Đại lộ Hùng Vương, Phường Đông Hải, Thành phố Thanh Hóa, Tỉnh Thanh Hóa",0899.49.04.07,Thanh Hóa,Vinfas,8
+VinFast Trần Phú - Thanh Hóa,"Tầng 1, TTTM Vincom Plaza Thanh Hóa, 27 Trần Phú, Phường Điện Biên, TP. Thanh Hóa, Tỉnh Thanh Hóa",0899.49.04.07,Thanh Hóa,Vinfas,8
+VinFast Thế Hệ Mới,"38 Phạm Văn Đồng, Phường Vỹ Dạ, Thành phố Huế, Tỉnh Thừa Thiên Huế",0899.49.04.07,Thừa Thiên - Huế,Vinfas,8
+VinFast Mỹ Tho,"Tầng 1 TTTM Vincom Plaza Mỹ Tho, Đường Hùng Vương, Phường 1, Thành phố Mỹ Tho, Tỉnh Tiền Giang",0899.49.04.07,Tiền Giang,Vinfas,8
+VinFast Trà Vinh,"Vincom Plaza, 24 Nguyễn Thị Minh Khai, Phường 2, TP. Trà Vinh, Tỉnh Trà Vinh",0899.49.04.07,Trà Vinh,Vinfas,8
+VinFast Tuyên Quang,"Tầng 1, TTTM Vincom Plaza Tuyên Quang, Số 260 Quang Trung, P. Phan Thiết, Thành phố Tuyên Quang, Tỉnh Tuyên Quang",0899.49.04.07,Tuyên Quang,Vinfas,8
+VinFast Vĩnh Long,"Tầng L1, TTTM Vincom Plaza Vĩnh Long, 55 Phạm Thái Bường, P.4, Thành phố Vĩnh Long, Tỉnh Vĩnh Long",0899.49.04.07,Vĩnh Long,Vinfas,8
+VinFast Vĩnh Phúc,"Đường Nguyễn Tất Thành, Xã Định Trung, TP. Vĩnh Yên, Tỉnh Vĩnh Phúc",0899.49.04.07,Vĩnh Phúc,Vinfas,8
+VinFast Yên Bái,"Tầng 1, TTTM Vincom Plaza, Công viên Yên Hòa, Đường Tô Hiến Thành, TP. Yên Bái, Tỉnh Yên Bái",0899.49.04.07,Yên Bái,Vinfas,8
+SsangYong An Phú,"01 Song hành, Phường An Phú, Quận 2, TP.HCM",0899.49.04.07,TP.HCM,,0
+SsangYong Gò Vấp,"786B Nguyễn Kiệm, Phường 3, Quận Gò Vấp, TP.HCM",0899.49.04.07,TP.HCM,,0
+SsangYong Long Biên,"3 - 5 Nguyễn Văn Linh, Phường Gia Thuỵ, Quận Long Biên, Hà Nội",0899.49.04.07,Hà Nội,,0
+SsangYong Thăng Long,"Tầng 1 Tòa Nhà CT3 Lô 1 Phạm Văn Đồng, Quận Bắc Từ Liêm, Hà Nội",0899.49.04.07,Hà Nội,,0
+Renault Phú Mỹ Hưng,"Tòa Nhà Beautiful Sài Gòn 02 Nguyễn Khắc Viện, Quận 7, TP.HCM",0899.49.04.07,TP.HCM,Renault,3
+Renault Hà Nội,"68 Lê Văn Lương, Quận Thanh Xuân, Hà Nội",0899.49.04.07,Hà Nội,Renault,3
+Renault Vinh,"Đại lộ Lê Nin, TP. Vinh, Nghệ An",0899.49.04.07,Nghệ An,Renault,3
+Renault Gia Lai,"517A Lê Duẩn, Phường Thắng Lợi, TP. Pleiku, Tỉnh Gia Lai",0899.49.04.07,Gia Lai,Renault,3
+Renault Đắk Lắk,"Tổ 6 Khối 6, Tôn Đức Thắng, Phường Tân An, TP. Buôn Ma Thuột, Tỉnh Đắk Lắk",0899.49.04.07,Đắk Lắk,Renault,3
+Renault Hải Phòng,"552 Nguyễn Văn Linh, Phường Vĩnh Niệm, Quận Lê Chân, TP. Hải Phòng",0899.49.04.07,Hải Phòng,Renault,3
+Mazda Gò Vấp,"Số 189 Nguyễn Oanh, Phường 10, Quận Gò Vấp, TPHCM",0899.49.04.07,TP.HCM,Mazda,26
+Mazda Hồ Chí Minh,"TP. Thủ Đức, TPHCM",0899.49.04.07,TP.HCM,Mazda,26
+Mazda Cộng Hòa,"22 Cộng Hoà, Phường 4, Quận Tân Bình, TP.HCM",0899.49.04.07,TP.HCM,Mazda,26
+Mazda Tân Sơn Nhất,"07 Hoàng Minh Giám, Phường 9, Quận Phú Nhuận, TP.HCM",0899.49.04.07,TP.HCM,Mazda,26
+Mazda Thảo Điền,"03 Quốc Hương, Phường Thảo Điền, Quận 2, TP.HCM",0899.49.04.07,TP.HCM,Mazda,26
+Mazda Thiso Sala,"10 Đường Mai Chí Thọ, Phường Thủ Thiêm, TP. Thủ Đức, TP.HCM",0899.49.04.07,TP.HCM,Mazda,27
+Mazda Lê Văn Lương,"Số 68 Lê Văn Lương, Phường Nhân Chính, Quận Thanh Xuân, TP.Hà Nội",0899.49.04.07,Hà Nội,Mazda,26
+Mazda Láng Hạ,"103 Láng Hạ, phường Láng Hạ, quận Đống Đa, Hà Nội",0899.49.04.07,Hà Nội,Mazda,27
+Mazda Giải Phóng,"Số 5 Ngọc Hồi, Phường Hoàng Liệt, Quận Hoàng Mai, TP. Hà Nội",0899.49.04.07,Hà Nội,Mazda,26
+Mazda Long Biên,"105A Lý Sơn, Ngọc Thụy, Quận Long Biên, Hà Nội",0899.49.04.07,Hà Nội,Mazda,26
+Mazda Phạm Văn Đồng,"Lô đất CC2, khu đô thị Thành phố Giao Lưu, Phường Cổ Nhuế 1, Quận Bắc Từ Liêm, Hà Nội (Gần Bộ Công An)",0899.49.04.07,Hà Nội,Mazda,26
+Mazda Trần Khát Chân,"194 Trần Khát Chân, Phường Bạch Đằng, Quận Hai Bà Trưng, Hà Nội",0899.49.04.07,Hà Nội,Mazda,26
+Mazda Hà Đông,"TTTM The K-Park, KĐT Văn Phú, Phường Phúc La, Quận Hà Đông, Hà Nội",0899.49.04.07,Hà Nội,Mazda,26
+Mazda Yên Nghĩa,"Số 948 Quang Trung Kéo Dài, Phường Yên Nghĩa, Quận Hà Đông, Hà Nội",0899.49.04.07,Hà Nội,Mazda,26
+Mazda Mỹ Đình,"Đường Trịnh Văn Bô, Tổ dân phố 5, Phường Phương Canh, Quận Nam Từ Liêm, TP. Hà Nội",0899.49.04.07,Hà Nội,Mazda,26
+Mazda Liên Chiểu,"405 Tôn Đức Thắng, Phường Hoà Minh, Quận Liên Chiểu, TP. Đà Nẵng",0899.49.04.07,Đà Nẵng,Mazda,0
+Mazda Đắk Lắk,"38 Nguyễn Chí Thanh, TP. Buôn Ma Thuột, Đắk Lắk",0899.49.04.07,Đắk Lắk,Mazda,26
+Mazda Buôn Hồ,"824 Hùng Vương, P. Thiện An, TX. Buôn Hồ, Tỉnh Đắk Lắk",0899.49.04.07,Đắk Lắk,Mazda,0
+Mazda Đắk Nông,"Tổ dân phố 5, Phường Nghĩa Thành, Gia Nghĩa, Tỉnh Đắk Nông",0899.49.04.07,Đắk Nông,Mazda,27
+Mazda Biên Hòa,"Số 18A Đường 2A, Phường An Bình, TP. Biên Hòa, Đồng Nai",0899.49.04.07,Đồng Nai,Mazda,26
+Mazda Long Khánh,"Số 535 Đường 21 Tháng 4, Phường Xuân Bình, TP Long Khánh, Đồng Nai",0899.49.04.07,Đồng Nai,Mazda,26
+Mazda Long Thành,"821 Trường Chinh, Tổ 39, Khu Cầu Xéo, TT.Long Thành, Tỉnh Đồng Nai",0899.49.04.07,Đồng Nai,Mazda,27
+Mazda Đồng Tháp,"28 Lý Thường Kiệt, Phường 1, TP. Cao Lãnh, Tỉnh Đồng Tháp",0899.49.04.07,Đồng Tháp,Mazda,26
+Mazda Gia Lai,"244 Nguyễn Tất Thành, Phường Phù Đổng, TP. Pleiku, Gia Lai",0899.49.04.07,Gia Lai,Mazda,26
+Mazda Hà Giang,"Thôn Lâm Đồng, Xã Phương Thiện, TP. Hà Giang",0899.49.04.07,Hà Giang,Mazda,26
+Mazda Hà Nam,"Khu DVTM4, Quốc Lộ 1A, Phường Thanh Châu, TP. Phủ Lý, Tỉnh Hà Nam",0899.49.04.07,Hà Nam,Mazda,26
+Mazda An Giang,"46 Trần Hưng Đạo, Phường Mỹ Thới, TP. Long Xuyên, Tỉnh An Giang",0899.49.04.07,An Giang,Mazda,26
+Mazda Vũng Tàu,"Số 422 Thống Nhất, Phường 8, TP. Vũng Tàu, Tỉnh Bà Rịa - Vũng Tàu",0899.49.04.07,Bà Rịa - Vũng Tàu,Mazda,26
+Mazda Bà Rịa,"Quốc Lộ 51, Phường Phước Trung, TP. Bà Rịa, Bà Rịa - Vũng Tàu",0899.49.04.07,Bà Rịa - Vũng Tàu,Mazda,27
+Mazda Bạc Liêu,"Đường 23/8, Phường 8, TP. Bạc Liêu, tỉnh Bạc Liêu",0899.49.04.07,Bạc Liêu,Mazda,27
+Mazda Bắc Kạn,"Nam Đội Thân, Nông Thượng, Thành phố Bắc Kạn, Tỉnh Bắc Kạn",0899.49.04.07,Bắc Cạn,Mazda,27
+Mazda Bắc Giang,"Cụm Công Nghiệp Dĩnh Kế, Phường Dĩnh Kế, TP.Bắc Giang, Tỉnh Bắc Giang",0899.49.04.07,Bắc Giang,Mazda,26
+Mazda Bắc Ninh,"01 Đường Lê Thái Tổ, Phường Võ Cường, TP. Bắc Ninh, Tỉnh Bắc Ninh",0899.49.04.07,Bắc Ninh,Mazda,26
+Mazda Từ Sơn,"DT179, Khu đô thị Đền Đô, Đình Bảng, TP Từ Sơn, Bắc Ninh",0899.49.04.07,Bắc Ninh,Mazda,27
+Mazda Bến Tre,"Xã Hữu Định, Huyện Châu Thành, Tỉnh Bến Tre",0899.49.04.07,Bến Tre,Mazda,27
+Mazda Bình Dương,"56/9 Đại Lộ Bình Dương, Tổ 15 , KP Bình Giao, Phường Thuận Giao, TP Thuận An, Tỉnh Bình Dương",0899.49.04.07,Bình Dương,Mazda,26
+Mazda Tân Uyên,"60 Nguyễn Văn Linh, Khu phố Tân Long, Phường Tân Hiệp, Thị xã Tân Uyên, Bình Dương",0899.49.04.07,Bình Dương,Mazda,27
+Mazda Thủ Dầu Một,"1220 Đại lộ Bình Dương,Tổ 34, Khu phố 4, Phường Định Hòa, TP. Thủ Dầu Một, Bình Dương",0899.49.04.07,Bình Dương,Mazda,27
+Mazda Bình Định,"Khu Đô Thị Thương Mại An Phú, Đường Tây Sơn, Phường Quang Trung, TP. Quy Nhơn, Tỉnh Bình Định",0899.49.04.07,Bình Định,Mazda,26
+Mazda Bình Phước,"648 Phú Riềng Đỏ, Phường Tân Xuân, Thị Xã Đồng Xoài, Bình Phước",0899.49.04.07,Bình Phước,Mazda,26
+Mazda Chơn Thành,"32-50 Quốc Lộ 13, Tổ 5, Khu Phố 10, Phường Hưng Long, Thị Xã Chơn Thành, Bình Phước",0899.49.04.07,Bình Phước,Mazda,27
+Mazda Phan Thiết,"Quốc Lộ 1A, Thôn Thắng Lợi, Xã Hàm Thắng, Huyện Hàm Thuận Bắc, Tỉnh Bình Thuận",0899.49.04.07,Bình Thuận,Mazda,26
+Mazda Cà Mau,"Lô số 01, đường Vành Đai 2, phường 9, TP. Cà Mau, Cà Mau",0899.49.04.07,Cà Mau,Mazda,27
+Mazda Cao Bằng,"Tổ 9, Phường Đề Thám, TP. Cao Bằng, Cao Bằng",0899.49.04.07,Cao Bằng,Mazda,27
+Mazda Cần Thơ,"Đường Quang Trung, KDC Hưng Phú 1, Phường Hưng Phú, Quận Cái Răng, TP.Cần Thơ",0899.49.04.07,Cần Thơ,Mazda,26
+Mazda Tây Đô,"Số 340 Đường Cách Mạng Tháng 8, Bùi Hữu Nghĩa, Bình Thủy, Cần Thơ",0899.49.04.07,Cần Thơ,Mazda,27
+Mazda Thốt Nốt,"Quốc Lộ 91, KV Thới Thạnh 1, Phường Thới Thuận, Quận Thốt Nốt, TP. Cần Thơ",0899.49.04.07,Cần Thơ,Mazda,27
+Mazda Hà Tĩnh,"427 Trần Phú, Phường Thạch Linh, Thành Phố Hà Tĩnh, Tỉnh Hà Tĩnh",0899.49.04.07,Hà Tĩnh,Mazda,26
+Mazda Hải Dương,"Km1 Đường Nguyễn Lương Bằng, Phường Phạm Ngũ Lão, TP.Hải Dương, Tỉnh Hải Dương",0899.49.04.07,Hải Dương,Mazda,27
+Mazda Chí Linh,"Khu đô thị mới phía Tây, Phường Thanh Bình, Thành phố Hải Dương, Tỉnh Hải Dương",0899.49.04.07,Hải Dương,Mazda,27
+Mazda Hải Phòng,"Số 336 đường Hà Nội, Phường Sở Dầu, Quận Hồng Bàng, TP.Hải Phòng",0899.49.04.07,Hải Phòng,Mazda,26
+Mazda Nguyễn Văn Linh,"552 Nguyễn Văn Linh, Phường Vĩnh Niệm, Quận Lê Chân, Hải Phòng",0899.49.04.07,Hải Phòng,Mazda,27
+Mazda Hòa Bình,"Km 3,5 Quốc Lộ 6, Phố Ngọc, Xã Trung Minh, TP. Hòa Bình, Tỉnh Hòa Bình",0899.49.04.07,Hòa Bình,Mazda,26
+Mazda Hậu Giang,"Quốc Lộ 61C, Ấp 7, Xã Vị Trung, Huyện Vị Thuỷ, Tỉnh Hậu Giang",0899.49.04.07,Hậu Giang,Mazda,27
+Mazda Hưng Yên,"Số 8 Đinh Điền, Phường Lam Sơn, Thành Phố Hưng Yên, Tỉnh Hưng Yên",0899.49.04.07,Hưng Yên,Mazda,26
+Mazda Phố Nối,"Ngã tư Phố Nối A, Quốc lộ 5, Xã Trưng Trắc, Huyện Văn Lâm, Tỉnh Hưng Yên",0899.49.04.07,Hưng Yên,Mazda,27
+Mazda Yên Bái,"Đường Âu Cơ, Tổ 55, Phường Đồng Tâm , Thành phố Yên Bái, Yên Bái",0899.49.04.07,Yên Bái,Mazda,27
+Mazda Nha Trang,"Lô số 1, Khu Vực 2, Đường 23/10, Xã Vĩnh Hiệp, TP. Nha Trang, Tỉnh Khánh Hòa",0899.49.04.07,Khánh Hòa,Mazda,26
+Mazda Kiên Giang,"181 Cách Mạng Tháng 8, Phường Vĩnh Lợi, TP. Rạch Giá, Tỉnh Kiên Giang",0899.49.04.07,Kiên Giang,Mazda,26
+Mazda Kon Tum,"Số 270 Phan Đình Phùng, Phường Duy Tân, TP. Kon Tum, Tỉnh Kon Tum",0899.49.04.07,KonTum,Mazda,26
+Mazda Lào Cai,"Số 1 Võ Nguyên Giáp, Bắc Cường, TX.Lào Cai, Lào Cai",0899.49.04.07,Lào Cai,Mazda,27
+Mazda Lạng Sơn,"Đường Quốc Lộ 1A, Phường Đông Kinh, TP. Lạng Sơn, Tỉnh Lạng Sơn",0899.49.04.07,Lạng Sơn,Mazda,26
+Mazda Đà Lạt,"Số 02 Bis, Đường 3 Tháng 4, Phường 3, TP. Đà Lạt, Lâm Đồng",0899.49.04.07,Lâm Đồng,Mazda,26
+Mazda Bảo Lộc,"Số 288 Trần Phú, Phường Lộc Sơn, TP. Bảo Lộc, Lâm Đồng",0899.49.04.07,Lâm Đồng,Mazda,26
+Mazda Đức Trọng,"Thôn Phú Thạnh, Xã Hiệp Thạnh, Huyện Đức Trọng, Tỉnh Lâm Đồng",0899.49.04.07,Lâm Đồng,Mazda,27
+Mazda Long An,"192-195, Quốc Lộ 1A, Phường 5, Thành Phố Tân An, Tỉnh Long An",0899.49.04.07,Long An,Mazda,26
+Mazda Bến Lức,"131 Quộc Lộ 1A, Ấp Chánh, Xã Long Hiệp, Huyện Bến Lức, Tỉnh Long An",0899.49.04.07,Long An,Mazda,27
+Mazda Nam Định,"Số 19 Đường Trần Hưng Đạo, Phường Trần Hưng Đạo, TP. Nam Định, Tỉnh Nam Định",0899.49.04.07,Nam Định,Mazda,26
+Mazda Vinh,"Ngã tư sân bay, Đại lộ Lenin, TP Vinh, Nghệ An",0899.49.04.07,Nghệ An,Mazda,26
+Mazda Lê Lợi,"Số 219, Đường Lê Lợi, TP Vinh, Tỉnh Nghệ An",0899.49.04.07,Nghệ An,Mazda,26
+Mazda Ninh Bình,"Số 63 Lê Đại Hành, Phường Thanh Bình, TP. Ninh Bình, Tỉnh Ninh Bình",0899.49.04.07,Ninh Bình,Mazda,26
+Mazda Phan Rang,"Quốc Lộ 1A, Xã Thành Hải, TP. Phan Rang, Ninh Thuận",0899.49.04.07,Ninh Thuận,Mazda,27
+Mazda Phú Thọ,"Tổ 52, Khu 12, Đường Nguyễn Tất Thành, Phường Thanh Miếu, TP. Việt Trì, Tỉnh Phú Thọ",0899.49.04.07,Phú Thọ,Mazda,26
+Mazda Phú Yên,"253 Nguyễn Tất Thành, Phường 8, TP. Tuy Hòa, Phú Yên",0899.49.04.07,Phú Yên,Mazda,27
+Mazda Quảng Bình,"Số 95 Đường Hữu Nghị, Phường Nam Lý, TP. Đồng Hới, Tỉnh Quảng Bình",0899.49.04.07,Quảng Bình,Mazda,26
+Mazda Ba Đồn,"Đường Quang Trung, Phường Phú Hải, TP. Đồng Hới, Tỉnh Quảng Bình",0899.49.04.07,Quảng Bình,Mazda,27
+Mazda Quảng Nam,"Quốc Lộ 1A, Phường Tân Thạnh, TP. Tam Kỳ, Tỉnh Quảng Nam",0899.49.04.07,Quảng Nam,Mazda,26
+Mazda Quãng Ngãi,"07 Đinh Tiên Hoàng, Phường Nghĩa Chánh, TP. Quảng Ngãi",0899.49.04.07,Quảng Ngãi,Mazda,26
+Mazda Quảng Ninh,"Km 103, Quốc Lộ 18A, Phường Hà Khẩu, TP. Hạ Long, Quảng Ninh",0899.49.04.07,Quảng Ninh,Mazda,26
+Mazda Móng Cái,"Km4, Phường Hải Yên, TP. Móng Cái, Quảng Ninh",0899.49.04.07,Quảng Ninh,Mazda,27
+Mazda Cẩm Phả,"934 Đặng Châu Tuệ, Km 14, phường Quang Hanh, TP. Cẩm Phả,  Tỉnh Quảng Ninh",0899.49.04.07,Quảng Ninh,Mazda,27
+Mazda Quảng Trị,"QL1A. Xã Triệu Giang, Huyện Triệu Phong, Quảng Trị",0899.49.04.07,Quảng Trị,Mazda,26
+Mazda Sóc Trăng,"Ấp Phụng Hiệp, Xã An Hiệp, Huyện Châu Thành, Tỉnh Sóc Trăng",0899.49.04.07,Sóc Trăng,Mazda,27
+Mazda Sơn La,"Km10, Tổ 5, Phường Chiềng Sinh, TP. Sơn La, Tỉnh Sơn La",0899.49.04.07,Sơn La,Mazda,26
+Mazda Tây Ninh,"Đường Hùng Vương, Khu Phố Thanh Bình A, Thị Trấn Gò Dầu, Huyện Gò Dầu, Tỉnh Tây Ninh",0899.49.04.07,Tây Ninh,Mazda,26
+Mazda Thái Bình,"Km3+500, Đường Hùng Vương, Phường Phú Khánh, TP. Thái Bình",0899.49.04.07,Thái Bình,Mazda,26
+Mazda Thái Nguyên,"Khu QH Dân Cư 3+4, Đường Phan Đình Phùng, Tổ 11, Phường Đồng Quang, TP. Thái Nguyên, Tỉnh Thái Nguyên",0899.49.04.07,Thái Nguyên,Mazda,26
+Mazda Sông Công,"KCN Nguyên Gon, Phường Cải Đan, Thành Phố Sông Công, Tỉnh Thái Nguyên",0899.49.04.07,Thái Nguyên,Mazda,27
+Mazda Thanh Hóa,"759 Bà Triệu, Phường Trường Thi, TP.Thanh Hóa, Tỉnh Thanh Hóa",0899.49.04.07,Thanh Hóa,Mazda,26
+Mazda Thọ Xuân,"Thôn Hữu Lễ 4, Xã Thọ Xương, Thị Trấn Thọ Xuân, Tỉnh Thanh Hóa",0899.49.04.07,Thanh Hóa,Mazda,26
+Mazda Nguyễn Tất Thành,"145 Nguyễn Tất Thành, Phường Thủy Dương, TX. Hương Thủy, Thừa Thiên Huế",0899.49.04.07,Thừa Thiên - Huế,Mazda,27
+Mazda Nguyễn Văn Linh - Huế,"5 Nguyễn Văn Linh, An Hòa, Thành phố Huế, Thừa Thiên Huế",0899.49.04.07,Thừa Thiên - Huế,Mazda,27
+Mazda Tiền Giang,"Khu Phố 2, Phường 10, Thành Phố Mỹ Tho, Tỉnh Tiền Giang",0899.49.04.07,Tiền Giang,Mazda,26
+Mazda Trà Vinh,"Đường Võ Nguyên Giáp, Khóm 1, Phường 8 , TP. Trà Vinh, Tỉnh Trà Vinh",0899.49.04.07,Trà Vinh,Mazda,27
+Mazda Tuyên Quang,"KM5 đường Tuyên Quang-Hà Nội, Xã Lưỡng Vượng, TP. Tuyên Quang, Tuyên Quang",0899.49.04.07,Tuyên Quang,Mazda,27
+Mazda Vĩnh Long,"Số 375A Tân Thuận An, Xã Tân Ngãi, TP. Vĩnh Long, Tỉnh Vĩnh Long",0899.49.04.07,Vĩnh Long,Mazda,26
+Mazda Vĩnh Phúc,"Xóm Phổ, Quất Lưu, Bình Xuyên, Vĩnh Phúc (Cạnh Big C Vĩnh Phúc)",0899.49.04.07,Vĩnh Phúc,Mazda,26
+KIA Gò Vấp,"189 Nguyễn Oanh, Phường 10, Quận Gò Vấp, TP.HCM",0899.49.04.07,TP.HCM,Kia,43
+KIA Nguyễn Văn Trỗi,"80 Nguyễn Văn Trỗi, Phường 8, Quận Phú Nhuận, TP.HCM",0899.49.04.07,TP.HCM,Kia,43
+KIA Thảo Điền,"03 Quốc Hương, Phường Thảo Điền, Quận 2, TP.HCM",0899.49.04.07,TP.HCM,Kia,43
+KIA Kinh Dương Vương,"309A Kinh Dương Vương, Phường An Lạc, Quận Bình Tân, TP Hồ Chí Minh",0899.49.04.07,TP.HCM,Kia,43
+KIA Bình Tân,"75 Võ Văn Kiệt, Phường An Lạc, Quận Bình Tân, TP Hồ Chí Minh",0899.49.04.07,TP.HCM,Kia,43
+KIA Trường Chinh,"38 Chế Lan Viên, Phường Tây Thạnh, Quận Tân Phú, TPHCM",0899.49.04.07,TP.HCM,Kia,43
+KIA Hùng Vương,"8A Lý Thường Kiệt, Phường 12, Quận 5, Hồ Chí Minh",0899.49.04.07,TP.HCM,Kia,56
+KIA Thiso Sala,"10 Mai Chí Thọ, Phường Thủ Thiêm, TP. Thủ Đức, TP.HCM",0899.49.04.07,TP.HCM,Kia,56
+KIA Bạch Đằng,"315 Nguyễn Khoái, Phường Thanh Lương, Quận Hai Bà Trưng, Hà Nội",0899.49.04.07,Hà Nội,Kia,43
+KIA Long Biên,"105A Đường Lý Sơn, Phường Ngọc Thụy, Quận Long Biên, Hà Nội",0899.49.04.07,Hà Nội,Kia,43
+KIA Cầu Diễn,"Km 10.5, Quốc Lộ 32, Đường Cầu Diễn, Phường Phúc Diễn, Quận Bắc Từ Liêm, Hà Nội",0899.49.04.07,Hà Nội,Kia,43
+KIA Giải Phóng,"Km10, Đường Giải Phóng, Xã Tứ Hiệp, Huyện Thanh Trì, Hà Nội",0899.49.04.07,Hà Nội,Kia,35
+KIA Phạm Văn Đồng,"Lô đất CC2, Khu Đô Thị TP.Giao Lưu, Phường Cổ Nhuế 1, Quận Bắc Từ Liêm, Hà Nội",0899.49.04.07,Hà Nội,Kia,43
+KIA Đống Đa,"568 Đường Láng, Phường Láng Hạ, Quận Đống Đa, TP. Hà Nội",0899.49.04.07,Hà Nội,Kia,35
+KIA Mỹ Đình,"22 Trịnh Văn Bô, Phường Mỹ Đình, Quận Nam Từ Liêm, TP. Hà Nội",0899.49.04.07,Hà Nội,Kia,35
+KIA Sơn Tây,"Khu Thành Ngạnh - Phường Trung Sơn Trầm, Thị xã Sơn Tây, Hà Nội",0899.49.04.07,Hà Nội,Kia,56
+KIA Liên Chiểu,"405 Tôn Đức Thắng, Phường Hoà Minh, Quận Liên Chiểu, Thành phố Đà Nẵng",0899.49.04.07,Đà Nẵng,Kia,56
+KIA Phạm Hùng,"27 Phạm Hùng, Phường Hòa Xuân, Quận Cẩm Lệ, TP. Đà Nẵng",0899.49.04.07,Đà Nẵng,Kia,56
+KIA Đắk Lắk,"19 Nguyễn Tất Thành, Phường Tân Lợi, TP. Buôn Ma Thuột, Tỉnh Đắk Lắk",0899.49.04.07,Đắk Lắk,Kia,43
+KIA Đắk Nông,"19 Nguyễn Tất Thành Phường Tân Lợi, TP. Buôn Ma Thuột, Tỉnh Đắk Lắk",0899.49.04.07,Đắk Nông,Kia,45
+KIA Long Khánh,"Số 535 đường 21 tháng 4, Phường Xuân Bình, Thành phố Long Khánh, Đồng Nai",0899.49.04.07,Đồng Nai,Kia,56
+KIA Long Thành,"821 Trường Chinh, Tổ 39, Khu Cầu Xéo, TT. Long Thành, Đồng Nai",0899.49.04.07,Đồng Nai,Kia,56
+KIA Đồng Tháp,"Số 28 Đường Lý Thường Kiệt, Phường 1, TP. Cao Lãnh, Tỉnh Đồng Tháp",0899.49.04.07,Đồng Tháp,Kia,60
+KIA Đồng Tháp - CN Mỹ Phú,"Số 318, Quốc Lộ 30, P.hường Mỹ Phú, TP.Cao Lãnh, Đồng Tháp",0899.49.04.07,Đồng Tháp,Kia,56
+KIA Gia Lai,"93-95-97 Trường Chinh, Phường Phù Đổng, TP. Pleiku, Tỉnh Gia Lai",0899.49.04.07,Gia Lai,Kia,43
+KIA Hà Giang,"Thôn Lâm Đồng, Xã Phương Thiện, TP. Hà Giang",0899.49.04.07,Hà Giang,Kia,43
+KIA Hà Nam,"Khu DVTM4, Quốc Lộ 1A, Phường Thanh Châu, TP. Phủ Lý, Tỉnh Hà Nam",0899.49.04.07,Hà Nam,Kia,43
+KIA An Giang,"25/10 Trần Hưng Đạo, Phường Mỹ Thới, TP. Long Xuyên, Tỉnh An Giang",0899.49.04.07,An Giang,Kia,35
+KIA An Giang - CN Trần Hưng Đạo,"2191-2201 Trần Hưng Đạo, Tổ 3, Khóm An Thới, Phường Mỹ Thới, Thành Phố Long Xuyên, Tỉnh An Giang",0899.49.04.07,An Giang,Kia,56
+KIA Vũng Tàu,"426 Đường Thống Nhất Mới, Phường 8, TP. Vũng Tàu, Tỉnh Bà Rịa - Vũng Tàu",0899.49.04.07,Bà Rịa - Vũng Tàu,Kia,35
+KIA Bà Rịa,"Quốc Lộ 51, Phường Phước Trung, TP. Bà Rịa,  Bà Rịa - Vũng Tàu",0899.49.04.07,Bà Rịa - Vũng Tàu,Kia,56
+KIA Bạc Liêu,"567, Ấp Tân Tạo, TT. Châu Hưng, H. Vĩnh Lợi, Tỉnh Bạc Liêu",0899.49.04.07,Bạc Liêu,Kia,56
+KIA Bắc Kạn,"Thôn Nam Đội Thân, Xã Nông Thượng, TP. Bắc Kạn, Bắc Kạn",0899.49.04.07,Bắc Cạn,Kia,56
+KIA Bắc Giang,"Cụm Công Nghiệp Dĩnh Kế, Phường Dĩnh Kế, TP.Bắc Giang, Tỉnh Bắc Giang",0899.49.04.07,Bắc Giang,Kia,43
+KIA Bắc Ninh,"9 Lê Thái Tổ, Phường Võ Cường, TP. Bắc Ninh, Tỉnh Bắc Ninh",0899.49.04.07,Bắc Ninh,Kia,43
+KIA Từ Sơn,"578 Trần Phú, Phường Đình Bảng, TP. Từ Sơn, Bắc Ninh",0899.49.04.07,Bắc Ninh,Kia,56
+KIA Bến Tre,"Quốc Lộ 60, Khu phố 1, Phường Phú Tân, TP.Bến Tre, Bến Tre",0899.49.04.07,Bến Tre,Kia,56
+KIA Bình Dương,"56/9 Đại Lộ Bình Dương, Tổ 15, Khu Phố Bình Giao, Phường Thuận Giao, Thị Xã Thuận An, Tỉnh Bình Dương",0899.49.04.07,Bình Dương,Kia,39
+KIA Thủ Dầu Một,"1220 Đại Lộ Bình Dương, Tổ 34, Khu Phố 4, Phường Định Hòa, TP. Thủ Dầu Một, Bình Dương",0899.49.04.07,Bình Dương,Kia,56
+KIA Tân Uyên,"60 Nguyễn Văn Linh, Khu phố Tân Long, Phường Tân Hiệp, Thị Xã Tân Uyên, Bình Dương",0899.49.04.07,Bình Dương,Kia,56
+KIA Bình Định,"Khu ĐTTM An Phú, Đường Tây Sơn, Phường Quang Trung, TP. Quy Nhơn, Tỉnh Bình Định",0899.49.04.07,Bình Định,Kia,35
+KIA Bình Phước,"648 Phú Riềng Đỏ, Phường Tân Xuân, Thị Xã Đồng Xoài, Tỉnh Bình Phước",0899.49.04.07,Bình Phước,Kia,43
+KIA Chơn Thành,"32-50 Quốc Lộ 13, Tổ 5, Khu Phố 10, Phường Hưng Long, Thị Xã Chơn Thành, Bình Phước",0899.49.04.07,Bình Phước,Kia,56
+KIA Phan Rang,"Quốc Lộ 1A, Xã Thành Hải, TP. Phan Rang, Ninh Thuận",0899.49.04.07,Ninh Thuận,Kia,56
+KIA Cà Mau,"Lô số 01 Vành Đai 2, Phường 9, Thành phố Cà Mau, Cà Mau",0899.49.04.07,Cà Mau,Kia,56
+KIA Cao Bằng,"Tổ 9, Phường Đề Thám, TP. Cao Bằng, Cao Bằng",0899.49.04.07,Cao Bằng,Kia,56
+KIA Cần Thơ,"Đường Quang Trung, KDC Hưng Phú 1, Phường Hưng Phú, Quận Cái Răng, TP Cần Thơ, Cần Thơ",0899.49.04.07,Cần Thơ,Kia,35
+KIA Tây Đô,"340 Cách Mạng Tháng 8, Phường Bùi Hữu Nghĩa, Quận Bình Thủy, TP. Cần Thơ, Cần Thơ",0899.49.04.07,Cần Thơ,Kia,56
+KIA Thốt Nốt,"QL91, KV Thới Thạnh 1, Phường Thới Thuận, Quận Thốt Nốt, TP. Cần Thơ",0899.49.04.07,Cần Thơ,Kia,56
+KIA Hà Tĩnh,"427 Trần Phú, Phường Thạch Linh, TP. Hà Tĩnh, Tỉnh Hà Tĩnh",0899.49.04.07,Hà Tĩnh,Kia,43
+KIA Hải Dương,"289 Đường Nguyễn Lương Bằng, Phường Phạm Ngũ Lão, TP.Hải Dương, Tỉnh Hải Dương",0899.49.04.07,Hải Dương,Kia,43
+KIA Chí Linh,"Khu Bình Giang, Quốc Lộ 18, Phường Phả Lại, TP. Chí Linh, Hải Dương",0899.49.04.07,Hải Dương,Kia,56
+KIA Hải Phòng,"Số 336 Đường Hà Nội, Phường Sở Dầu, Quận Hồng Bàng, TP. Hải Phòng, Tỉnh Hải Phòng",0899.49.04.07,Hải Phòng,Kia,43
+KIA Hòa Bình,"Km 3.5 QL6, Phố Ngọc, Xã Trung Minh, TP. Hòa Bình, Tỉnh Hòa Bình",0899.49.04.07,Hòa Bình,Kia,43
+KIA Hưng Yên,"Đường Phạm Bạch Hổ, Phường Hiến Nam, TP Hưng Yên, Tỉnh Hưng Yên",0899.49.04.07,Hưng Yên,Kia,56
+KIA Phố Nối,"Ngã tư Phố Nối A, Đường Quốc lộ 5, Xã Trưng Trắc, Huyện Văn Lâm, Tỉnh Hưng Yên",0899.49.04.07,Hưng Yên,Kia,56
+KIA Kiên Giang,"181 Cách Mạng Tháng 8, Phường Vĩnh Lợi, TP. Rạch Giá, Tỉnh Kiên Giang",0899.49.04.07,Kiên Giang,Kia,35
+KIA Phú Quốc,"Khu Phố 10, Tổ 10, Đường Dương Đông - Cửa Cạn, Phường Dương Đông, TP. Phú Quốc, Kiên Giang",0899.49.04.07,Kiên Giang,Kia,56
+KIA Kon Tum,"270 Phan Đình Phùng, Phường Duy Tân, TP. Kon Tum, Tỉnh Kon Tum",0899.49.04.07,KonTum,Kia,43
+KIA Lào Cai,"Km2+900, Đại lộ Trần Hưng Đạo, Phường Bắc Cường, TP. Lào Cai, Tỉnh Lào Cai",0899.49.04.07,Lào Cai,Kia,35
+KIA Lạng Sơn,"KĐT Phía Đông Thành Phố Lạng Sơn, Đường Quốc Lộ 1A, Phường Đông Kinh, TP. Lạng Sơn",0899.49.04.07,Lạng Sơn,Kia,35
+KIA Đà Lạt,"Số 2 Bis Đường Ba Tháng Tư, Phường 3, TP. Đà Lạt, Tỉnh Lâm Đồng",0899.49.04.07,Lâm Đồng,Kia,35
+KIA Bảo Lộc,"288 Trần Phú, Phường Lộc Sơn, TP. Bảo Lộc, Lâm Đồng",0899.49.04.07,Lâm Đồng,Kia,56
+KIA Đức Trọng,"Thôn Phú Thạnh, Xã Hiệp Thạnh, Huyện Đức Trọng, Tỉnh Lâm Đồng",0899.49.04.07,Lâm Đồng,Kia,56
+KIA Long An,"161-163 Hùng Vương nối dài, Phường 6, TP. Tân An, Long An",0899.49.04.07,Long An,Kia,35
+KIA Bến Lức,"131 Quốc Lộ 1A, Ấp Chánh, Xã Long Hiệp, Huyện Bến Lức, Tỉnh Long An",0899.49.04.07,Long An,Kia,56
+KIA Nam Định,"Số 19 Đường Trần Hưng Đạo, Phường Trần Hưng Đạo, TP. Nam Định, Tỉnh Nam Định",0899.49.04.07,Nam Định,Kia,43
+KIA Vinh,"Ngã Tư Sân Bay Vinh, Đại Lộ Lenin, TP. Vinh, Tỉnh Nghệ An",0899.49.04.07,Nghệ An,Kia,43
+KIA Diễn Châu,"Số 15 Quốc Lộ 1, TT Diễn Châu, Huyện Diễn Châu, Nghệ An",0899.49.04.07,Nghệ An,Kia,56
+KIA Ninh Bình,"Số 63 Lê Đại Hành, Phường Thanh Bình, TP. Ninh Bình, Tỉnh Ninh Bình",0899.49.04.07,Ninh Bình,Kia,43
+KIA Phú Thọ,"Tổ 52, Khu 12, Đường Nguyễn Tất Thành, Phường Thanh Miếu, TP. Việt Trì, Phú Thọ",0899.49.04.07,Phú Thọ,Kia,56
+KIA Phú Yên,"Khu đất góc Đông - Nam ngã tư Quốc Lộ 1A và Quốc Lộ 25, Xã Hòa An, Huyện Phú Hòa, Tỉnh Phú Yên",0899.49.04.07,Phú Yên,Kia,56
+KIA Quảng Bình,"95 Hữu Nghị, Phường Nam Lý, TP. Đồng Hới, Tỉnh Quảng Bình",0899.49.04.07,Quảng Bình,Kia,43
+KIA Ba Đồn,"Đường Quang Trung, Phường Phú Hải, TP. Đồng Hới, Quảng Bình",0899.49.04.07,Quảng Bình,Kia,56
+KIA Quảng Nam,"Quốc Lộ 1A, Phường Tân Thạnh, TP. Tam Kỳ, Tỉnh Quảng Nam",0899.49.04.07,Quảng Nam,Kia,43
+KIA Quảng Ngãi,"Số 7 Đinh Tiên Hoàng, Phường Nghĩa Chánh, TP. Quảng Ngãi, Tỉnh Quảng Ngãi",0899.49.04.07,Quảng Ngãi,Kia,43
+KIA Quảng Ninh,"Km103, Quốc Lộ 18A, Phường Hà Khẩu, TP. Hạ Long, Tỉnh Quảng Ninh",0899.49.04.07,Quảng Ninh,Kia,43
+KIA Móng Cái,"Km 4, Phường Hải Yên, TP Móng Cái, Quảng Ninh",0899.49.04.07,Quảng Ninh,Kia,56
+KIA Quảng Trị,"Quốc Lộ 1A, Xã Triệu Giang, Huyện Triệu Phong, Quảng Trị",0899.49.04.07,Quảng Trị,Kia,43
+KIA Sóc Trăng,"Quốc Lộ 1A, Ấp Phụng Hiệp, Xã An Hiệp, Huyện Châu Thành, Tỉnh Sóc Trăng",0899.49.04.07,Sóc Trăng,Kia,56
+KIA Sơn La,"Km 10, Tổ 5 Phường Chiềng Sinh, TP. Sơn La, Tỉnh Sơn La",0899.49.04.07,Sơn La,Kia,43
+KIA Tây Ninh,"Đường Hùng Vương, Khu Phố Thanh Bình A, Thị Trấn Gò Dầu, Huyện Gò Dầu, Tỉnh Tây Ninh",0899.49.04.07,Tây Ninh,Kia,43
+KIA Thái Bình,"Km3 + 500 Đường Hùng Vương, Phường Phú Khánh, TP. Thái Bình, Tỉnh Thái Bình",0899.49.04.07,Thái Bình,Kia,43
+KIA Thái Nguyên,"Khu Dân Cư 3 + 4, Đường Phan Đình Phùng, Phường Đồng Quang, TP. Thái Nguyên, Tỉnh Thái Nguyên",0899.49.04.07,Thái Nguyên,Kia,43
+KIA Sông Công,"KCN Nguyên Gon, Phường Cải Đan, TP. Sông Công, Thái Nguyên",0899.49.04.07,Thái Nguyên,Kia,56
+KIA Thanh Hóa,"Khu Phố 2, Phường Quảng Hưng, TP. Thanh Hoá, Tỉnh Thanh Hóa",0899.49.04.07,Thanh Hóa,Kia,43
+KIA Thọ Xuân,"Hữu Lễ 4, Thọ Xương, Thọ Xuân, Thanh Hóa",0899.49.04.07,Thanh Hóa,Kia,56
+KIA Huế,"05 Nguyễn Văn Linh, Phường An Hoà, Thị Xã Hương Thủy, Tỉnh Thừa Thiên Huế",0899.49.04.07,Thừa Thiên - Huế,Kia,43
+KIA Nguyễn Tất Thành,"145 Nguyễn Tất Thành, Phường Thủy Dương, Thị Xã Hương Thủy, Thừa Thiên Huế",0899.49.04.07,Thừa Thiên - Huế,Kia,56
+KIA Nguyễn Văn Linh,"5 Nguyễn Văn Linh, Phường An Hòa, TP. Huế, Thừa Thiên Huế",0899.49.04.07,Thừa Thiên - Huế,Kia,56
+KIA Tiền Giang,"Khu Phố 2, Phường 10, TP. Mỹ Tho, Tỉnh Tiền Giang",0899.49.04.07,Tiền Giang,Kia,43
+KIA Trà Vinh,"TP. Trà Vinh, Tỉnh Trà Vinh",0899.49.04.07,Trà Vinh,Kia,43
+KIA Tuyên Quang,"Km 5, xã Lưỡng Vượng, Thành phố Tuyên Quang, tỉnh Tuyên Quang",0899.49.04.07,Tuyên Quang,Kia,56
+KIA Vĩnh Long,"Số 82 Tân Thuận An, Phường Tân Ngãi, TP. Vĩnh Long, Tỉnh Vĩnh Long",0899.49.04.07,Vĩnh Long,Kia,43
+KIA Vĩnh Phúc,"Xóm Phổ, Xã Quất Lưu, Huyện Bình Xuyên, Tỉnh Vĩnh Phúc",0899.49.04.07,Vĩnh Phúc,Kia,43
+KIA Yên Bái,"Đường Âu Cơ , Phường Đồng Tâm TP Yên Bái",0899.49.04.07,Yên Bái,Kia,45
+Toyota Đông Sài Gòn,"507 Xa lộ Hà Nội, Phường An Phú, TP.Thủ Đức, TP.HCM",0899.49.04.07,TP.HCM,Toyota,35
+Toyota Đông Sài Gòn - Chi nhánh Toyota Gò Vấp,"18 Phan Văn Trị, Phường 7, Quận Gò Vấp, TP.HCM",0899.49.04.07,TP.HCM,Toyota,35
+Toyota Đông Sài Gòn - Chi nhánh Toyota Quận 9,"01 Lê Văn Chí, Phường Linh Chiểu, TP.Thủ Đức, TP.HCM",0899.49.04.07,TP.HCM,Toyota,35
+Toyota Đông Sài Gòn - Chi nhánh Toyota Nguyễn Văn Lượng,"63A Nguyễn Văn Lượng, Phường 10, Quận Gò Vấp, TP.HCM",0899.49.04.07,TP.HCM,Toyota,35
+Toyota Lý Thường Kiệt,"151A Lý Thường Kiệt, Phường 6, Quận Tân Bình, TP.HCM",0899.49.04.07,TP.HCM,Toyota,35
+Toyota Lý Thường Kiệt - Chi nhánh Toyota Tân Phú,"188 Lê Trọng Tấn, Phường Tây Thạnh, Quận Tân Phú, TPHCM",0899.49.04.07,TP.HCM,Toyota,35
+Toyota Phú Mỹ Hưng,"806 Nguyễn Văn Linh, Phường Tân Phú, Quận 7, TP.HCM",0899.49.04.07,TP.HCM,Toyota,35
+Toyota Bến Thành,"Số 262 Trần Hưng Đạo, Phường Nguyễn Cư Trinh, Quận 1, TP.HCM",0899.49.04.07,TP.HCM,Toyota,35
+Toyota Hùng Vương,"26 Kinh Dương Vương, Phường 13, Quận 6, TP.HCM",0899.49.04.07,TP.HCM,Toyota,35
+Toyota Hùng Vương - Chi Nhánh Toyota Tân Tạo,"1135 Quốc Lộ 1A, KP 5, Phường Tân Tạo, Quận Bình Tân, TP.HCM",0899.49.04.07,TP.HCM,Toyota,35
+Toyota An Sương,"382 Quốc Lộ 22, Phường Trung Mỹ Tây, Quận 12, TP.HCM",0899.49.04.07,TP.HCM,Toyota,35
+Toyota An Thành,"C4/4B KP.3, Bùi Thanh Khiết, Thị Trấn Tân Túc, Quận Bình Chánh, TP.HCM",0899.49.04.07,TP.HCM,Toyota,35
+Toyota Bến Thành - Chi nhánh Bình Tân,"2078 Đại Lộ Võ Văn Kiệt, Phường An Lạc, Quận Bình Tân, TP.HCM",0899.49.04.07,TP.HCM,Toyota,35
+Toyota Hiroshima Long Phước HT,"1792 Nguyễn Duy Trinh, Phường Trường Thạnh, TP. Thủ Đức, TP.HCM",0899.49.04.07,TP.HCM,Toyota,35
+Toyota An Sương - Chi nhánh Trường Chinh,"Số 113 Trường Chinh, Phường Tân Thới Nhất, Quận 12, TP.HCM",0899.49.04.07,TP.HCM,Toyota,35
+Toyota Bến Thành - Chi nhánh Chương Dương,"Số 326 Đại Lộ Võ Văn Kiệt, Phường Cô Giang, Quận 1, TP.HCM",0899.49.04.07,TP.HCM,Toyota,35
+Toyota Đông Sài Gòn - CN Toyota Thủ Đức,"522 Quốc Lộ 13, Khu phố 4, Phường Hiệp Bình Phước, TP. Thủ Đức,  TP.HCM",0899.49.04.07,TP.HCM,Toyota,35
+Toyota Thanh Xuân,"Số 315 Đường Trường Chinh, Phường Khương Mai, Quận Thanh Xuân, Hà Nội",0899.49.04.07,Hà Nội,Toyota,35
+Toyota Mỹ Đình,"Số 15 Đường Phạm Hùng, Phường Mỹ Đình 2, Quận Nam Từ Liêm, Hà Nội",0899.49.04.07,Hà Nội,Toyota,35
+Toyota Mỹ Đình - Chi Nhánh Toyota Cầu Diễn,"Số 10, Km 10 + 600, Quốc Lộ 32, Cầu Diễn, Phường Phú Diễn,  Quận Bắc Từ Liêm, Hà Nội",0899.49.04.07,Hà Nội,Toyota,35
+Toyota IDMC Hoài Đức,"Km15+575, Quốc lộ 32, Trạm Trôi, Huyện Hoài Đức, Hà Nội",0899.49.04.07,Hà Nội,Toyota,35
+Toyota Giải Phóng,"807 Giải Phóng, Phường Giáp Bát, Quận Hoàng Mai, Hà Nội",0899.49.04.07,Hà Nội,Toyota,35
+Toyota Thăng Long,"Số 316 Đường Cầu Giấy, Phường Dịch Vọng, Quận Cầu Giấy, Hà Nội",0899.49.04.07,Hà Nội,Toyota,35
+Toyota Long Biên,"Số 7 - 9 Đường Nguyễn Văn Linh, Phường Gia Thụy, Quận Long Biên, Hà Nội",0899.49.04.07,Hà Nội,Toyota,35
+Toyota Hà Đông,"Do Lộ, Phường Yên Nghĩa, Quận Hà Đông, Hà Nội",0899.49.04.07,Hà Nội,Toyota,35
+Toyota Hoàn Kiếm,"Số 94 Ngô Thì Nhậm, Quận Hai Bà Trưng, Hà Nội",0899.49.04.07,Hà Nội,Toyota,35
+Toyota Giải Phóng - Chi Nhánh Toyota Pháp Vân,"Khu Pháp Vân, Phường Hoàng Liệt, Quận Hoàng Mai, TP. Hà Nội",0899.49.04.07,Hà Nội,Toyota,35
+Toyota Thái Hòa Từ Liêm,"Ngã 3 Tố Hữu - Mộ Lao, Đại Mỗ, Quận Nam Từ Liêm, Hà Nội",0899.49.04.07,Hà Nội,Toyota,35
+Toyota Đà Nẵng,"69-71 Duy Tân, Phường Hòa Thuận Tây, Quận Hải Châu, TP. Đà Nẵng",0899.49.04.07,Đà Nẵng,Toyota,35
+Toyota Đà Nẵng - Chi Nhánh Lê Đình Lý,"Số 151 – 153 Lê Đình Lý, Phường Hòa Thuận Đông, Quận Hải Châu, TP. Đà Nẵng",0899.49.04.07,Đà Nẵng,Toyota,35
+Toyota Okayama Đà Nẵng,"Số 9 đường Phạm Hùng, Phường Hòa Xuân, Quận Cẩm Lệ, TP. Đà Nẵng",0899.49.04.07,Đà Nẵng,Toyota,0
+Toyota Đắk Lắk,"Số 167 Nguyễn Thái Bình, xã Hòa Thắng, TP. Buôn Ma Thuột, Đắk Lắk",0899.49.04.07,Đắk Lắk,Toyota,35
+Toyota Buôn Ma Thuột,"Số 29 Trường Chinh, Phường Tân Lợi, TP. Buôn Ma Thuột, Tỉnh Đắc Lắk",0899.49.04.07,Đắk Lắk,Toyota,35
+Toyota Biên Hòa,"A17, KP.5, Xa lộ Hà Nội, Phường Tân Hiệp, TP. Biên Hòa, Tỉnh Đồng Nai",0899.49.04.07,Đồng Nai,Toyota,35
+Toyota Biên Hòa - Chi Nhánh Toyota Đồng Nai,"01 Xa Lộ Hà Nội, Phường An Bình, Thành Phố Biên Hòa, Tỉnh Đồng Nai",0899.49.04.07,Đồng Nai,Toyota,35
+Toyota Gia Lai,"542 Trường Trinh, Phường Chi Lăng, TP. Pleiku, Tỉnh Gia Lai",0899.49.04.07,Gia Lai,Toyota,35
+Toyota Cần Thơ - Chi nhánh Toyota An Giang,"1785 Đường Trần Hưng Đạo, Phường Mỹ Quý, TP. Long Xuyên, Tỉnh An Giang",0899.49.04.07,An Giang,Toyota,35
+Toyota Vũng Tàu,"168 Đường 3/2, Phường  10, TP. Vũng Tàu, Tỉnh Bà Rịa - Vũng Tàu",0899.49.04.07,Bà Rịa - Vũng Tàu,Toyota,35
+Toyota Bắc Ninh,"Chân cầu Đồng Xép, Đường Lý Thánh Tông, Thị Xã Từ Sơn, Tỉnh Bắc Ninh",0899.49.04.07,Bắc Ninh,Toyota,35
+Toyota Từ Sơn,"Số 1 Đường Lý Thánh Tông, Phường Tân Hồng, TP. Từ Sơn, Tỉnh Bắc Ninh",0899.49.04.07,Bắc Ninh,Toyota,0
+Toyota Bến Tre,"Ấp Phước Thạnh, Xã Tam Phước, Huyện Châu Thành, Tỉnh Bến Tre",0899.49.04.07,Bến Tre,Toyota,35
+Toyota Biên Hòa - CN Bình Dương,"7/30C Đại Lộ Bình Dương, Phường Bình Hòa, TP. Thuận An, Tỉnh Bình Dương",0899.49.04.07,Bình Dương,Toyota,35
+Toyota Bình Định,"Số 278A Đường Nguyễn Thị Định, Phường Nguyễn Văn Cừ, TP. Quy Nhơn, Tỉnh Bình Định",0899.49.04.07,Bình Định,Toyota,35
+Toyota Bình Phước,"Số 1551, đường Phú Riềng Đỏ, khu phố Phú Mỹ, phường Tân Phú, TP. Đồng Xoài, Bình Phước",0899.49.04.07,Bình Phước,Toyota,35
+Toyota Bình Thuận,"Khu Dân Cư Bến Lội Lại An, Thôn Thắng Thuận, Xã Hàm Thắng, Huyện Hàm Thuận Bắc, Tỉnh Bình Thuận",0899.49.04.07,Bình Thuận,Toyota,35
+Toyota Cà Mau,"Số 333 Trần Hưng Đạo, Khóm 1, Phường Tân Thành, TP. Cà Mau, Cà Mau",0899.49.04.07,Cà Mau,Toyota,35
+Toyota Cần Thơ,"K2-0, Đường Võ Nguyên Giáp, KV. Thạnh Thuận, Phường Phú Thứ, Quận Cái Răng, TP. Cần Thơ",0899.49.04.07,Cần Thơ,Toyota,35
+Toyota Ninh Kiều,"57-59A Cách Mạng Tháng 8, Phường An Hoà, Quận Ninh Kiều, TP. Cần Thơ",0899.49.04.07,Cần Thơ,Toyota,35
+Toyota Phú Tài Đức Hà Tĩnh,"Số 15 Trần Phú, TP. Hà Tĩnh, Tỉnh Hà Tĩnh",0899.49.04.07,Hà Tĩnh,Toyota,35
+Toyota Hải Dương,"Km 46 - 47 Quốc Lộ 5, Phường Cẩm Thượng, Cụm CN Cẩm Thượng, TP. Hải Dương, Tỉnh Hải Dương",0899.49.04.07,Hải Dương,Toyota,35
+Toyota Hải Phòng,"274 Lạch Tray, Phường Lạch Tray, Quận Ngô Quyền, TP. Hải Phòng",0901.584.585,Hải Phòng,Toyota,35
+Toyota Nankai Hải Phòng,"Km 88 thôn Lương Quán, Xã Nam Sơn, Huyện An Dương, TP. Hải Phòng",0899.49.04.07,Hải Phòng,Toyota,35
+Toyota Hòa Bình,"Xóm Ngọc, xã Trung Minh, TP. Hòa Bình, Hòa Bình",0899.49.04.07,Hòa Bình,Toyota,35
+Toyota Hưng Yên,"Số 88 Trần Hưng Đạo, phường Lam Sơn, TP. Hưng Yên, Hưng Yên",0899.49.04.07,Hưng Yên,Toyota,35
+Toyota Kiên Giang,"Số 203, đường Lạc Hồng, phường Vĩnh Hiệp, TP. Rạch Giá, Kiên Giang",0899.49.04.07,Kiên Giang,Toyota,35
+Toyota Lào Cai,"Km 3+900, Đại lộ Trần Hưng Đạo, phường Nam Cường, TP. Lào Cai, Lào Cai",0899.49.04.07,Lào Cai,Toyota,35
+Toyota Lạng Sơn,"Lô M4, M6 Cụm Công nghiệp địa phương số 2, Xã Hợp Thành, Huyện Cao Lộc, Lạng Sơn",0899.49.04.07,Lạng Sơn,Toyota,35
+Toyota Long An,"Số 26 Tuyến Tránh, QL1A, Phường 6, TP. Tân An, Tỉnh Long An",0899.49.04.07,Long An,Toyota,35
+Toyota Nam Định,"Quốc Lộ 21B, Phường Lộc Hoà, TP. Nam Định, Tỉnh Nam Định",0899.49.04.07,Nam Định,Toyota,35
+Toyota Vinh,"19 Quang Trung, TP. Vinh, Tỉnh Nghệ An",0899.49.04.07,Nghệ An,Toyota,35
+Toyota Sông Lam,"Đại lộ Vinh - Cửa Lò, Xã Nghi Phú, TP. Vinh, Tỉnh Nghệ An",0899.49.04.07,Nghệ An,Toyota,35
+Toyota Ninh Bình,"Thửa đất số 392, Khu công nghiệp Phúc Sơn, xã Ninh Phúc, TP. Ninh Bình, Ninh Bình",0899.49.04.07,Ninh Bình,Toyota,35
+Toyota Phú Thọ,"268 Đường Nguyễn Tất Thành, Phường Thanh Miếu, TP. Việt Trì, Tỉnh Phú Thọ",0899.49.04.07,Phú Thọ,Toyota,35
+Toyota Phú Yên,"Số 233 Hùng Vương, Phường 5, TP. Tuy Hòa, Phú Yên",0899.49.04.07,Phú Yên,Toyota,35
+Toyota Quảng Bình,"204 Lý Thường Kiệt, Phường Đồng Phú, TP. Đồng Hới, Tỉnh Quảng Bình",0899.49.04.07,Quảng Bình,Toyota,35
+Toyota Quảng Ninh,"Tổ 94, Khu Đồn Điền, Phường Hà Khẩu, TP. Hạ Long, Tỉnh Quảng Ninh",0899.49.04.07,Quảng Ninh,Toyota,35
+Toyota Quảng Ninh - Chi Nhánh Toyota Cẩm Phả,"Tổ 5 khu Hòa Lạc, Phường Cẩm Bình, TP. Cẩm Phả, Tỉnh Quảng Ninh",0899.49.04.07,Quảng Ninh,Toyota,35
+Toyota Quảng Trị,"Quốc Lộ 1A, Triệu Giang, Huyện Triệu Phong, Quảng Trị",0899.49.04.07,Quảng Trị,Toyota,35
+Toyota Tây Bắc,"Km10, Quốc Lộ 6, Phường Chiềng Sinh, TP. Sơn La, Sơn La",0899.49.04.07,Sơn La,Toyota,35
+Toyota Lý Thường Kiệt - Chi Nhánh Toyota Tây Ninh,"Số 50 Hoàng Lê Kha, Khu phố 3, TP. Tây Ninh, Tỉnh Tây Ninh",0899.49.04.07,Tây Ninh,Toyota,35
+Toyota Thái Bình,"QL39A, Xã Đông Mỹ, Huyện Đông Hưng, TP Thái Bình, Tỉnh Thái Bình",0899.49.04.07,Thái Bình,Toyota,35
+Toyota Thái Nguyên,"Đường CMT8, Phường Cam Giá, TP. Thái Nguyên, Tỉnh Thái Nguyên",0899.49.04.07,Thái Nguyên,Toyota,35
+Toyota Thanh Hóa,"Số 253 Trần Phú, Phường Ba Đình, TP. Thanh Hóa, Tỉnh Thanh Hóa",0899.49.04.07,Thanh Hóa,Toyota,35
+Toyota Doanh Thu Thanh Hóa,"Ngã tư Đại lộ Võ Nguyên Giáp, Phường Quảng Thành, TP. Thanh Hoá, Tỉnh Thanh Hoá",0899.49.04.07,Thanh Hóa,Toyota,35
+Toyota Huế,"Lô C, KĐT Phú Mỹ An, đường Tố Hữu, Phường An Đông, TP. Huế, Thừa Thiên Huế",0899.49.04.07,Thừa Thiên - Huế,Toyota,35
+Toyota Tiền Giang,"Ấp Long Tường, Xã Long An, Huyện Châu Thành, Tỉnh Tiền Giang",0899.49.04.07,Tiền Giang,Toyota,35
+Toyota Tuyên Quang,"Đường Bình Thuận, tổ 3, Phường Hưng Thành, TP. Tuyên Quang, Tuyên Quang",0899.49.04.07,Tuyên Quang,Toyota,35
+Toyota Thập Nhất Phong Vĩnh Long,"Số 11B/2, Quốc Lộ 1, Ấp Tân Bình, Xã Tân Hạnh, Huyện Long Hồ, Vĩnh Long",0899.49.04.07,Vĩnh Long,Toyota,35
+Toyota Hiroshima Vĩnh Phúc,"Xã Quất Lưu, Huyện Bình Xuyên, Tỉnh Vĩnh Phúc",0899.49.04.07,Vĩnh Phúc,Toyota,35
+Toyota Yên Bái,"Thôn 02, xã Phúc Lộc, TP. Yên Bái, Yên Bái",0899.49.04.07,Yên Bái,Toyota,35
+Sài Gòn Ford,"Số 61A Cao Thắng, Phường 3, Quận 3, TP.HCM",0899.49.04.07,TP.HCM,Ford,15
+Phổ Quang Ford - Chi Nhánh Sài Gòn Ford,"104 Phổ Quang, Phường 2, Quận Tân Bình, TP.HCM",0899.49.04.07,TP.HCM,Ford,15
+Chế Lan Viên Ford,"Số 39 Chế Lan Viên, Phường Tây Thạnh, Quận Tân Phú, TP.HCM",0899.49.04.07,TP.HCM,Ford,15
+Bến Thành Ford,"Số 831 Trường Chinh, Phường Tây Thạnh, Quận Tân Phú, TP.HCM",0899.49.04.07,TP.HCM,Ford,15
+Suối Tiên Ford,"35 Hoàng Hữu Nam, Phường Tân Phú, TP. Thủ Đức, TP.HCM",0899.49.04.07,TP.HCM,Ford,15
+Western Ford,"Số 530 Đường Kinh Dương Vương, Phường An Lạc, Quận Bình Tân, TP.HCM",0899.49.04.07,TP.HCM,Ford,15
+Nam Sài Gòn Ford - Chi Nhánh Sài Gòn Ford,"161F Dạ Nam, Phường 3, Quận 8, TP. Hồ Chí Minh",0899.49.04.07,TP.HCM,Ford,14
+Tân Thuận Ford,"Lô DVTM - 08 và Lỗ DVTM - 11, Đường Số 7, Khu Chế Xuất Tân Thuận, Phường Tân Thuận Đông, Quận 7, TP. HCM",0899.49.04.07,TP.HCM,Ford,16
+Daklak Ford,"Số 35A Đường Trường Chinh, Phường Tân Lợi, TP. Buôn Ma Thuột, Tỉnh Đắk Lắk",0899.49.04.07,Đắk Lắk,Ford,15
+Đồng Nai Ford,"B04, Khu Phố 3, Khu Thương Mại Amata, Phường Long Bình, TP. Biên Hòa, Tỉnh Đồng Nai",0899.49.04.07,Đồng Nai,Ford,15
+Gia Lai Ford - Chi Nhánh Dana Ford,"284, Lê Duẩn, Phường Thắng lợi, TP. Pleiku, Tỉnh Gia Lai",0899.49.04.07,Gia Lai,Ford,15
+Ford Miền Bắc,Thành Phố Hà Nội,0899.49.04.07,Hà Nội,Ford,15
+Hà Nội Ford,"Số 94 Đường Ngô Thì Nhậm, Quận Hai Bà Trưng, Hà Nội",0899.49.04.07,Hà Nội,Ford,15
+Thăng Long Ford,"Số 105 Đường Láng Hạ, Quận Đống Đa, Hà Nội",0899.49.04.07,Hà Nội,Ford,15
+Tây Mỗ Ford - Chi Nhánh Thăng Long Ford,"Tổ Dân phố Nhuệ Giang, Phường Tây Mỗ, Quận Nam Từ Liêm, Hà Nội",0899.49.04.07,Hà Nội,Ford,15
+Thanh Xuân Ford,"Số 88 Đường Nguyễn Xiển, Phường Hạ Đình, Quận Thanh Xuân, Hà Nội",0899.49.04.07,Hà Nội,Ford,15
+An Đô Ford,"168 Phạm Văn Đồng, Phường Xuân Đỉnh, Quận Bắc Từ Liêm, Hà Nội",0899.49.04.07,Hà Nội,Ford,15
+Hà Thành Ford,"Cụm Công nghiệp Lai Xá, Kim Chung, Hoài Đức, Hà Nội",0899.49.04.07,Hà Nội,Ford,15
+Mỹ Đình Ford - Chi Nhánh Hà Thành Ford,"Số 2 Đường Tôn Thất Thuyết, Phường Mỹ Đình 2, Quận Nam Từ Liêm, Hà Nội",0899.49.04.07,Hà Nội,Ford,15
+Capital Ford - Ford Thủ Đô,"Ngã 3 Pháp Vân Km 8, Đường Giải Phóng, Quận Hoàng Mai, Hà Nội",0899.49.04.07,Hà Nội,Ford,15
+Long Biên Ford,"Số 3, Đường Nguyễn Văn Linh , Phường Gia Thụy, Quận Long Biên, Hà Nội",0899.49.04.07,Hà Nội,Ford,15
+An Giang Ford - Chi Nhánh Western Ford,"26/2A Trần Hưng Đạo, Phường Mỹ Thới, TP. Long Xuyên, Tỉnh An Giang",0899.49.04.07,An Giang,Ford,15
+Bà Rịa Vũng Tàu Ford - Chi Nhánh City Ford,"Quốc Lộ 51, Phường Phước Trung, TP. Bà Rịa, Tỉnh Bà Rịa - Vũng Tàu",0899.49.04.07,Bà Rịa - Vũng Tàu,Ford,15
+Vũng Tàu Ford - Chi Nhánh City Ford,"Số 40A, Đường 30/04, Phường 9, TP. Vũng Tàu, Tỉnh Bà Rịa - Vũng Tàu",0899.49.04.07,Bà Rịa - Vũng Tàu,Ford,15
+Bắc Giang Ford,"Cụm Công Nghiệp Dĩnh Kế, Phường Dĩnh Kế, TP.Bắc Giang, Tỉnh Bắc Giang",0899.49.04.07,Bắc Giang,Ford,15
+Bình Dương Ford,"Lô C13, Đường Hùng Vương,  Phường Hòa Phú, TP. Thủ Dầu Một, Tỉnh Bình Dương",0899.49.04.07,Bình Dương,Ford,15
+Ford Miền Trung,Thành Phố Đà Nẵng,0899.49.04.07,Đà Nẵng,Ford,15
+Dana Ford - Ford Đà Nẵng,"56 Điện Biên Phủ, Phường Chính Gián, Quận Thanh Khê, Thành Phố Đà Nẵng",0899.49.04.07,Đà Nẵng,Ford,15
+Bình Định Ford - Chi Nhánh Dana Ford,"73 Đường Tây Sơn, Phường Quang Trung, TP. Quy Nhơn, Tỉnh Bình Định",0899.49.04.07,Bình Định,Ford,15
+Bình Thuận Ford,"Lô 4/3, Đường số 4, KCN Phan Thiết 1, Xã Phong Nẫm, TP. Phan Thiết, Bình Thuận",0899.49.04.07,Bình Thuận,Ford,15
+Cần Thơ Ford,"Lô 11C, Đường Võ Nguyên Giáp, Phường Phú Thứ, Quận Cái Răng, TP. Cần Thơ, Tỉnh Cần Thơ",0899.49.04.07,Cần Thơ,Ford,15
+Hà Tĩnh Ford,"475 Đường Trần Phú , Phường Thạch Trung, TP. Hà Tĩnh, Tỉnh Hà Tĩnh",0899.49.04.07,Hà Tĩnh,Ford,15
+Hải Dương Ford,"Khu 14, Phường Bình Hàn, TP. Hải Dương, Hải Dương",0899.49.04.07,Hải Dương,Ford,14
+Hải Phòng Ford,"Tổ 3 khu An Trì, Đường 5 mới, Phường Hùng Vương, Quận Hồng Bàng, TP. Hải Phòng",0899.49.04.07,Hải Phòng,Ford,15
+Nha Trang Ford,"Số 51 Đường Lê Hồng Phong, TP. Nha Trang, Tỉnh Khánh Hòa",0899.49.04.07,Khánh Hòa,Ford,15
+Đà Lạt Ford,"Số 108 Đường Hùng Vương, Phường 11, TP. Đà Lạt, Tỉnh Lâm Đồng",0899.49.04.07,Lâm Đồng,Ford,15
+Long An Ford,"Số 354 Quốc Lộ 1A, Khu Phố 9, Huyện Bến Lức, Tỉnh Long An",0899.49.04.07,Long An,Ford,15
+Ninh Thuận Ford,"Quốc Lộ 1A Ngã 3 Long Bình, Xã An Hải, Huyện Ninh Phước, Tỉnh Ninh Thuận",0899.49.04.07,Ninh Thuận,Ford,15
+Quảng Bình Ford,"TP. Đồng Hới, Tỉnh Quảng Bình",0899.49.04.07,Quảng Bình,Ford,15
+Quảng Ninh Ford,"Cầu 3, Phường Cao Xanh, TP. Hạ Long, Tỉnh Quảng Ninh",0899.49.04.07,Quảng Ninh,Ford,15
+Tây Ninh Ford,"Số 226, Quốc lộ 22B, Ấp Hiệp Trường, Xã Hiệp Tân, Huyện Hòa Thành, Tỉnh Tây Ninh",0899.49.04.07,Tây Ninh,Ford,15
+Thái Nguyên Ford,"Đường Cách Mạng Tháng Tám, tổ 3, phường Cam Giá, TP. Thái Nguyên, Thái Nguyên",0899.49.04.07,Thái Nguyên,Ford,14
+Thanh Hóa Ford,"Lô 87, Đại lộ Võ Nguyên Giáp, Phường Quảng Thành, TP. Thanh Hóa, Tỉnh Thanh Hóa",0899.49.04.07,Thanh Hóa,Ford,15
+Hyundai Ngọc An,"327 Quốc Lộ 13, Phường Hiệp Bình Phước, TP. Thủ Đức, TP.HCM",0899.49.04.07,TP.HCM,,30
+Hyundai Ngọc An 1S,"173 Nam Kỳ Khởi Nghĩa, Phường 7, Quận 3, TPHCM",0899.49.04.07,TP.HCM,,30
+Hyundai Trường Chinh - CN Phổ Quang,"66 Phổ Quang, Phường 2, Quận Tân Bình, TP.HCM",0899.49.04.07,TP.HCM,,26
+Hyundai Trường Chinh - CN Hoàng Diệu,"Toà nhà H3 - 384 Hoàng Diệu, Phường 6, Quận 4, TPHCM",0899.49.04.07,TP.HCM,,26
+Hyundai Sài Thành,"1202 Phạm Văn Đồng, Phường Linh Đông, TP. Thủ Đức, TP.HCM",0899.49.04.07,TP.HCM,,26
+Hyundai Miền Nam,"88 Quốc Lộ 1A, Phường An Phú Đông, Quận 12, TP.HCM",0899.49.04.07,TP.HCM,,26
+Hyundai Sài Gòn,"70 Lương Định Của, Phường Bình Khánh, TP.Thủ Đức, TP.HCM",0899.49.04.07,TP.HCM,,26
+Hyundai Sài Gòn 3S,"354 Xa Lộ Hà Nội, Phường Phước Long A, TP.Thủ Đức, TP.HCM",0899.49.04.07,TP.HCM,,26
+Hyundai Đông Sài Gòn,"409 Đường Nguyễn Văn Bá, Phường Trường Thọ, TP. Thủ Đức, TP.HCM",0899.49.04.07,TP.HCM,,26
+Hyundai Đông Sài Gòn - CN Trường Sơn,"31A-31-31B Trường Sơn, Phường 4, Quận Tân Bình, TP.HCM",0899.49.04.07,TP.HCM,,26
+Hyundai An Phú,"30 Mai Chí Thọ, Phường An Phú, Quận 2, TP.HCM",0899.49.04.07,TP.HCM,,26
+Hyundai An Phú 1S,"5A Nguyễn Thị Minh Khai, Phường Bến Nghé, Quận 1, TP.HCM",0899.49.04.07,TP.HCM,,26
+Hyundai Phú Mỹ Hưng,"1052 Nguyễn Văn Linh, Phường Tân Phong, Quận 7, TP.HCM",0899.49.04.07,TP.HCM,,26
+Hyundai Việt Hàn,"387 Quốc Lộ 13, Phường Hiệp Bình Phước, TP. Thủ Đức, TP.HCM",0899.49.04.07,TP.HCM,,30
+Hyundai Gia Định,"166 - 168 Phạm Văn Đồng, Phường 3, Quận Gò Vấp, TP.HCM",0899.49.04.07,TP.HCM,,26
+Hyundai Gia Định 3S - CN Phạm Đình Hổ,"92-94 Phạm Đình Hổ, Phường 2, Quận 6, TP.HCM",0899.49.04.07,TP.HCM,,26
+Hyundai Gia Định 1S - CN Lý Thường Kiệt,"8A Lý Thường Kiệt, Phường 12, Quận 5, TPHCM",0899.49.04.07,TP.HCM,,26
+Hyundai Kinh Dương Vương,"701 Kinh Dương Vương, Phường An Lạc, Quận Bình Tân, TP.HCM",0899.49.04.07,TP.HCM,,26
+Hyundai Kinh Dương Vương 1S - CN Võ Văn Kiệt,"490 Võ Văn Kiệt, Phường Cầu Kho, Quận 1, TPHCM",0899.49.04.07,TP.HCM,,26
+Hyundai Phạm Văn Đồng,"Số 138 Phạm Văn Đồng, Phường Xuân Đỉnh, Quận Bắc Từ Liêm, Hà Nội",0899.49.04.07,Hà Nội,,26
+Hyundai Lê Văn Lương,"41 Võ Chí Công, Phường Xuân La, Quận Tây Hồ, Hà Nội",0899.49.04.07,Hà Nội,,26
+Hyundai Vũ Phạm Hàm,"Tòa nhà E4, T1 Tòa CT3 Vũ Phạm Hàm, Phường Yên Hòa, Quận Cầu Giấy, Hà Nội",0899.49.04.07,Hà Nội,,26
+Hyundai Cầu Diễn,"Ô Số 2, Lô 1, Cụm CN Lai Xá, Phường Kim Chung, Quận Hoài Đức, Hà Nội",0899.49.04.07,Hà Nội,,26
+Hyundai Long Biên,"Số 3+5 Nguyễn Văn Linh, Phường Gia Thụy, Quận Long Biên, Hà Nội",0899.49.04.07,Hà Nội,,26
+Hyundai An Khánh,"C24 - Lô 01 Đô thị mới Geleximco Lê Trọng Tấn, Xã La Phù, Huyện Hoài Đức, Hà Nội",0899.49.04.07,Hà Nội,,26
+Hyundai An Khánh 3S - CN Đại Lộ Thăng Long,"KM 8 + 400 Đại Lộ Thăng Long, Xã An Khánh, Huyện Hoài Đức, Hà Nội",0899.49.04.07,Hà Nội,,26
+Hyundai Sơn Tây,"Km 35, Quốc Lộ 32 Thị trấn Phúc Thọ, Huyện Phúc Thọ, TP Hà Nội",0899.49.04.07,Hà Nội,,26
+Hyundai Hà Đông,"Tổ 17, Do Lộ, Phường Yên Nghĩa, Quận Hà Đông, Hà Nội (Đối diện Bến xe Yên Nghĩa)",0899.49.04.07,Hà Nội,,26
+Hyundai Đông Anh,"Quốc Lộ 3, Tổ 25, Thị Trấn Đông Anh, Huyện Đông Anh, Hà Nội",0899.49.04.07,Hà Nội,,26
+Hyundai Đông Đô,"987 Tam Trinh, Phường Yên Sở, Quận Hoàng Mai, Hà Nội",0899.49.04.07,Hà Nội,,26
+Hyundai Phạm Hùng,"16A Phạm Hùng, Phường Mai Dịch, Quận Cầu Giấy, Hà Nội",0899.49.04.07,Hà Nội,,26
+Hyundai Giải Phóng,"Số 510 Đường Ngọc Hồi, Phường Tứ Kỳ, Quận Thanh Trì, Hà Nội",0899.49.04.07,Hà Nội,,26
+Hyundai Sông Hàn,"86 Duy Tân, Quận Hải Châu, TP. Đà Nẵng",0899.49.04.07,Đà Nẵng,,26
+Hyundai Cẩm Lệ,"158 Cách Mạng Tháng Tám, Phường Khuê Trung, Quận Cẩm Lệ, TP. Đà Nẵng",0899.49.04.07,Đà Nẵng,,26
+Hyundai Sơn Trà,"286 Phạm Hùng, Xã Hòa Phước, Huyện Hòa Vang, TP Đà Nẵng",0899.49.04.07,Đà Nẵng,,26
+Hyundai Ngọc Phát,"Số 26/6, Khu phố 1, Phường Bửu Long, TP. Biên Hòa, Đồng Nai",0899.49.04.07,Đồng Nai,,26
+Hyundai Ngọc Phát - CN Đồng Nai,"D22, Xa Lộ Hà Nội, Phường Long Bình, TP. Biên Hòa, Đồng Nai",0899.49.04.07,Đồng Nai,,31
+Hyundai Đồng Tháp,"Số 89 Nguyễn Huệ, Phường 1, TP. Cao Lãnh, Đồng Tháp",0899.49.04.07,Đồng Tháp,,26
+Hyundai Đồng Tháp - CN Sa Đéc,"Số 48A, Quốc Lộ 80, Phường 2, TP. Sa Đéc, Tỉnh Đồng Tháp",0899.49.04.07,Đồng Tháp,,31
+Hyundai Gia Lai,"278 Lê Duẩn, Phường Thắng Lợi, TP. Pleiku, Tỉnh Gia Lai",0899.49.04.07,Gia Lai,,26
+Hyundai Hà Nam,"Số 16 Đường Lê Duẩn, phường Liêm Chính, TP. Phủ Lý, Hà Nam",0899.49.04.07,Hà Nam,,31
+Hyundai An Giang,"12 Trần Hưng Đạo, P. Mỹ Thới, Thành phố Long Xuyên, An Giang",0899.49.04.07,An Giang,,26
+Hyundai Bà Rịa Vũng Tàu,"Số 611 Quốc Lộ 51, KP. Hương Sơn, Phường Long Hương, TP. Bà Rịa, Tỉnh Bà Rịa - Vũng Tàu",0899.49.04.07,Bà Rịa - Vũng Tàu,,26
+Hyundai Bắc Giang,"Lô 01, Cụm Công Nghiệp Dĩnh Trì, TP. Bắc Giang, Tỉnh Bắc Giang",0899.49.04.07,Bắc Giang,,26
+Hyundai Bắc Ninh,"Đường Lê Thái Tổ, Phường Võ Cường, TP Bắc Ninh",0899.49.04.07,Bắc Ninh,,26
+Hyundai Bến Tre,"Quốc Lộ 60, Ấp 1, Xã Hữu Định, Huyện Châu Thành, Tỉnh Bến Tre",0899.49.04.07,Bến Tre,,26
+Hyundai Bình Dương,"48A Đại Lộ Bình Dương, Phường Phú Hoà, TP. Thủ Dầu Một, Tỉnh Bình Dương",0899.49.04.07,Bình Dương,,26
+Hyundai Bình Dương - CN Thành Phố Mới,"538, Hùng Vương, Phường Phú Mỹ, TP. Thủ Dầu Một, Tỉnh Bình Dương",0899.49.04.07,Bình Dương,,31
+Hyundai Bình Định,"359 Tây Sơn, Phường Quang Trung, TP. Quy Nhơn, Tỉnh Bình Định",0899.49.04.07,Bình Định,,26
+Hyundai Bình Phước,"Khu Phố Tân Trà, Phường Tân Xuân, Thị Xã Đồng Xoài, Tỉnh Bình Phước",0899.49.04.07,Bình Phước,,26
+Hyundai Bình Thuận,"Lô 4/3, Đường số 4, KCN Phan Thiết 1, Xã Phong Nẫm, TP. Phan Thiết, Tỉnh Bình Thuận",0899.49.04.07,Bình Thuận,,26
+Hyundai Cà Mau,"69A, Quốc Lộ 1A, Xã Lý Văn Lâm, TP. Cà Mau, Tỉnh Cà Mau",0899.49.04.07,Cà Mau,,26
+Hyundai Tây Đô,"91 CMT8, Phường An Thới, Quận Bình Thủy, TP. Cần Thơ",0899.49.04.07,Cần Thơ,,26
+Hyundai Hà Tĩnh,"Thôn Gia Ngãi, Xã Thạch Long, Huyện Thạch Hà, Tỉnh Hà Tĩnh",0899.49.04.07,Hà Tĩnh,,26
+Hyundai Hải Dương,"245A Nguyễn Lương Bằng, Phường Thanh Bình, TP.Hải Dương",0899.49.04.07,Hải Dương,,26
+Hyundai Hải Phòng,"742 Nguyễn Văn Linh, Phường Niệm Nghĩa, Quận Lê Chân, Hải Phòng",0899.49.04.07,Hải Phòng,,26
+Hyundai Hoà Bình,"Km 5, Phố Ngọc, Phường Trung Minh, TP. Hòa Bình, Hòa Bình",0899.49.04.07,Hòa Bình,,56
+Hyundai Hưng Yên,"317 Nguyễn Văn Linh, Phường An Tảo, Thành Phố Hưng Yên, Tỉnh Hưng Yên",0899.49.04.07,Hưng Yên,,26
+Hyundai Nha Trang,"Km6 đường 23/10, Thôn Võ Cang, Xã Vĩnh Trung, TP. Nha Trang, Khánh Hòa",0899.49.04.07,Khánh Hòa,,26
+Hyundai Kiên Giang,"Số 68 Võ Văn Kiệt, Ấp Thạnh Bình, Xã Thạnh Lộc, Huyện Châu Thành, Tỉnh Kiên Giang",0899.49.04.07,Kiên Giang,,26
+Hyundai Lào Cai,"Đại lộ Trần Hưng Đạo và đường B4A, Phường Nam Cường, TP. Lào Cai, Lào Cai",0899.49.04.07,Lào Cai,,31
+Hyundai Đà Lạt,"Số 12 Đường 3 Tháng 4, Phường 3, TP. Đà Lạt, Tỉnh Lâm Đồng",0899.49.04.07,Lâm Đồng,,26
+Hyundai Long An,"24 Quốc Lộ 1, Khu Dân Cư Trung Tâm  Hành Chính Tỉnh, Phường 6, TP. Tân An, Tỉnh Long An",0899.49.04.07,Long An,,26
+Hyundai Long An - CN Hùng Vương,"77 Hùng Vương, Phường 2, TP. Tân An, Long An",0899.49.04.07,Long An,,31
+Hyundai Nam Định,"9A Đại Lộ Đông A, Phường Lộc Vượng, TP. Nam Định, Tỉnh Nam Định",0899.49.04.07,Nam Định,,26
+Hyundai Vinh,"Km số 3 + 500 Đại Lộ Lê Nin, Xã Nghi Phú, TP.Vinh, Tỉnh Nghệ An",0899.49.04.07,Nghệ An,,26
+Hyundai Vinh - CN Diễn Châu,"Quốc Lộ 1A , Ngọc Tân, Xã Diễn Ngọc, Huyện Diễn Châu, Nghệ An",0899.49.04.07,Nghệ An,,31
+Hyundai Ninh Bình,"Lô C5, KCN Gián Khẩu, Huyện Gia Viễn, TP. Ninh Bình",0899.49.04.07,Ninh Bình,,26
+Hyundai Việt Trì,"Đường Hùng Vương, Khu 4, Phường Vân Phú, TP. Việt Trì, Tỉnh Phú Thọ",0899.49.04.07,Phú Thọ,,26
+Hyundai Phú Yên 1S,"Quốc Lộ 1A, Thôn Phú Vang, Xã Bình Kiến, TP. Tuy Hòa, Phú Yên",0899.49.04.07,Phú Yên,,31
+Hyundai Quảng Bình,"Quốc Lộ 1A, Phường Phú Hải, TP. Đồng Hới, Tỉnh Quảng Bình",0899.49.04.07,Quảng Bình,,26
+Hyundai Quảng Nam,"Quốc lộ 1A, P. Tân Thạnh, TP. Tam Kì, Quảng Nam",0899.49.04.07,Quảng Nam,,31
+Hyundai Quảng Ngãi,"Quốc Lộ 1A, Xã Tịnh Ấn Đông, Quận Sơn Tịnh, TP. Quảng Ngãi, Tỉnh Quảng Ngãi",0899.49.04.07,Quảng Ngãi,,26
+Hyundai Quảng Ninh 3S,"Km 105, Quốc Lộ 18, Phường Hà Khẩu, TP. Hạ Long, Tỉnh Quảng Ninh",0899.49.04.07,Quảng Ninh,,31
+Hyundai Quảng Ninh - CN Cẩm Phả,"898 Đặng Châu Tuệ, Quang Hanh, TP. Cẩm Phả, Quảng Ninh",0899.49.04.07,Quảng Ninh,,31
+Hyundai Quảng Trị,"Quốc Lộ 1A, Triệu Giang, Huyện Triệu Phong, Tỉnh Quảng Trị",0899.49.04.07,Quảng Trị,,26
+Hyundai Sóc Trăng,"TP. Sóc Trăng, Tỉnh Sóc Trăng",0899.49.04.07,Sóc Trăng,,26
+Hyundai Sơn La,"Km 10, Tổ 5, Phường Chiềng Sinh, TP. Sơn La, Tỉnh Sơn La",0899.49.04.07,Sơn La,,31
+Hyundai Tây Ninh,"Số 21 Đường 30/4, Khu phố 4, TP.  Tây Ninh, Tỉnh Tây Ninh",0899.49.04.07,Tây Ninh,,26
+Hyundai Thái Bình,"204 Lý Thường Kiệt, Phường Kỳ Bá, TP. Thái Bình, Tỉnh Thái Bình",0899.49.04.07,Thái Bình,,26
+Hyundai Thái Nguyên,"Đường Bắc Sơn, Tổ 23, Phường Hoàng Văn Thụ, TP.Thái Nguyên",0899.49.04.07,Thái Nguyên,,26
+Hyundai Thanh Hóa,"MBQH 2792, Đại Lộ Hùng Vương, Phường Đông Hải, TP Thanh Hóa, Tỉnh Thanh Hóa",0899.49.04.07,Thanh Hóa,,26
+Hyundai Thanh Hóa - CN Ngọc Lặc,"Khu phố cao thượng, Thị Trấn Ngọc Lặc, Huyện Ngọc Lặc, Thanh Hoá",0899.49.04.07,Thanh Hóa,,31
+Hyundai Huế,"97 An Dương Vương, Phường An Đông, TP. Huế, Thừa Thiên - Huế",0899.49.04.07,Thừa Thiên - Huế,,31
+Hyundai Huế 3S - CN Hương Thủy,"Số 434 Nguyễn Tất Thành, Phường Thủy Phương, Thị xã Hương Thủy, Tỉnh Thừa Thiên Huế",0899.49.04.07,Thừa Thiên - Huế,,26
+Hyundai Tiền Giang,"539/3 Quốc Lộ 1, Ấp Long Tường, Xã Long An, Huyện Châu Thành, Tỉnh Tiền Giang",0899.49.04.07,Tiền Giang,,26
+Hyundai Trà Vinh,"TP. Trà Vinh, Tỉnh Trà Vinh",0899.49.04.07,Trà Vinh,,26
+Hyundai Tuyên Quang 3S,"Tổ 8, Phường Hưng Thành, TP. Tuyên Quang, Tuyên Quang",0899.49.04.07,Tuyên Quang,,31
+Hyundai Vĩnh Long,"Số 12 Quốc Lộ 1A Ấp Tân Bình, Xã Tân Hạnh, Huyện Long Hồ, Tỉnh Vĩnh Long",0899.49.04.07,Vĩnh Long,,26
+Hyundai Vĩnh Yên,"Thôn Mậu Thông, Phường Khai Quang, TP. Vĩnh Yên, Tỉnh Vĩnh Phúc",0899.49.04.07,Vĩnh Phúc,,26
+Hyundai Yên Bái 3S,"Đường Âu Cơ, Thôn Tiên Phú, Xã Văn Phú, TP. Yên Bái, Tỉnh Yên Bái",0899.49.04.07,Yên Bái,,31
+Honda Ôtô Cộng Hòa,"18 Cộng Hòa, Phường 4, Quận Tân Bình, TPHCM",0899.49.04.07,TP.HCM,Honda,12
+Honda Ôtô Sài Gòn - Quận 2,"136D Mai Chí Thọ, Phường An Phú, TP.Thủ Đức, TPHCM",0899.49.04.07,TP.HCM,Honda,12
+Honda Ôtô Sài Gòn - Quận 7,"Nhà A, Khu chức năng số 4, TTTM Ven Sông, Nguyễn Văn Linh, Phường Tân Phong, Quận 7, TP.HCM",0899.49.04.07,TP.HCM,Honda,12
+Honda Ô tô Sài Gòn - Bình Chánh,"2225 Quốc Lộ 1A, Ấp 3, Xã Tân Quý Tây, Huyện Bình Chánh, TP.HCM",0899.49.04.07,TP.HCM,Honda,14
+Honda Ôtô Kim Thanh,"Số 6 Đường 3-2, Phường 15, Quận 11, TP.HCM",0899.49.04.07,TP.HCM,Honda,12
+Honda Ôtô Phước Thành,"63 Võ Văn Kiệt, Phường An Lạc, Quận Bình Tân, TP.HCM",0899.49.04.07,TP.HCM,Honda,12
+Honda Ôtô Mỹ Đình,"Số 2 Lê Đức Thọ, Phường Mai Dịch, Quận Cầu Giấy, Hà Nội",0899.49.04.07,Hà Nội,Honda,12
+Honda Ôtô An Khánh,"Km9+800, ĐCT08, An Khánh, Huyện Hoài Hoài Đức, Hà Nội",0899.49.04.07,Hà Nội,Honda,12
+Honda Ôtô Giải Phóng,"Km9, Quốc Lộ 1A, Phường Hoàng Liệt, Quận Hoàng Mai, Hà Nội",0899.49.04.07,Hà Nội,Honda,12
+Honda Ôtô Long Biên,"447 Nguyễn Văn Linh, Phường Phúc Đồng, Quận Long Biên, Hà Nội",0899.49.04.07,Hà Nội,Honda,12
+Honda Ôtô Hà Đông,"979 Đường Quang Trung kéo dài, Phường Yên Nghĩa, Quận Hà Đông, Hà Nội",0899.49.04.07,Hà Nội,Honda,12
+Honda Ôtô Phạm Văn Đồng,"354 Phạm Văn Đồng, Phường Cổ Nhuế 2, Quận Bắc Từ Liêm, Hà Nội",0899.49.04.07,Hà Nội,Honda,12
+Honda Ôtô Tây Hồ,"197A Nghi Tàm, Phường Yên Phụ, Quận Tây Hồ, Hà Nội",0899.49.04.07,Hà Nội,Honda,12
+Honda Ôtô Đà Nẵng,"178 Đường 2/9, Quận Hải Châu, TP. Đà Nẵng, Tỉnh Đà Nẵng",0899.49.04.07,Đà Nẵng,Honda,12
+Honda Ôtô Cẩm Lệ,"147 Phạm Hùng, Phường Hòa Xuân, Quận Cẩm Lệ, TP. Đà Nẵng",0899.49.04.07,Đà Nẵng,Honda,14
+Honda Ôtô Đắk Lắk,"145 Nguyễn Chí Thanh, Phường Tân An, TP. Buôn Ma Thuột, Tỉnh Đắk Lắk",0899.49.04.07,Đắk Lắk,Honda,12
+Honda Ôtô Biên Hòa,"B04 Khu Thương Mại Amata, Phường Long Bình, TP. Biên Hòa, Tỉnh Đồng Nai",0899.49.04.07,Đồng Nai,Honda,12
+Honda Ôtô Đồng Tháp,"318 Quốc Lộ 30, KP Phi Kinh, Phường Mỹ Phú, Thành Phố Cao Lãnh, Tỉnh Đồng Tháp",0899.49.04.07,Đồng Tháp,Honda,12
+Honda Ôtô Gia Lai,"519A Lê Duẩn, Phường Thắng Lợi, Thành Phố Pleiku, Tỉnh Gia Lai",0899.49.04.07,Gia Lai,Honda,12
+Honda Ôtô An Giang,"Thành Phố Long Xuyên, Tỉnh An Giang",0899.49.04.07,An Giang,Honda,12
+Honda Ôtô Vũng Tàu,"Quốc Lộ 51, Khu Phố Hương Tân, Phường Long Hương, TP. Bà Rịa, Tỉnh Bà Rịa - Vũng Tàu",0899.49.04.07,Bà Rịa - Vũng Tàu,Honda,12
+Honda Ôtô Bắc Giang,"Cụm Công Nghiệp Dĩnh Kế, Phường Dĩnh Kế, TP.Bắc Giang, Tỉnh Bắc Giang",0899.49.04.07,Bắc Giang,Honda,12
+Honda Ôtô Bắc Ninh,"Đường Lê Thái Tổ, Phường Võ Cường, TP. Bắc Ninh, Tỉnh Bắc Ninh",0899.49.04.07,Bắc Ninh,Honda,12
+Honda Ôtô Bình Dương,"Đại Lộ Bình Dương, KP Bình Đức 2, Phường Bình Hòa, Thị Xã Thuận An, Tỉnh Bình Dương",0899.49.04.07,Bình Dương,Honda,12
+Honda Ôtô Bình Định,"KV5, Đường Tây Sơn, Phường Ghềnh Ráng,  Thành Phố Quy Nhơn, Tỉnh Bình Định",0899.49.04.07,Bình Định,Honda,12
+Honda Ôtô Bình Phước - Đồng Phú,"Đường D1, KCN Bắc Đồng Phú, Thị trấn Tân Phú, Huyện Đồng Phú, Bình Phước",0899.49.04.07,Bình Phước,Honda,14
+Honda Ôtô Bình Thuận,"Khu TM Bến Lội - Lại An - Hàm Thắng, Huyện Hàm Thuận Bắc, Tỉnh Bình Thuận",0899.49.04.07,Bình Thuận,Honda,12
+Honda Ôtô Cần Thơ,"Lô E1-1, Võ Nguyên Giáp, Phường Phú Thứ , Quận Cái Răng, TP. Cần Thơ",0899.49.04.07,Cần Thơ,Honda,12
+Honda Ôtô Hà Tĩnh,"Đường Trần Phú, Khu Quy Hoạch Phân Khu Xã Thạch Trung, Xã Thạch Trung, TP. Hà Tĩnh, Tỉnh Hà Tĩnh",0899.49.04.07,Hà Tĩnh,Honda,12
+Honda Ôtô Hải Dương,"Đường Trường Trinh, Khu Đô Thị Phía Tây, TP. Hải Dương, Tỉnh Hải Dương",0899.49.04.07,Hải Dương,Honda,12
+Honda Ôtô Hưng Yên - Phố Hiến,"Đường Phạm Bạch Hổ, Phường Lam Sơn, TP. Hưng Yên, Hưng Yên",0899.49.04.07,Hưng Yên,Honda,14
+Honda Ôtô Nha Trang,"174 Đường 23/10, Phường Phương Sơn, TP. Nha Trang, Tỉnh Khánh Hòa",0899.49.04.07,Khánh Hòa,Honda,12
+Honda Ôtô Kiên Giang,"Thửa đất số 584, Tờ bản đồ số 59, Đường Lạc Hồng, KP Phi Kinh, Phường Vĩnh Hiệp, Thành Phố Rạch Giá, Tỉnh Kiên Giang",0899.49.04.07,Kiên Giang,Honda,12
+Honda Ôtô Lào Cai,"Km 2+900, Đại Lộ Trần Hưng Đạo, Phường Bắc Cường, TP. Lào Cai, Tỉnh Lào Cai",0899.49.04.07,Lào Cai,Honda,12
+Honda Ôtô Lạng Sơn,"Đường Quốc Lộ 1A, Phường Đông Kinh, TP. Lạng Sơn, Tỉnh Lạng Sơn",0899.49.04.07,Lạng Sơn,Honda,12
+Honda Ôtô Long An - Tân An,"Số 86 Tuyến tránh Quốc Lộ 1A, Phường 6, TP. Tân An, Tỉnh Long An",0899.49.04.07,Long An,Honda,12
+Honda Ôtô Nam Định - Lộc Vượng,"Quốc lộ 10, Phường Lộc Vượng, TP. Nam Định, Tỉnh Nam Định",0899.49.04.07,Nam Định,Honda,12
+Honda Ôtô Vinh,"Đại Lộ Lê Nin, Phường Hưng Dũng, TP. Vinh, Tỉnh Nghệ An",0899.49.04.07,Nghệ An,Honda,12
+Honda Ôtô Sông Lam,"Số 09, Đường Nguyễn Trãi, Phường Quán Bàu, TP. Vinh, Nghệ An",0899.49.04.07,Nghệ An,Honda,14
+Honda Ôtô Ninh Bình,"Đường Trần Nhân Tông, Khu Công Nghiệp Phúc Sơn, TP. Ninh Bình, Tỉnh Ninh Bình",0899.49.04.07,Ninh Bình,Honda,12
+Honda Ôtô Việt Trì,"Khu 4, Phường Vân Phú, Đại Lộ Hùng Vương, TP. Việt Trì, Tỉnh Phú Thọ",0899.49.04.07,Phú Thọ,Honda,12
+Honda Ôtô Quảng Bình - Đồng Hới,"Tổ dân phố Phú Thượng, phường Phú Hải, TP. Đồng Hới, Quảng Bình",0899.49.04.07,Quảng Bình,Honda,14
+Honda Ôtô Quảng Nam - Tam Kỳ,"Khối Phố Hòa Tây, phường Hòa Thuận, TP. Tam Kỳ, Quảng Nam",0899.49.04.07,Quảng Nam,Honda,14
+Honda Ôtô Quảng Trị,"236 Lê Duẩn, TP. Đông Hà, Tỉnh Quảng Trị",0899.49.04.07,Quảng Trị,Honda,12
+Honda Ôtô Hà Hường,"Km 10, Quốc Lộ 6 Sơn La - Hà Nội, Tổ 5, Phường Chiềng Sinh, TP. Sơn La, Tỉnh Sơn La",0899.49.04.07,Sơn La,Honda,12
+Honda Ôtô Kường Ngân,"Số 50 Đường Võ Nguyên Giáp, Phường Hoàng Diệu, TP. Thái Bình, Tỉnh Thái Bình",0899.49.04.07,Thái Bình,Honda,12
+Honda Ôtô Thái Nguyên,"Đường CMT8, Tổ 3, Phường Cam Giá, TP. Thái Nguyên, Tỉnh Thái Nguyên",0899.49.04.07,Thái Nguyên,Honda,12
+Honda Ôtô Thanh Hóa,"Số 92 Đại Lộ Lê Lợi, Phường Đông Hương, TP. Thanh Hóa, Tỉnh Thanh Hóa",0899.49.04.07,Thanh Hóa,Honda,12
+Honda Ôtô Thừa Thiên Huế,"An Vân Dương, Phường An Đông, TP. Huế, Thừa Thiên Huế",0899.49.04.07,Thừa Thiên - Huế,Honda,0
+Honda Ôtô Tiền Giang - Trung Lương,"Ấp 4, xã Tam Hiệp, Huyện Châu Thành, Tiền Giang",0899.49.04.07,Tiền Giang,Honda,14
+Honda Ôtô Vĩnh Long,"Thành Phố Vĩnh Long, Tỉnh Vĩnh Long",0899.49.04.07,Vĩnh Long,Honda,12
+Honda Ôtô Vĩnh Phúc,"Khu Dộc Đồng, Quốc Lộ 2A, Phường Khai Quang, TP. Vĩnh Yên, Tỉnh Vĩnh Phúc",0899.49.04.07,Vĩnh Phúc,Honda,12
+Mitsubishi ISAMCO Nguyễn Biểu,"03 Nguyễn Biểu, Phường 1, Quận 5, TP.HCM",0899.49.04.07,TP.HCM,Mitsubishi,13
+Mitsubishi AMC Tân Thuận Quận 7,"619 Huỳnh Tấn Phát, Phường Tân Thuận Đông, Quận 7, TP.HCM",0899.49.04.07,TP.HCM,Mitsubishi,13
+Mitsubishi Nam Auto,"322 Nguyễn Văn Linh, Phường Bình Thuận, Quận 7, TP.HCM",0899.49.04.07,TP.HCM,Mitsubishi,13
+Mitsubishi SATSCO Tân Sơn Nhất,"1A Hồng Hà, Phường 2, Quận Tân Bình, TP.HCM",0899.49.04.07,TP.HCM,Mitsubishi,13
+Mitsubishi Tôn Thất Tùng,"4 Tôn Thất Tùng, Phường Kim Liên, Quận Đống Đa, Hà Nội",0899.49.04.07,Hà Nội,Mitsubishi,13
+Mitsubishi Vinh Quang,"805 Đường Giải Phóng, Phường Giáp Bát, Quận Hoàng Mai, Hà Nội",0899.49.04.07,Hà Nội,Mitsubishi,13
+Mitsubishi An Dân,"Số 1 Nguyễn Văn Linh, Quận Long Biên, Hà Nội",0899.49.04.07,Hà Nội,Mitsubishi,13
+Mitsubishi Cầu Diễn,"Tổ 15, Phường Phúc Diễn, Quận Bắc Từ Liêm, Hà Nội",0899.49.04.07,Hà Nội,Mitsubishi,11
+Mitsubishi Kim Liên,"26 Phạm Văn Đồng, Phường Xuân Đỉnh, Quận Bắc Từ Liêm, Hà Nội",0899.49.04.07,Hà Nội,Mitsubishi,13
+Mitsubishi Trung Thượng,"Km 8, Đại Lộ Thăng Long, Huyện Hoài Đức, Hà Nội",0899.49.04.07,Hà Nội,Mitsubishi,13
+Mitsubishi Việt Hùng,"936 Quang Trung, Phường Yên Nghĩa, Quận Hà Đông, Hà Nội",0899.49.04.07,Hà Nội,Mitsubishi,13
+Mitsubishi DAESCO Đà Nẵng,"51 Phan Đăng Lưu, Quận Hải Châu, TP. Đà Nẵng",0899.49.04.07,Đà Nẵng,Mitsubishi,13
+Mitsubishi SAVICO Đà Nẵng,"02 Nguyễn Hữu Thọ, Phường Hòa Thuận Tây, Quận Hải Châu, TP. Đà Nẵng",0899.49.04.07,Đà Nẵng,Mitsubishi,13
+Mitsubishi Bắc Quang,"Đường Số 1, Khu Công Nghiệp Biên Hoà, TP. Biên Hoà, Đồng Nai",0899.49.04.07,Đồng Nai,Mitsubishi,13
+Mitsubishi Đồng Tháp,"Thành phố Sa Đéc, Tỉnh Đồng Tháp",0899.49.04.07,Đồng Tháp,Mitsubishi,13
+Mitsubishi Gia Lai,"14-16-18-20 Lý Thái Tổ, Phường Diên Hồng, TP. Pleiku, Tỉnh Gia Lai",0899.49.04.07,Gia Lai,Mitsubishi,13
+Mitsubishi An Giang,"132 Trần Hưng Đạo, Phường Mỹ Thạnh, TP. Long Xuyên, Tỉnh An Giang",0899.49.04.07,An Giang,Mitsubishi,13
+Mitsubishi Bắc Ninh,"9 Lê Thái Tổ, Phường Võ Cường, TP. Bắc Ninh, Tỉnh Bắc Ninh",0899.49.04.07,Bắc Ninh,Mitsubishi,13
+Mitsubishi Bến Tre,"Thành phố Bến Tre, Tỉnh Bến Tre",0899.49.04.07,Bến Tre,Mitsubishi,13
+Mitsubishi MOVEO Bình Dương,"561A Đại Lộ Bình Dương, Phường Hiệp Thành, TP. Thủ Dầu Một, Bình Dương",0899.49.04.07,Bình Dương,Mitsubishi,13
+Mitsubishi MOVEO Thuận An,"20 Đại Lộ Bình Dương, Phường Vĩnh Phú, TP. Thuận An, Tỉnh Bình Dương",0899.49.04.07,Bình Dương,Mitsubishi,13
+Mitsubishi Quy Nhơn,"590 Tây Sơn, Phường Quang Trung, TP. Quy Nhơn, Tỉnh Bình Định",0899.49.04.07,Bình Định,Mitsubishi,13
+Mitsubishi Bình Thuận,"KCN Phan Thiết 1, TP.Phan Thiết, Tỉnh Bình Thuận",0899.49.04.07,Bình Thuận,Mitsubishi,13
+Mitsubishi Cà Mau,"Số 647 đường Nguyễn Tất Thành (QL1A), Xã Lý Văn Lâm, TP. Cà Mau, Cà Mau",0899.49.04.07,Cà Mau,Mitsubishi,14
+Mitsubishi Cần Thơ,"DH1 Võ Nguyên Giáp, Phường Hưng Thạnh, Quận Cái Răng, TP. Cần Thơ",0899.49.04.07,Cần Thơ,Mitsubishi,13
+Mitsubishi Hà Tĩnh,"Số 04 Ngô Quyền, Xã Thạch Trung, TP Hà Tĩnh",0899.49.04.07,Hà Tĩnh,Mitsubishi,13
+Mitsubishi Hải Dương,"Lô 90.2 Đường Trường Trinh, Khu Đô Thị Phía Tây, Phường Tân Bình, TP. Hải Dương, Tỉnh Hải Dương",0899.49.04.07,Hải Dương,Mitsubishi,13
+Mitsubishi Hải Phòng,"189, Đường Hà Nội, Phường Sở Dầu, Quận Hồng Bàng, TP. Hải Phòng",0899.49.04.07,Hải Phòng,Mitsubishi,13
+Mitsubishi Hưng Yên,"TP. Hưng Yên, Tỉnh Hưng Yên",0899.49.04.07,Hưng Yên,Mitsubishi,13
+Mitsubishi G-Star Kiên Giang,"211 Lạc Hồng, Phường Vĩnh Lạc, TP. Rạch Giá, Kiên Giang",0899.49.04.07,Kiên Giang,Mitsubishi,13
+Mitsubishi KonTum,"Số 380C Phan Đình Phùng, phường Ngô Mây, TP. Kon Tum, Kon Tum",0899.49.04.07,KonTum,Mitsubishi,14
+Mitsubishi Lào Cai,"KM 2 + 900 đại lộ Trần Hưng Đạo, Phường Bắc Cường, TP. Lào Cai, Lào Cai",0899.49.04.07,Lào Cai,Mitsubishi,14
+Mitsubishi Lâm Đồng,"TP. Đà Lạt, Tỉnh Lâm Đồng",0899.49.04.07,Lâm Đồng,Mitsubishi,13
+Mitsubishi Long An,"Thành phố Tân An, Tỉnh Long An",0899.49.04.07,Long An,Mitsubishi,13
+Mitsubishi Vinh,"Đại lộ Xô Viết Nghệ Tĩnh, TP. Vinh, Tỉnh Nghệ An",0899.49.04.07,Nghệ An,Mitsubishi,13
+Mitsubishi Ninh Bình,"Đường Trần Nhân Tông, Phường Ninh Phúc, TP. Ninh Bình, Tỉnh Ninh Bình",0899.49.04.07,Ninh Bình,Mitsubishi,13
+Mitsubishi Nam Miền Trung,"Quốc Lộ 1A, Huyện Ninh Phước, Tỉnh Ninh Thuận",0899.49.04.07,Ninh Thuận,Mitsubishi,13
+Mitsubishi Việt Trì,"Tổ 52, khu 12, Phường Thanh Miếu, TP.Việt Trì, Tỉnh Phú Thọ",0899.49.04.07,Phú Thọ,Mitsubishi,13
+Mitsubishi Phú Yên,"227 Nguyễn Tất Thành, Phường 8, TP. Tuy Hoà, Tỉnh Phú Yên",0899.49.04.07,Phú Yên,Mitsubishi,13
+Mitsubishi Quảng Bình,"253 Quang Trung, Phường Phú Hải, TP. Đồng Hới, Tỉnh Quảng Bình",0899.49.04.07,Quảng Bình,Mitsubishi,13
+Mitsubishi Quảng Nam,"351A Hùng Vương, Phường An Xuân, TP. Tam Kỳ, Quảng Nam",0899.49.04.07,Quảng Nam,Mitsubishi,14
+Mitsubishi Quảng Ngãi,"Đường Đinh Tiên Hoàng, Phường Nghĩa Chánh, TP. Quảng Ngãi, Tỉnh Quảng Ngãi",0899.49.04.07,Quảng Ngãi,Mitsubishi,13
+Mitsubishi Quảng Ninh,"17 Đường 279, Bãi Cháy, Thành phố Hạ Long, Tỉnh Quảng Ninh",0899.49.04.07,Quảng Ninh,Mitsubishi,13
+Mitsubishi Quảng Trị,"236 Lê Duẩn, TP. Đông Hà, Tỉnh Quảng Trị",0899.49.04.07,Quảng Trị,Mitsubishi,13
+Mitsubishi Tây Ninh,"Số 96 Quốc lộ 22B, Khu phố Hiệp Hòa, Phường Hiệp Tân, Thị Xã Hoà Thành, Tây Ninh",0899.49.04.07,Tây Ninh,Mitsubishi,14
+Mitsubishi Thái Bình,"Số 140, đường Quang Trung, Phường Trần Hưng Đạo, TP. Thái Bình, Thái Bình",0899.49.04.07,Thái Bình,Mitsubishi,14
+Mitsubishi Thái Nguyên,"706-708 Đường Dương Tự Minh, Phường Quan Triều, TP.Thái Nguyên, Tỉnh Thái Nguyên",0899.49.04.07,Thái Nguyên,Mitsubishi,13
+Mitsubishi Thanh Hóa,"280 Bà Triệu, Phường Đông Thọ, TP. Thanh Hóa, Tỉnh Thanh Hóa",0899.49.04.07,Thanh Hóa,Mitsubishi,13
+Mitsubishi Huế,"141 Nguyễn Tất Thành, Phường Thủy Dương, Thị Xã Hương Thủy, Thừa Thiên Huế",0899.49.04.07,Thừa Thiên - Huế,Mitsubishi,13
+Mitsubishi Tuyên Quang,"Tổ 28, Phường Tân Hà, TP. Tuyên Quang, Tuyên Quang",0899.49.04.07,Tuyên Quang,Mitsubishi,14
+Mitsubishi Vĩnh Phúc,"Thành phố Vĩnh Yên, Tỉnh Vĩnh Phúc",0899.49.04.07,Vĩnh Phúc,Mitsubishi,13
+Nissan Gò Vấp,"786B Nguyễn Kiệm, Phường 3, Quận Gò Vấp, TP.HCM",0899.49.04.07,TP.HCM,Nissan,12
+Nissan Sài Gòn,"816 Sư Vạn Hạnh, Phường 12, Quận 10, TP.HCM",0899.49.04.07,TP.HCM,Nissan,12
+Nissan Miền Tây,"54 Kinh Dương Vương, Phường 13, Quận 6, TP.HCM",0899.49.04.07,TP.HCM,Nissan,12
+Nissan Phú Mỹ,"Số 202-204 Nguyễn Lương Bằng, Khu phố Hưng Phúc, Phường Tân Phú, Quận 7, TP. HCM",0899.49.04.07,TP.HCM,Nissan,14
+Nissan Tân Phú,"69 Chế Lan Viên, Phường Tây Thạnh, Quận Tân Phú, TP.HCM",0899.49.04.07,TP.HCM,Nissan,14
+Nissan Lê Văn Lương,"37 Lê Văn Lương, Toà nhà HUDTOWER, Phường Nhân Chính, Quận Thanh Xuân, Hà Nội",0899.49.04.07,Hà Nội,Nissan,12
+Nissan Kinh Đô,"434 Trần Khát Chân, Quận Hai Bà Trưng, Hà Nội",0899.49.04.07,Hà Nội,Nissan,12
+Nissan Long Biên,"467 Nguyễn Văn Linh, Phường Phúc Đồng, Quận Long Biên, Hà Nội",0899.49.04.07,Hà Nội,Nissan,12
+Nissan Phạm Văn Đồng,"26 Phạm Văn Đồng, Phường Xuân Đỉnh, Quận Bắc Từ Liêm, Hà Nội",0899.49.04.07,Hà Nội,Nissan,12
+Nissan Thăng Long,"Km 12 Đường 32, Phường Phú Diễn, Quận Bắc Từ Liêm, Hà Nội",0899.49.04.07,Hà Nội,Nissan,12
+Nissan Hà Đông,"Km 14+600 Quốc Lộ 6, Phường Yên Nghĩa, Quận Hà Đông, Hà Nội",0899.49.04.07,Hà Nội,Nissan,12
+Nissan Tây Hồ,"189 Nghi Tàm, phường Yên Phụ, Quận Tây Hồ, Hà Nội",0899.49.04.07,Hà Nội,Nissan,14
+Nissan Giải Phóng,"Km12, Quốc Lộ 1A, Xã Tứ Hiệp, Huyện Thanh Trì, Hà Nội",0899.49.04.07,Hà Nội,Nissan,14
+Nissan Đà Nẵng,"875 Nguyễn Hữu Thọ, Phường Khuê Trung, Quận Cẩm Lệ, TP. Đà Nẵng",0899.49.04.07,Đà Nẵng,Nissan,12
+Nissan Buôn Ma Thuột,"135A Lê Thị Hồng Gấm, Phường Tân Lợi, TP. Buôn Ma Thuột, Tỉnh Đắk Lắk",0899.49.04.07,Đắk Lắk,Nissan,12
+Nissan Biên Hòa,"643 Quốc Lộ 1A, Phường Long Bình, TP. Biên Hòa, Tỉnh Đồng Nai",0899.49.04.07,Đồng Nai,Nissan,12
+Nissan Gia Lai,"39A Lê Duẩn, Phường Phù Đổng, TP. Pleiku, Tỉnh Gia Lai",0899.49.04.07,Gia Lai,Nissan,12
+Nissan Bắc Giang,"Khu Công nghiệp Dĩnh Kế, Phường Dĩnh Kế, TP. Bắc Giang",0899.49.04.07,Bắc Giang,Nissan,12
+Nissan Bắc Ninh,"Khu Công Nghiệp Vsip, Số 1 Đại lộ Hữu Nghị, Phù Chẩn, Thị Xã Từ Sơn, Tỉnh Bắc Ninh",0899.49.04.07,Bắc Ninh,Nissan,12
+Nissan Bình Dương,"24 Đại Lộ Bình Dương, Khu Phố Bình Hòa, Phường Lái Thiêu, TP. Thuận An, Bình Dương",0899.49.04.07,Bình Dương,Nissan,12
+Nissan Quy Nhơn,"Quốc Lộ 1D, Phường Quang Trung, TP. Quy Nhơn, Tỉnh Bình Định",0899.49.04.07,Bình Định,Nissan,12
+Nissan Hà Tĩnh,"24-26 Phan Đình Phùng, TP. Hà Tĩnh, Hà Tĩnh",0899.49.04.07,Hà Tĩnh,Nissan,14
+Nissan Hải Phòng,"189 Hùng Vương, Sở Dầu, Quận Hồng Bàng, Hải Phòng",0899.49.04.07,Hải Phòng,Nissan,14
+Nissan Lào Cai,"111 Nhạc Sơn, Phường Cốc Lếu, TP. Lào Cai, Tỉnh Lào Cai",0899.49.04.07,Lào Cai,Nissan,12
+Nissan Vinh,"186 Nguyễn Văn Cừ, TP. Vinh, Nghệ An",0899.49.04.07,Nghệ An,Nissan,12
+Nissan Đồng Hới,"Số 79A Quang Trung, Phường Phú Hải, TP. Đồng Hới, Quảng Bình",0899.49.04.07,Quảng Bình,Nissan,14
+Nissan Hạ Long,"393 Trần Phú, Phường Cao Xanh, TP. Hạ Long, Tỉnh Quảng Ninh",0899.49.04.07,Quảng Ninh,Nissan,12
+Nissan Đông Hà,"258 Lê Duẩn, Phường Đông Lễ, TP. Đông Hà,  Quảng Trị",0899.49.04.07,Quảng Trị,Nissan,12
+Nissan Sơn La,"Tổ 5, Đường Lê Duẩn, Phường Chiềng Sinh, TP. Sơn La, Sơn La",0899.49.04.07,Sơn La,Nissan,14
+Nissan Thái Bình,"Số 292 Trần Thái Tông, TP. Thái Bình, Thái Bình",0899.49.04.07,Thái Bình,Nissan,14
+Nissan Thanh Hóa,"Phố 2, Phường Quảng Hưng, TP. Thanh Hóa, Tỉnh Thanh Hóa",0899.49.04.07,Thanh Hóa,Nissan,12
+Nissan Vĩnh Phúc,"Km 27 Quốc lộ 2, Xã Quất Lưu, Huyện Bình Xuyên, Tỉnh Vĩnh Phúc",0899.49.04.07,Vĩnh Phúc,Nissan,12
+Chevrolet Nam Hải,"Quốc Lộ 51, Phường Phước Trung, TP. Bà Rịa, Tỉnh Bà Rịa Vũng Tàu",0899.49.04.07,Bà Rịa - Vũng Tàu,Chevrolet,6
+Chevrolet Bắc Ninh,"Đường Lê Thái Tổ, Phường Võ Cường, TP. Bắc Ninh",0899.49.04.07,Bắc Ninh,Chevrolet,6
+Chevrolet Nam Thái,"T6/27, Đại lộ Bình Dương, Xã Bình Hòa, Huyện Thuận An, Bình Dương",0899.49.04.07,Bình Dương,Chevrolet,6
+Chevrolet Công Thành,"84 Ybih Aleo, Phường Tân Lợi, TP. Buôn Ma Thuột, Tỉnh Đắk Lắk",0899.49.04.07,Đắk Lắk,Chevrolet,6
+Chevrolet Cần Thơ,"Số 274 Đường 30/4, Phường Hưng Lợi, Quận Ninh Kiều, TP. Cần Thơ",0899.49.04.07,Cần Thơ,Chevrolet,6
+Chevrolet Đà Nẵng,"A2-2 Nút giao thông Tuyên Sơn, Đường 2/9, Quận Hải Châu, TP. Đà Nẵng",0899.49.04.07,Đà Nẵng,Chevrolet,6
+Chevrolet Biên Hòa,"643 Quốc Lộ 1, Khu Phố 2, Phường Long Bình, TP. Biên Hoà, Đồng Nai",0899.49.04.07,Đồng Nai,Chevrolet,6
+Chevrolet Hà Nội,"Số 948 Quang Trung, Phường Yên Nghĩa, Quận Hà Đông, Hà Nội",0899.49.04.07,Hà Nội,Chevrolet,6
+Chevrolet Newway,"183 Phố Yên Lãng (378 Đường Láng rẽ phải 50 m), Phường Thịnh Quang, Quận Đống Đa, Hà Nội",0899.49.04.07,Hà Nội,Chevrolet,6
+Chevrolet Thăng Long Đại Việt,"Số 1 Nguyễn Văn Linh, Phường Gia Thụy, Quận Long Biên, Hà Nội",0899.49.04.07,Hà Nội,Chevrolet,6
+Chevrolet Gia Lai,"306 Phạm Văn Đồng, Phường Thống Nhất, TP. Pleiku, Tỉnh Gia Lai",0899.49.04.07,Gia Lai,Chevrolet,6
+Chevrolet Giải Phóng,"Số 9 Đường Ngọc Hồi, Phường Hoàng Liệt, Quận Hoàng Mai, Hà Nội",0899.49.04.07,Hà Nội,Chevrolet,6
+Chevrolet Thăng Long,"Số 8 Lê Quang Đạo, Phường Mỹ Đình, Quận Từ Liêm, Hà Nội",0899.49.04.07,Hà Nội,Chevrolet,6
+Chevrolet Trường Chinh,"38 Chế Lan Viên, Phường Tây Thạnh, Quận Tân Phú, TP.HCM",0899.49.04.07,TP.HCM,Chevrolet,6
+Chevrolet Việt Long,"936 Quốc Lộ 1A, Phường Thạnh Xuân, Quận 12, TP.HCM",0899.49.04.07,TP.HCM,Chevrolet,6
+Chevrolet Sài Gòn,"161F Dạ Nam, Phường 3, Quận 8, TP. HCM",0899.49.04.07,TP.HCM,Chevrolet,6
+Chevrolet An Thái,"464 Kinh Dương Vương, Phường An Lạc A, Quận Bình Tân, TP.HCM",0899.49.04.07,TP.HCM,Chevrolet,6
+Chevrolet Phú Mỹ Hưng,"1489 Nguyễn Văn Linh, Phường Tân Phong, Quận 7, TP.HCM",0899.49.04.07,TP.HCM,Chevrolet,6
+Chevrolet Đông Đô Thành,"Số 3 Đường Quốc Hương, Phường Thảo Điền, Quận 2, TP.HCM",0899.49.04.07,TP.HCM,Chevrolet,6
+Chevrolet Quảng Trị,"133 Lê Duẩn, Thị Trấn Ái Tử, Huyện Triệu Phong, Quảng Trị",0899.49.04.07,Quảng Trị,Chevrolet,6
+Chevrolet Vinh,"Đường 72m, Phường Hà Huy Tập, Thành Phố Vinh, Tỉnh Nghệ An",0899.49.04.07,Nghệ An,Chevrolet,6
+Chevrolet Thanh Hóa,"Lô 999 Đại lộ Hùng Vương, Phường Đông Hải, TP. Thanh Hóa",0899.49.04.07,Thanh Hóa,Chevrolet,6
+Mercedes-Benz Haxaco Võ Văn Kiệt,"2008 Đại Lộ Võ Văn Kiệt, Phường An Lạc, Quận Bình Tân, TP.HCM",0899.49.04.07,TP.HCM,Mercedes-Benz,22
+Mercedes-Benz VietNam Star Trường Chinh,"02 Trường Chinh, Phường Tây Thạnh, Quận Tân Phú, TP.HCM",0899.49.04.07,TP.HCM,Mercedes-Benz,21
+Mercedes-Benz Miền Nam,Thành Phố Hồ Chí Minh,0899.49.04.07,TP.HCM,Mercedes-Benz,22
+Mercedes-Benz VietNam Star Tân Thuận,"KCX Tân Thuận, Số 2-3 Đường số 7, Phường Tân Thuận Đông, Quận 7, TP.HCM",0899.49.04.07,TP.HCM,Mercedes-Benz,31
+Mercedes-Benz Miền Bắc,Hà Nội,0899.49.04.07,Hà Nội,Mercedes-Benz,22
+Mercedes-Benz Vietnam Star Đài Tư,"Khu Công Ngiệp Hà Nội - Đài Tư, Phường Phúc Lợi, Quận Long Biên, Hà Nội",0899.49.04.07,Hà Nội,Mercedes-Benz,31
+Mercedes-Benz An Du Đà Nẵng,"113 Nguyễn Hữu Thọ, Quận Hải Châu, TP. Đà Nẵng.",0899.49.04.07,Đà Nẵng,Mercedes-Benz,22
+Mercedes-Benz Miền Trung,Thành Phố Đà Nẵng,0899.49.04.07,Đà Nẵng,Mercedes-Benz,22
+Mercedes-Benz Buôn Ma Thuột,"Thành phố Buôn Ma Thuột, Tỉnh Đắk Lắk",0899.49.04.07,Đắk Lắk,Mercedes-Benz,22
+Mercedes-Benz VietNam Star Bình Dương,"Số 4, The Canary, Đại Lộ Bình Dương, Thuận An, Tỉnh Bình Dương (Kế bên AEON Bình Dương)",0899.49.04.07,Bình Dương,Mercedes-Benz,22
+Mercedes-Benz Bình Phước,"Thành Phố Đồng Xoài, Bình Phước",0899.49.04.07,Bình Phước,Mercedes-Benz,22
+Mercedes-Benz Cần Thơ,"Quận Cái Răng, Thành Phố Cần Thơ, Cần Thơ",0899.49.04.07,Cần Thơ,Mercedes-Benz,22
+Mercedes-Benz Miền Tây,Thành Phố Cần Thơ,0899.49.04.07,Cần Thơ,Mercedes-Benz,22
+Mercedes-Benz An Du Hải Phòng,"12 Đường Hà Nội, Phường Quán Toan, Quận Hồng Bàng, TP. Hải Phòng",0899.49.04.07,Hải Phòng,Mercedes-Benz,22
+Mercedes-Benz An Du Nha Trang,"1276 Đường 23/10, Xã Vĩnh Hiệp, TP. Nha Trang, Tỉnh Khánh Hòa",0899.49.04.07,Khánh Hòa,Mercedes-Benz,22
+Mercedes-Benz Kiên Giang,"Thành Phố Rạch Giá, Tỉnh Kiên Giang",0899.49.04.07,Kiên Giang,Mercedes-Benz,22
+Mercedes-Benz Vinh,"Thành Phố Vinh, Tỉnh Nghệ An",0899.49.04.07,Nghệ An,Mercedes-Benz,22
+Mercedes-Benz An Du Quảng Ninh,"Đường Trần Phú, TP. Hạ Long, Tỉnh Quảng Ninh",0899.49.04.07,Quảng Ninh,Mercedes-Benz,22
+Mercedes-Benz Tây Ninh,"Thành Phố Tây Ninh, Tỉnh Tây Ninh",0899.49.04.07,Tây Ninh,Mercedes-Benz,22
+BMW Mini Sala Quận 2,"Số 12 Đường Mai Chí Thọ, Phường An Lợi Đông, Quận 2, TP. Hồ Chí Minh",0899.49.04.07,TP.HCM,Bmw,20
+BMW Phú Mỹ Hưng,"314 Nguyễn Văn Linh, Phường Bình Thuận, Quận 7, TP.HCM",0899.49.04.07,TP.HCM,Bmw,20
+BMW Nguyễn Văn Trỗi,"Số 80 Nguyễn Văn Trỗi,  Phường 8, Quận Phú Nhuận, TP.HCM",0899.49.04.07,TP.HCM,Bmw,20
+BMW Lê Văn Lương,"68 Lê Văn Lương,  Quận Thanh Xuân, TP.Hà Nội",0899.49.04.07,Hà Nội,Bmw,20
+BMW Long Biên,"01 Ngô Gia Tự,  Quận Long Biên, Hà Nội",0899.49.04.07,Hà Nội,Bmw,20
+BMW Lê Duẩn,"132 Lê Duẩn,  Quận Hai Bà Trưng, TP.Hà Nội",0899.49.04.07,Hà Nội,Bmw,20
+BMW Đà Nẵng,"356 Điện Biên Phủ, Phường Thanh Khê Đông, Quận Thanh Khê, TP. Đà Nẵng",0899.49.04.07,Đà Nẵng,Bmw,20
+BMW Đắk Lắk,"Số 19 Nguyễn Tất Thành, Phường Tân Lợi, TP. Buôn Ma Thuột, Đắk Lắk",0899.49.04.07,Đắk Lắk,Bmw,23
+BMW Biên Hòa,"Số 18 Đường 2A, Phường An Bình, TP. Biên Hoà, Đồng Nai",0899.49.04.07,Đồng Nai,Bmw,23
+BMW Cần Thơ,"Đường Quang Trung, KDC Hưng Phú 1, Phường Hưng Phú, Quận Cái Răng, TP. Cần Thơ",0899.49.04.07,Cần Thơ,Bmw,20
+BMW Hải Phòng,"336 Đường Hà Nội, Quận Hồng Bàng, TP. Hải Phòng",0899.49.04.07,Hải Phòng,Bmw,20
+BMW Nha Trang,"Lô số 1, Khu Vực 2, Đường 23/10, Xã Vĩnh Hiệp, TP. Nha Trang, Khánh Hòa",0899.49.04.07,Khánh Hòa,Bmw,20
+BMW Vinh,"Ngã Tư Sân Bay, Xóm 3 Xã Nghi Thú, Thành Phố Vinh, Tỉnh Nghệ An",0899.49.04.07,Nghệ An,Bmw,20
+Lexus Thăng Long,"Ngã tư Phạm Hùng và Dương Đình Nghệ, Phường Mỹ Đình 1, Quận Nam Từ Liêm, Hà Nội",0899.49.04.07,Hà Nội,Lexus,5
+Audi Hà Nội,"08 Phạm Hùng, Phường Mễ Trì, Quận Nam Từ Liêm, Hà Nội",0899.49.04.07,Hà Nội,Audi,12
+Audi Đà Nẵng,"86C Duy Tân, Phường Hòa Thuận Tây, Quận Hải Châu, Đà Nẵng",0899.49.04.07,Đà Nẵng,Audi,12
+Volvo Sài Gòn,"Số 340 Nguyễn Văn Linh, Phường Bình Thuận, Quận 7, TP HCM",0899.49.04.07,TP.HCM,Volvo,9
+Volvo Hà Nội,"Số 7-9 Trung Tâm Thương Mại Savico, Nguyễn Văn Linh, Quận Long Biên, TP. Hà Nội",0899.49.04.07,Hà Nội,Volvo,9
+Volvo Đà Nẵng,"02 Nguyễn Hữu Thọ, Hòa Thuận Nam, Quận Hải Châu, Đà Nẵng",0899.49.04.07,Đà Nẵng,Volvo,9
+Subaru Gò Vấp,"19 Phan Văn Trị, Phường 7, Quận Gò Vấp, TP.HCM",0899.49.04.07,TP.HCM,Subaru,5
+Subaru Quận 7,"Lô TH-1A, Khu Thương Nghiệp Nam, Đường Số 7, KCX Tân Thuận, Phường Tân Thuận Đông, Quận 7, TP.HCM",0899.49.04.07,TP.HCM,Subaru,5
+Subaru Bình Triệu,"242 Phạm Văn Đồng, Phường Hiệp Bình Chánh, TP. Thủ Đức, TP.HCM",0899.49.04.07,TP.HCM,Subaru,5
+Subaru Minh Thanh,"30 - 32 Yersin, Phường Nguyễn Thái Bình, Quận 1, TP.HCM",0899.49.04.07,TP.HCM,Subaru,5
+Subaru Gia Định,"65/1A Lê Thị Riêng, phường Thới An, Quận 12, TP.HCM",0899.49.04.07,TP.HCM,Subaru,5
+Subaru Hà Nội,"Số 1 Mạc Thái Tông, Phường Trung Hòa, Quận Cầu Giấy, Hà Nội",0899.49.04.07,Hà Nội,Subaru,5
+Subaru Giải Phóng,"Số 805 Giải Phóng, Phường Giáp Bát, Quận Hoàng Mai, Hà Nội",0899.49.04.07,Hà Nội,Subaru,5
+Subaru Thăng Long,"Số 26 Phạm Văn Đồng, Phường Xuân Đỉnh, Quận Bắc Từ Liêm, Hà Nội",0899.49.04.07,Hà Nội,Subaru,6
+Subaru Long Biên,"Số 03-05 Nguyễn Văn Linh, Lô số 9, Phường Gia Thụy, Quận Long Biên, Hà Nội",0899.49.04.07,Hà Nội,Subaru,6
+Subaru Đà Nẵng,"Số 158 Đường 2/9, Phường Hòa Thuận Đông, Quận Hải Châu, Thành phố Đà Nẵng",0899.49.04.07,Đà Nẵng,Subaru,5
+Subaru Kim Sơn Đắk Lắk,"90 Nguyễn Chí Thanh, Phường Tân An, TP. Buôn Ma Thuột, Đắk Lắk",0899.49.04.07,Đắk Lắk,Subaru,6
+Subaru Đồng Nai,"22A Xa Lộ Hà Nội, Khu Phố 5, P. Tân Hiệp, TP Biên Hòa, Tỉnh Đồng Nai",0899.49.04.07,Đồng Nai,Subaru,5
+Subaru Bình Dương,"Số 5A Đại Lộ Bình Dương, Kp. Bình Đức 2, Phường Bình Hòa, Thị Xã Thuận An, Tỉnh Bình Dương",0899.49.04.07,Bình Dương,Subaru,5
+Subaru Cần Thơ,"Số 2 Đường Quang Trung, Quận Cái Răng, TP. Cần Thơ",0899.49.04.07,Cần Thơ,Subaru,5
+Subaru Bắc Miền Trung,"Km 516, QL 1A, Phường Thạch Bình, Thành Phố Hà Tĩnh",0899.49.04.07,Hà Tĩnh,Subaru,5
+Subaru Hải Phòng,"Số 75 Đường 5 mới, Phường Hùng Vương, Quận Hồng Bàng, TP. Hải Phòng",0899.49.04.07,Hải Phòng,Subaru,5
+Subaru Nha Trang,"1272 Đường 23/10, Vĩnh Hiệp, TP Nha Trang, Tỉnh Khánh Hòa",0899.49.04.07,Khánh Hòa,Subaru,5
+Subaru Đà Lạt,"Đường 3/4, TP Đà Lạt, Tỉnh Lâm Đồng",0899.49.04.07,Lâm Đồng,Subaru,5
+Subaru Vinh,"300 V.I. Lê Nin, Xã Nghi Phú, TP. Vinh, Nghệ An",0899.49.04.07,Nghệ An,Subaru,6
+Subaru Quảng Trị,"Số 252 Lê Duẩn, Phường Đông Lễ, TP Đông Hà, Tỉnh Quảng Trị",0899.49.04.07,Quảng Trị,Subaru,5
+Peugeot Cộng Hòa,"22 Cộng Hoà, Phường 4, Quận Tân Bình, TP.HCM",0899.49.04.07,TP.HCM,,9
+Peugeot Trường Chinh,"Số 827A - 829, Đường Trường Chinh, Phường Tây Thạnh, Quận Tân Phú, TPHCM",0899.49.04.07,TP.HCM,,9
+Peugeot Hồ Chí Minh,TPHCM,0899.49.04.07,TP.HCM,,9
+Peugeot Phú Nhuận,"157 Phan Đăng Lưu, Phường 1, Quận Phú Nhuận, TP.HCM",0899.49.04.07,TP.HCM,,9
+Peugeot Bình Tân,"75 Võ Văn Kiệt, Khu phố 3, Phường An Lạc, Quận Bình Tân, TP.HCM",0899.49.04.07,TP.HCM,,9
+Peugeot Bình Triệu,"127 Quốc lộ 13, Khu phố 1, Phường Hiệp Bình Chánh, TP. Thủ Đức, TP. HCM",0899.49.04.07,TP.HCM,,9
+Peugeot Thanh Xuân,"12 Khuất Duy Tiến, Quận Thanh Xuân, Hà Nội",0899.49.04.07,Hà Nội,,9
+Peugeot Phạm Văn Đồng,"643 Phạm Văn Đồng, Phường Cổ Nhuê 1, Quận Bắc Từ Liêm, Hà Nội",0899.49.04.07,Hà Nội,,9
+Peugeot Lê Duẩn,"132 Lê Duẩn, Phường Nguyễn Du, Quận Hai Bà Trưng, Hà Nội",0899.49.04.07,Hà Nội,,9
+Peugeot Long Biên,"541 Nguyễn Văn Cừ, Quận Long Biên, Hà Nội",0899.49.04.07,Hà Nội,,9
+Peugeot Giải Phóng,"Km 12, Quốc Lộ 1A, Đường Ngọc Hồi, xã Tứ Hiệp, Huyện Thanh Trì, Hà Nội",0899.49.04.07,Hà Nội,,9
+Peugeot Trường Chinh,"162 Trường Chinh, Phường Khương Thượng, Quận Đống Đa, Hà Nội",0899.49.04.07,Hà Nội,,9
+Peugeot Đà Nẵng,"356 Điện Biên Phủ, Quận Thanh Khê, TP. Đà Nẵng",0899.49.04.07,Đà Nẵng,,9
+Peugeot Đắk Lắk,"19 Nguyễn Tất Thành Phường Tân Lợi, TP. Buôn Ma Thuột, Tỉnh Đắk Lắk",0899.49.04.07,Đắk Lắk,,9
+Peugeot Đắk Nông,"Đường Tôn Đức Thắng, Phường Nghĩa Thành, TP. Gia Nghĩa, Đăk Nông",0899.49.04.07,Đắk Nông,,9
+Peugeot Biên Hòa,"Số 18, Đường 2A, Khu Công Nghiệp Biên Hòa II, TP. Biên Hòa, Tỉnh Đồng Nai",0899.49.04.07,Đồng Nai,,9
+Peugeot Đồng Tháp,"Số 28 Đường Lý Thường Kiệt, Phường 1, TP. Cao Lãnh, Tỉnh Đồng Tháp",0899.49.04.07,Đồng Tháp,,8
+Peugeot Gia Lai,"244 Nguyễn Tất Thành, Phường Phù Đổng, TP. Pleiku, Gia Lai",0899.49.04.07,Gia Lai,,9
+Peugeot Hà Nam,"Khu TMDV4, Phường Thanh Châu, TP. Phủ Lý, Hà Nam",0899.49.04.07,Hà Nam,,9
+Peugeot An Giang,"2070 Trần Hưng Đạo, Phường Mỹ Thới, TP. Long Xuyên, Tỉnh An Giang",0899.49.04.07,An Giang,,9
+Peugeot Vũng Tàu,"Số 21 đường CMT8, Phường Long Hương, TP. Bà Rịa, Tỉnh Bà Rịa Vũng Tàu",0899.49.04.07,Bà Rịa - Vũng Tàu,,9
+Peugeot Bắc Giang,"Cụm Công Nghiệp Dĩnh Kế, Phường Dĩnh Kế, TP.Bắc Giang, Tỉnh Bắc Giang",0899.49.04.07,Bắc Giang,,9
+Peugeot Bắc Ninh,"Vòng Xuyến Hoà Đình, Đường Lê Thái Tổ, Phường Võ Cường, TP Bắc Ninh, Tỉnh Bắc Ninh",0899.49.04.07,Bắc Ninh,,9
+Peugeot Bình Dương,"56/9 Đại Lộ Bình Dương, Tổ 15, Khu Phố Bình Giao, Phường Thuận Giao, TP. Thuận An, Tỉnh Bình Dương",0899.49.04.07,Bình Dương,,9
+Peugeot Bình Định,"Khu Đô thị Thương mại An Phú, đường Tây Sơn, Phường Quang Trung, TP. Quy Nhơn, Tỉnh Bình Định",0899.49.04.07,Bình Định,,9
+Peugeot Bình Phước,"648 Phú Riềng Đỏ, Phường Tân Xuân, Thị Xã Đồng Xoài, Bình Phước",0899.49.04.07,Bình Phước,,9
+Peugeot Phan Thiết,"Quốc Lộ 1A, Thôn Thắng Lợi, Xã Hàm Thắng, Huyện Hàm Thuận Bắc, Tỉnh Bình Thuận",0899.49.04.07,Bình Thuận,,9
+Peugeot Cà Mau,"01 Vành Đai 2, Phường 9, TP. Cà Mau, Cà Mau",0899.49.04.07,Cà Mau,,9
+Peugeot Cần Thơ,"Đường Quang Trung, Khu Dân Cư Hưng Phú 1, Phường Hưng Phú, Quận Cái Răng, TP. Cần Thơ",0899.49.04.07,Cần Thơ,,9
+Peugeot Hà Tĩnh,"427 Trần Phú, Phường Thạch Linh, TP. Hà Tĩnh, Hà Tĩnh",0899.49.04.07,Hà Tĩnh,,9
+Peugeot Hải Dương,"419 Nguyễn Lương Bằng, P. Thanh Trung, TP. Hải Dương, Hải Dương",0899.49.04.07,Hải Dương,,9
+Peugeot Hải Phòng,"8 Nguyễn Trãi, Phường Máy Tơ, Quận Ngô Quyền, Hải Phòng",0899.49.04.07,Hải Phòng,,9
+Peugeot Hòa Bình,"Tổ dân phố Ngọc 2, Phường Trung Minh, TP. Hòa Bình, Hòa Bình",0899.49.04.07,Hòa Bình,,9
+Peugeot Nha Trang,"Lô số 1, Khu Vực 2, Đường 23/10, Xã Vĩnh Hiệp, TP Nha Trang, Khánh Hòa",0899.49.04.07,Khánh Hòa,,9
+Peugeot Kiên Giang,"568 - 574 Đường 3 Tháng 2, P. Vĩnh Lạc, TP. Rạch Giá, Kiên Giang",0899.49.04.07,Kiên Giang,,9
+Peugeot Kon Tum,"609 Phan Đình Phùng, Phường Duy Tân, TP. Kon Tum, Kon Tum",0899.49.04.07,KonTum,,9
+Peugeot Lạng Sơn,"KĐT phía Đông TP Lạng n, Quốc lộ 1A, P. Đông Kinh, TP. Lạng Sơn, Lạng Sơn",0899.49.04.07,Lạng Sơn,,9
+Peugeot Đà Lạt,"Đường 3 Tháng 4, Phường 3, TP. Đà Lạt, Lâm Đồng",0899.49.04.07,Lâm Đồng,,9
+Peugeot Long An,"161-163 Hùng Vương nối dài, Phường 6, TP. Tân An, Long An",0899.49.04.07,Long An,,9
+Peugeot Nam Định,"KM 93 Đại Lộ Thiên Trường, Phường Lộc Hòa, TP. Nam Định, Nam Định",0899.49.04.07,Nam Định,,0
+Peugeot Vinh,"Ngã Tư Sân Bay, Đại lộ Lênin, TP. Vinh, Tỉnh Nghệ An",0899.49.04.07,Nghệ An,,9
+Peugeot Ninh Thuận,"QL1A, Xã Thành Hải, TP. Phan Rang, Ninh Thuận",0899.49.04.07,Ninh Thuận,,0
+Peugeot Phú Thọ,"205 Đại lộ Hùng Vương, Phường Tiên Cát, TP. Việt Trì, Phú Thọ",0899.49.04.07,Phú Thọ,,9
+Peugeot Phú Yên,"Ngã tư QL1A và QL25, Xã Hòa An, Huyện Phú Hoà, Phú Yên",0899.49.04.07,Phú Yên,,9
+Peugeot Quảng Bình,"315 Lý Thường Kiệt, Phường Đồng Phú, TP. Đồng Hới, Quảng Bình",0899.49.04.07,Quảng Bình,,9
+Peugeot Quảng Nam,"QL1A, phường Tân Thạnh, TP. Tam Kỳ, Quảng Nam",0899.49.04.07,Quảng Nam,,9
+Peugeot Quảng Ngãi,"07 Đinh Tiên Hoàng, P. Nghĩa Chánh, TP. Quảng Ngãi, Quảng Ngãi",0899.49.04.07,Quảng Ngãi,,9
+Peugeot Quảng Ninh,"Km 103,  Quốc Lộ 18A, Phường Hà Khẩu,  TP. Hạ Long, Tỉnh Quảng Ninh",0899.49.04.07,Quảng Ninh,,9
+Peugeot Tây Ninh,"Vòng Xoay Gò Dầu, Đường Hùng Vương, Khu Phố Thanh Bình A, Thị Trấn Gò Dầu, Huyện Gò Dầu, Tây Ninh",0899.49.04.07,Tây Ninh,,9
+Peugeot Thái Bình,"Phường Phú Khánh, TP. Thái Bình, Tỉnh Thái Bình",0899.49.04.07,Thái Bình,,9
+Peugeot Thái Nguyên,"Khu Quy Hoạch Dân Cư 3+4, Đường Phan Đình Phùng, Phường Đồng Quang, TP. Thái Nguyên, Tỉnh Thái Nguyên",0899.49.04.07,Thái Nguyên,,9
+Peugeot Sông Công,"KCN Nguyên Gon, Phường Cải Đan, TP. Sông Công, Thái Nguyên",0899.49.04.07,Thái Nguyên,,9
+Peugeot Thanh Hóa,"759 Bà Triệu, phường Trường Thi, TP. Thanh Hóa, Thanh Hóa",0899.49.04.07,Thanh Hóa,,9
+Peugeot Huế,"145 Nguyễn Tất Thành, Thủy Dương, Thị Xã Hương Thuỷ, TP. Huế, Thừa Thiên Huế",0899.49.04.07,Thừa Thiên - Huế,,9
+Peugeot Tiền Giang,"Khu phố 2, P. 10, TP. Mỹ Tho, Tiền Giang",0899.49.04.07,Tiền Giang,,9
+Peugeot Vĩnh Long,"375A Khóm Tân Vĩnh Thuận, Phường Tân Ngãi, TP. Vĩnh Long, Vĩnh Long",0899.49.04.07,Vĩnh Long,,9
+Peugeot Vĩnh Phúc,"Xóm Phổ, Xã Quất Lưu, Huyện Bình Xuyên, Tỉnh Vĩnh Phúc",0899.49.04.07,Vĩnh Phúc,,9
+Volkswagen Sài Gòn,"6 Trường Chinh, Phường 15,  Quận Tân Bình, TP.HCM",0899.49.04.07,TP.HCM,Volkswagen,8
+Volkswagen Central,"120 Trần Hưng Đạo, Quận 1, TP. HCM",0899.49.04.07,TP.HCM,Volkswagen,8
+Volkswagen An Phú,"Số 67 Mai Chí Thọ, Phường An Phú, TP. Thủ Đức, TP. HCM",0899.49.04.07,TP.HCM,Volkswagen,13
+Volkswagen Phú Mỹ,"Lô B1, Đường C2, KCN Cát Lái 2, Phường Thạnh Mỹ LợI, TP. Thủ Đức, TP. HCM",0899.49.04.07,TP.HCM,Volkswagen,13
+Volkswagen Long Biên,"03 Nguyễn Văn Linh, Phường Gia Thụy, Quận Long Biên, Hà Nội",0899.49.04.07,Hà Nội,Volkswagen,8
+Volkswagen Phạm Văn Đồng,"Toà Nhà CT3, Lô 1 Đường Phạm Văn Đồng, Phường Xuân Đỉnh, Quận Bắc Từ Liêm, Hà Nội",0899.49.04.07,Hà Nội,Volkswagen,8
+Volkswagen I.D Auto Phạm Hùng,"18 Phạm Hùng, Phường Mai Dịch, Quận Cầu Giấy, Hà Nội",0899.49.04.07,Hà Nội,Volkswagen,13
+Volkswagen Đà Nẵng,"875 Đường Nguyễn Hữu Thọ, Phường Khuê Trung, Quận Cẩm Lệ, TP. Đà Nẵng",0899.49.04.07,Đà Nẵng,Volkswagen,8
+Volkswagen Buôn Ma Thuột,"90 Nguyễn Chí Thanh, Phường Tân An, TP. Buôn Ma Thuột, Đắk Lắk",0899.49.04.07,Đắk Lắk,Volkswagen,8
+Volkswagen Bình Dương,"7A/12A Đại Lộ Bình Dương, Phường Bình Hòa, Thị Xã Thuận An, Bình Dương",0899.49.04.07,Bình Dương,Volkswagen,8
+Volkswagen Hải Dương,"446 Nguyễn Lương Bằng, Phường Thanh Bình, TP. Hải Dương, Hải Dương",0899.49.04.07,Hải Dương,Volkswagen,13
+Volkswagen Hải Phòng,"722 Nguyễn Văn Linh, Phường Vĩnh Niệm, Quận Lê Chân, TP. Hải Phòng",0899.49.04.07,Hải Phòng,Volkswagen,8
+Volkswagen Nha Trang,"51 Lê Hồng Phong, Phường Phước Tân, TP. Nha Trang, Tỉnh Khánh Hòa",0899.49.04.07,Khánh Hòa,Volkswagen,8
+Volkswagen Dũng Lạc,"52 Nguyễn Trãi, TP. Vinh, Tỉnh Nghệ An",0899.49.04.07,Nghệ An,Volkswagen,8
+Volkswagen Quảng Ninh,"291A Trần Nhân Tông, Phường Yên Thanh, TP. Uông Bí, Quảng Ninh",0899.49.04.07,Quảng Ninh,Volkswagen,13
+Suzuki Việt Long,"936 Quốc Lộ 1A, Phường Thạnh Xuân, Quận 12, TP.HCM",0899.49.04.07,TP.HCM,Suzuki,8
+Suzuki Sài Gòn Ngôi Sao,"510 Quốc Lộ 13, Phường Hiệp Bình Phước, TP. Thủ Đức, TP.HCM",0899.49.04.07,TP.HCM,Suzuki,8
+Suzuki Đại Việt,"438-440 Nguyễn Duy Trinh, Phường Bình Trưng Đông, TP. Thủ Đức TP.HCM",0899.49.04.07,TP.HCM,Suzuki,8
+Suzuki Hồng Phương,"1950 Võ Văn Kiệt, Phường An Lạc, Quận Bình Tân, TP.HCM",0899.49.04.07,TP.HCM,Suzuki,8
+Suzuki Direct Shop,"2 Phổ Quang, Phường 2, Quận Tân Bình, TP.HCM",0899.49.04.07,TP.HCM,Suzuki,11
+Suzuki Cầu Giấy,"Số 171 Xuân Thủy, Phường Dịch Vọng Hậu, Quận Cầu Giấy, Hà Nội",0899.49.04.07,Hà Nội,Suzuki,8
+Suzuki An Việt,"Km12+300, QL 1A, Vĩnh Quỳnh, Huyện Thanh Trì, TP. Hà Nội",0899.49.04.07,Hà Nội,Suzuki,8
+Suzuki Việt Anh,"Km 14+600, Quốc lộ 6, Phường Yên Nghĩa, Quận Hà Đông, Hà Nội",0899.49.04.07,Hà Nội,Suzuki,8
+Suzuki Long Biên,"449 Nguyễn Văn Linh,Phường Phúc Đồng, Quận Long Biên, Hà Nội",0899.49.04.07,Hà Nội,Suzuki,8
+Suzuki Quý Hạnh,"QL3, Phù Lỗ, Huyện Sóc Sơn, Hà Nội",0899.49.04.07,Hà Nội,Suzuki,8
+Suzuki Hà Thành,"Số 315A Nguyễn Khoái, Phường Thanh Lương, Quận Hai Bà Trưng, Hà Nội",0899.49.04.07,Hà Nội,Suzuki,8
+Suzuki Vân Đạo - Chi Nhánh Hà Nội,"Đường 32, KCN Lai Xá, Kim Chung, Huyện Hoài Đức, Hà Nội",0899.49.04.07,Hà Nội,Suzuki,8
+Suzuki Thịnh Hưng,"456A Nguyễn Hữu Thọ, Phường Khuê Trung, Quận Cẩm Lệ, Đà Nẵng",0899.49.04.07,Đà Nẵng,Suzuki,8
+Suzuki Tây Nguyên,"159 Nguyễn Chí Thanh, Phường Tân An, TP.Buôn Ma Thuột, Tỉnh Đăk Lăk",0899.49.04.07,Đắk Lắk,Suzuki,8
+Suzuki Đồng Nai,"01 Xa lộ Hà Nội, KP. 5B, Phường Tân Biên, TP. Biên Hoà, Tỉnh Đồng Nai",0899.49.04.07,Đồng Nai,Suzuki,8
+Suzuki Việt Nhật - Biên Hòa,"Số 22A Xa Lộ Hà Nội, KP. 5, Phường Tân Hiệp, TP. Biên Hòa, Đồng Nai",0899.49.04.07,Đồng Nai,Suzuki,11
+Suzuki Hà Nam,"Đường Lê Hoàn, TP. Phủ Lý, Tỉnh Hà Nam",0899.49.04.07,Hà Nam,Suzuki,8
+Suzuki Song Hào,"20/04 Trần Hưng Đạo, Mỹ Quý, TP. Long Xuyên, An Giang",0899.49.04.07,An Giang,Suzuki,11
+Suzuki Vũng Tàu,"3718B, Quốc lộ 51, Phường Phước Trung, TP. Bà Rịa, Tỉnh Vũng Tàu",0899.49.04.07,Bà Rịa - Vũng Tàu,Suzuki,8
+Suzuki Hùng Phượng,"Thôn Riễu, Xã Dĩnh Trì, TP Bắc Giang, Tỉnh Bắc Giang",0899.49.04.07,Bắc Giang,Suzuki,8
+Suzuki Nam Á,"Số 63 Đại lộ Bình Dương, Phường Hiệp Thành, TP. Thủ Dầu Một, Tỉnh Bình Dương",0899.49.04.07,Bình Dương,Suzuki,8
+Suzuki Vinh Tùng,"QL 1D, Tổ 9, Khu Vực 8, Phường Nhơn Phú, TP. Quy Nhơn, Tỉnh Bình Định",0899.49.04.07,Bình Định,Suzuki,8
+Suzuki Bình Phước,Tỉnh Bình Phước,0899.49.04.07,Bình Phước,Suzuki,8
+Suzuki Ngọc Anh,"111 Lý Thường Kiệt, Phường 6, TP. Cà Mau, Cà Mau",0899.49.04.07,Cà Mau,Suzuki,11
+Suzuki Tây Đô,"86 Lê Hồng Phong, Phường Trà An, Quận Bình Thủy, TP. Cần Thơ",0899.49.04.07,Cần Thơ,Suzuki,11
+Suzuki Tây Đô - CN Cái Răng,"8A Võ Nguyên Giáp, Phường Hưng Phú, Quận Cái Răng, TP. Cần Thơ",0899.49.04.07,Cần Thơ,Suzuki,11
+Suzuki Việt Đức,"Km50+500 QL5A, Phường Cẩm Thượng, TP Hải Dương, Tỉnh Hải Dương",0899.49.04.07,Hải Dương,Suzuki,8
+Suzuki Hải Phòng,"Khu Đô thị Mới Sở Dầu, Quận Hồng Bàng, TP. Hải Phòng",0899.49.04.07,Hải Phòng,Suzuki,8
+Suzuki Việt Nhật Hòa Bình,"Phố Ngọc, Phường Trung Minh, TP. Hòa Bình, Hòa Bình",0899.49.04.07,Hòa Bình,Suzuki,11
+Suzuki BAC,"1018 Nguyễn Văn Linh, Phường Bạch Sam, TX. Mỹ Hào, TP. Hưng Yên, Hưng Yên",0899.49.04.07,Hưng Yên,Suzuki,11
+Suzuki Quốc Di,"391 Đường 23/10, Vĩnh Hiệp, TP. Nha Trang, Tỉnh Khánh Hòa",0899.49.04.07,Khánh Hòa,Suzuki,8
+Suzuki Tây Đô - CN Kiên Giang,"68 Võ Văn Kiệt, Xã Thạnh Lộc, Huyện Châu Thành, Kiên Giang",0899.49.04.07,Kiên Giang,Suzuki,11
+Suzuki Lào Cai,"Số 2, Đại Lộ Trần Hưng Đạo, Phường Bắc Cường, Thành phố Lào Cai, Tỉnh Lào Cai",0899.49.04.07,Lào Cai,Suzuki,8
+Suzuki Lạng Sơn,"Ngã Tư Phai Trần, TP. Lạng Sơn, Tỉnh Lạng Sơn",0899.49.04.07,Lạng Sơn,Suzuki,8
+Suzuki Hưng Vượng,"Số 01 KP6, Liên Nghĩa, Huyện Đức Trọng, Tỉnh Lâm Đồng",0899.49.04.07,Lâm Đồng,Suzuki,8
+Suzuki Đà Lạt,"Lô A3, KQH Đặng Thái Thân, Phường 3, TP. Đà Lạt, Tỉnh Lâm Đồng",0899.49.04.07,Lâm Đồng,Suzuki,8
+Suzuki Long An,Tỉnh Long An,0899.49.04.07,Long An,Suzuki,8
+Suzuki Vinh,"Số 5B, Nguyễn Trãi, TP. Vinh, Tỉnh Nghệ An",0899.49.04.07,Nghệ An,Suzuki,8
+Suzuki Đức Hùng,"QL1A, Quang Trung, Phú Hải, TP. Đồng Hới, Quảng Bình",0899.49.04.07,Quảng Bình,Suzuki,11
+Suzuki Quảng Ninh,"Số 431 Bạch Đằng, Nam Tân, Phường Nam Khê, TP. Uông Bí, Quảng Ninh",0899.49.04.07,Quảng Ninh,Suzuki,8
+Suzuki Sodinha,"Km753 Quốc Lộ 1A, Cam Thanh, Huyện Cam Lộ, Quảng Trị",0899.49.04.07,Quảng Trị,Suzuki,8
+Suzuki Cẩm Phong,"179 QL1A, Phụng Hiệp, An Hiệp, Huyện Châu Thành, Sóc Trăng",0899.49.04.07,Sóc Trăng,Suzuki,11
+Suzuki Thái Bình - Suzuki Huy Phương,"Khu Thương Mại, Đường Võ Nguyên Giáp, Phường Hoàng Diệu, TP. Thái Bình, Tỉnh Thái Bình",0899.49.04.07,Thái Bình,Suzuki,8
+Suzuki Thái Nguyên,"Km5 Đường CMT8, TP. Thái Nguyên, Tỉnh Thái Nguyên",0899.49.04.07,Thái Nguyên,Suzuki,8
+Suzuki Thanh Hóa,"Số 631B Lê Lai, Phường Quảng Hưng, TP. Thanh Hóa, Thanh Hóa",0899.49.04.07,Thanh Hóa,Suzuki,8
+Suzuki Đại Lợi Vĩnh Long,"116, QL1A, Tân Xuân, Xã Tân Ngãi, TP. Vĩnh Long, Vĩnh Long",0899.49.04.07,Vĩnh Long,Suzuki,11
+MG Motor Gò Vấp,"786B Nguyễn Kiệm, Phường 3, Quận Gò Vấp, Thành phố Hồ Chí Minh",0899.49.04.07,TP.HCM,,4
+MG Motor Tây Sài Gòn,"54 Kinh Dương Vương, Phường 13, Quận 6, TP.HCM Hồ Chí Minh",0899.49.04.07,TP.HCM,,4
+MG Motor Đông Sài Gòn,"801 Quốc Lộ 13, Phường Hiệp Bình Phước, TP. Thủ Đức, TPHCM",0899.49.04.07,TP.HCM,,4
+MG Nguyễn Tất Thành,"92-94-96 Nguyễn Tất Thành, Phường 13, Quận 4, TP.HCM",0899.49.04.07,TP.HCM,,5
+MG Nam Kỳ Khởi Nghĩa,"181 Nam Kỳ Khởi Nghĩa, Phường 7, Quận 3, TP. Hồ Chí Minh",0899.49.04.07,TP.HCM,,5
+MG Trường Chinh,"765 Trường Chinh, Phường Tây Thạnh, Quận Tân Phú, TP.HCM",0899.49.04.07,TP.HCM,,5
+MG Võ Văn Kiệt,"1668 Võ Văn Kiệt, Phường 16, Quận 8, TP.HCM",0899.49.04.07,TP.HCM,,5
+MG Motor Lê Văn Lương,"Tầng trệt - Tòa nhà CT1 - Chung cư Ban Cơ yếu Chính phủ, Đường Lê Văn Lương, Phường Nhân Chính, Quận Thanh Xuân, Hà Nội",0899.49.04.07,Hà Nội,,4
+MG Motor Long Biên,"Số 3-5 đường Nguyễn Văn Linh, Phường Gia Thụy, Quận Long Biên, Hà Nội",0899.49.04.07,Hà Nội,,4
+MG Motor Mỹ Đình,"Tòa nhà CT5 Toà MHDI, Đường Lê Đức Thọ, Phường Mỹ Đình 2, Quận Nam Từ Liêm, Hà Nội",0899.49.04.07,Hà Nội,,4
+MG Trần Khát Chân,"Số 434 Trần Khát Chân, Phố Huế, Quận Hai Bà Trưng, Hà Nội",0899.49.04.07,Hà Nội,,5
+MG Đà Nẵng,"739 Ngô Quyền, An Hải Bắc, Quận Sơn Trà, TP. Đà Nẵng",0899.49.04.07,Đà Nẵng,,5
+MG Motor Bắc Ninh,"Khu Công Nghiệp Vsip, Số 1 Đại lộ Hữu Nghị, Phù Chẩn, TP. Từ Sơn, Tỉnh Bắc Ninh",0899.49.04.07,Bắc Ninh,,4
+MG Bắc Ninh - CN Lý Thái Tổ,"Tòa nhà CC03-B3, Đường Lý Thái Tổ, Phường Ninh Xá, TP. Bắc Ninh, Bắc Ninh",0899.49.04.07,Bắc Ninh,,5
+MG Buôn Ma Thuột,"98 Nguyễn Chí Thanh, Tân An, TP. Buôn Ma Thuột, Đắk Lắk",0899.49.04.07,Đắk Lắk,,5
+MG Đồng Nai,"Số 10/7, KP 1, Phường Tam Hòa, TP. Biên Hoà, Đồng Nai",0899.49.04.07,Đồng Nai,,5
+MG Gia Lai,"304 Phạm Văn Đồng, P. Thống Nhất, TP. Pleiku, Gia Lai",0899.49.04.07,Gia Lai,,5
+MG Bình Dương,"Số 24 Đại Lộ Bình Dương, khu phố Bình Hòa, Phường Lái Thiêu, TP. Thuận An, Bình Dương",0899.49.04.07,Bình Dương,,5
+MG Hà Tĩnh,"Số 633 Đường Trần Phú, TP. Hà Tĩnh, Hà Tĩnh",0899.49.04.07,Hà Tĩnh,,5
+MG Hải Phòng,"Tổ dân phố Trung Hành 8, P. Đằng Lâm, Quận Hải An, TP. Hải Phòng",0899.49.04.07,Hải Phòng,,5
+MG Kiên Giang,"Số 01 Đường 3 Tháng 2, P. An Hoà, TP. Rạch Giá, Kiên Giang",0899.49.04.07,Kiên Giang,,5
+MG Lào Cai,"Số 113 Nhạc Sơn, Cốc Lếu, TP. Lào Cai, Lào Cai",0899.49.04.07,Lào Cai,,5
+MG Quảng Nam,"475 Hùng Vương, P. An Sơn, TP. Tam Kỳ, Quảng Nam",0899.49.04.07,Quảng Nam,,5
+MG Quảng Ninh,"Phường Giếng Đáy, TP. Hạ Long, Quảng Ninh",0899.49.04.07,Quảng Ninh,,5
+MG Quảng Trị,"189 Lê Duẩn, Phường 2, TP. Đông Hà, Quảng Trị",0899.49.04.07,Quảng Trị,,5
+MG Thái Bình,"Số 318, phố Lý Bôn, phường Tiền Phong, TP. Thái Bình, Thái Bình",0899.49.04.07,Thái Bình,,5
+MG Thái Nguyên,"Số 68A Cách Mạng Tháng 8, phường Cam Giá, TP. Thái Nguyên, Thái Nguyên",0899.49.04.07,Thái Nguyên,,5
+MG Thanh Hóa,"445 Lê Lai, P. Quảng Hưng, TP. Thanh Hoá, Thanh Hoá",0899.49.04.07,Thanh Hóa,,5
+MG Huế,"90 Lý Thái Tổ, Phường An Hòa, TP. Huế, Thừa Thiên Huế",0899.49.04.07,Thừa Thiên - Huế,,5
+MG Tiền Giang,"Số 602 Quốc lộ 1, Ấp Phước Hòa, Xã Phước Thạnh, TP. Mỹ Tho, Tiền Giang",0899.49.04.07,Tiền Giang,,5
+MG Vĩnh Phúc,"Km 27, Quốc lộ 2, Xã Quất Lưu, Huyện Bình Xuyên, Vĩnh Phúc",0899.49.04.07,Vĩnh Phúc,,5
+Isuzu Vân Nam,"522 Quốc Lộ 13, Phường Hiệp Bình Phước, TP.Thủ Đức, TP.HCM",0899.49.04.07,TP.HCM,Isuzu,7
+Isuzu Satellite Vân Nam,"Cụm 3 Đường M12, Khu Công Nghiệp Tân Bình Mở Rộng, Phường Bình Hưng Hòa, Quận Bình Tân, TP.HCM",0899.49.04.07,TP.HCM,Isuzu,7
+Isuzu Green Ka,"1691/3N Quốc Lộ 1A, Phường An Phú Đông, Quận 12, TP.HCM",0899.49.04.07,TP.HCM,Isuzu,7
+Isuzu D-SQUARE Trường Chinh,"765 Trường Chinh, Phường Tây Thạnh, Quận Tân Phú, TPHCM",0899.49.04.07,TP.HCM,Isuzu,7
+Isuzu D-SQUARE An Lạc,"44 Kinh Dương Vương, Phường 13, Quận 6, TPHCM",0899.49.04.07,TP.HCM,Isuzu,7
+Isuzu Tây Bắc Sài Gòn,"43/7A Quốc lộ 22, Xã Xuân Thới Đông, Huyện Hóc Môn, TP.HCM",0899.49.04.07,TP.HCM,Isuzu,7
+Isuzu Nisu,"449 Nguyễn Văn Linh, Quận Long Biên, Hà Nội",0899.49.04.07,Hà Nội,Isuzu,7
+Isuzu Thăng Long,"Km 6 Bắc Thăng Long - Nội Bài, Huyện Đông Anh, Hà Nội",0899.49.04.07,Hà Nội,Isuzu,7
+Isuzu An Phú Thành,"99 Lê Quang Đạo, Phường Mỹ Đình, Quận Nam Từ Liêm, Hà Nội",0899.49.04.07,Hà Nội,Isuzu,7
+Isuzu An Việt,"Km 10 Quốc Lộ 1A, Huyện Thanh Trì, Hà Nội",0899.49.04.07,Hà Nội,Isuzu,7
+Isuzu D-SQUARE Việt Hải,"Km 14 + 600 Quốc Lộ 6, Quận Hà Đông, Hà Nội",0899.49.04.07,Hà Nội,Isuzu,7
+Isuzu BNN,"Km29+500 Đại Lộ Thăng Long, Xã Thạch Hòa, Huyện Thạch Thất, Hà Nội",0899.49.04.07,Hà Nội,Isuzu,7
+Isuzu Gelimex,"374 Ngũ Hành Sơn, Quận Ngũ Hành Sơn, TP. Đà Nẵng",0899.49.04.07,Đà Nẵng,Isuzu,7
+Isuzu Đại Thịnh,"Lô 1, Quốc lộ 1A, Thôn Quá Giáng, Xã Hòa Phước, Huyện Hòa Vang, TP. Đà Nẵng",0899.49.04.07,Đà Nẵng,Isuzu,7
+Isuzu Hồng An,"192 Nguyễn Văn Linh, TP. Buôn Ma Thuột, Tỉnh Đắk Lắk",0899.49.04.07,Đắk Lắk,Isuzu,7
+Isuzu Tấn Phát,"794 Xa Lộ Hà Nội, Phường Long Bình, TP. Biên Hòa, Tỉnh Đồng Nai",0899.49.04.07,Đồng Nai,Isuzu,7
+Isuzu Bắc Quang,"Đường số 1, Khu Công Nghiệp Biên Hòa 1, TP. Biên Hòa, Tỉnh Đồng Nai",0899.49.04.07,Đồng Nai,Isuzu,7
+Isuzu Tấn Phát - Chi Nhánh Biên Hòa,"Quốc Lộ 51, Số 369 Khu phố 3, Phường An Hòa, TP. Biên Hòa, Đồng Nai",0899.49.04.07,Đồng Nai,Isuzu,7
+Isuzu Lộc Phát,"Số 578 Khu phố 4, Phường Tân Hiệp, TP. Biên Hòa, Đồng Nai",0899.49.04.07,Đồng Nai,Isuzu,7
+Isuzu D-SQUARE Bình Dương,"5B/4A Đại Lộ Bình Dương, Phường Bình Hòa, TP. Thuận An, Bình Dương",0899.49.04.07,Bình Dương,Isuzu,7
+Isuzu Lee,"1/644 Tổ 10 , Khu Phố Hòa Lân 2, Phường Thuận Giao, TP. Thuận An, Bình Dương",0899.49.04.07,Bình Dương,Isuzu,7
+Isuzu Satellite Vân Nam,"Số 79/4 Đại lộ Bình Dương, Khu phố Đông, Phường Vĩnh Phú, TP. Thuận An, Bình Dương",0899.49.04.07,Bình Dương,Isuzu,7
+Isuzu Minh Nhi,"68 Quốc Lộ 13, P, Khu Phố Bình Giao, TP. Thuận An, Bình Dương",0899.49.04.07,Bình Dương,Isuzu,7
+Isuzu Đại Thịnh - CN Bình Định,"204 Trần Phú, Quốc Lộ 1A, Thị Trấn Tuy Phước, Huyện Tuy Phước, Bình Định",0899.49.04.07,Bình Định,Isuzu,7
+Isuzu D-SQUARE Nam Bình,"Số 378 Đường Nguyễn Tất Thành, Xã Lý Văn Lâm, TP. Cà Mau, Tỉnh Cà Mau",0899.49.04.07,Cà Mau,Isuzu,7
+Isuzu An Khánh - Cần Thơ,"L03-16 Lê Hồng Phong, Quận Bình Thủy, TP. Cần Thơ",0899.49.04.07,Cần Thơ,Isuzu,7
+Isuzu Việt Phát,"08 Quốc Lộ 5, Phường Hùng Vương, Quận Hồng Bàng, TP. Hải Phòng",0899.49.04.07,Hải Phòng,Isuzu,7
+Isuzu Chi Nhánh Nisu,"Km7, Quốc Lộ 39A, xã Trung Hưng, Huyện Yên Mỹ, Hưng Yên",0899.49.04.07,Hưng Yên,Isuzu,0
+Isuzu Quyết Thắng,"120 Điện Biên Phủ, Phường Vĩnh Hòa, TP. Nha Trang, Tỉnh Khánh Hòa",0899.49.04.07,Khánh Hòa,Isuzu,7
+Isuzu i-Trucks Việt Hải,"Số 1104 Đường 23/10 (Quốc Lộ 1C), TP. Nha Trang, Khánh Hòa",0899.49.04.07,Khánh Hòa,Isuzu,7
+Isuzu Satellite Thăng Long,"Km 18 + 900 Đường tránh Vinh, Huyện Hưng Nguyên, Tỉnh Nghệ An",0899.49.04.07,Nghệ An,Isuzu,7
+Isuzu Trung Sơn,"Km 753 Quốc Lộ 1A, Xã Cam Thanh, Huyện Cam Lộ, Tỉnh Quảng Trị",0899.49.04.07,Quảng Trị,Isuzu,7
+Isuzu Cẩm Phong,"515 Quốc Lộ 1A, Ấp Phụng Hiệp, Xã An Hiệp, Huyện Châu Thành, Tỉnh Sóc Trăng",0899.49.04.07,Sóc Trăng,Isuzu,7
+Isuzu An Khánh - Tiền Giang,"Quốc lộ 1A – Ấp Quí Thạnh, Xã Tân Hội, Huyện Cai Lậy, Tỉnh Tiền Giang",0899.49.04.07,Tiền Giang,Isuzu,7
+Mini Cooper Quận 2,"Số 12 Đường Mai Chí Thọ, Phường An Lợi Đông, TP.Thủ Đức, TPHCM",0899.49.04.07,TP.HCM,,6
+Mini Cooper Phú Nhuận,"Số 80, Đường Nguyễn Văn Trỗi, Phường 8, Quận Phú Nhuận, TP. Hồ Chí Minh",0899.49.04.07,TP.HCM,,6
+Mini Cooper Long Biên,"Số 01 Đường Ngô Gia Tự, Quận Long Biên, Hà Nội",0899.49.04.07,Hà Nội,,6
+Mini Cooper Lê Duẩn,"Số 132 Đường Lê Duẩn, Quận Hai Bà Trưng, Hà Nội",0899.49.04.07,Hà Nội,,6
+Mini Cooper Lê Văn Lương,"Số 68 Lê Văn Lương, Quận Thanh Xuân, Hà Nội",0899.49.04.07,Hà Nội,,6
+Mini Cooper Đà Nẵng,"356 Điện Biên Phủ, Phường Thanh Khê Đông, Quận Thanh Khê, TP. Đà Nẵng",0899.49.04.07,Đà Nẵng,,6
+Jeep Sài Gòn,"1349 Huỳnh Tấn Phát, Phường Phú Thuận, Quận 7, TP. HCM",0899.49.04.07,TP.HCM,,8
+Jeep Quận 4,"153 Nguyễn Tất Thành, Phường 13, Quận 4, TP.HCM",0899.49.04.07,TP.HCM,,8
+BAIC Hồ Chí Minh,"C5/15 Phạm Hùng, Huyện Bình Chánh, TP. HCM",0899.49.04.07,TP.HCM,,3
+BAIC Hà Nội,"378 Ngô Gia Tự, Quận Long Biên, Hà Nội",0899.49.04.07,Hà Nội,,3
+BAIC Hải Phòng,"68 Phạm Văn Đồng, Quận Dương Kinh, TP. Hải Phòng",0899.49.04.07,Hải Phòng,,3
+Porsche Sài Gòn,"KCX Tân Thuận Số 4 Đường Số 7, Phường Tân Thuận Đông, Quận 7, TP.HCM",0899.49.04.07,TP.HCM,,9
+Porsche Hà Nội,"562 Nguyễn Văn Cừ, Phường Gia Thụy, Quận Long Biên, Hà Nội",0899.49.04.07,Hà Nội,,9
+Land Rover Phú Thái Hồ Chí Minh,"Tầng trệt, TTTM Crescent Mall, 101 Tôn Dật Tiên, phường Tân Phú, quận 7, TP.HCM",0899.49.04.07,TP.HCM,Land Rover,0
+Land Rover Phú Thái Hà Nội,"166 Khuất Duy Tiến, Phường Nhân Chính, QuậnThanh Xuân, Hà Nội",0899.49.04.07,Hà Nội,Land Rover,0
+Maserati Hồ Chí Minh,"Số 1-5 Lê Duẩn, Phường Bến Nghé, Quận 1, TP. HCM",0899.49.04.07,TP.HCM,Maserati,0
+Maserati Hà Nội,"18 Lê Phụng Hiểu, Hoàn Kiếm, Hà Nội",0899.49.04.07,Hà Nội,Maserati,0
+Haval Võ Chí Công,"212 Đ. Võ Chí Công, Xuân La, Quận Tây Hồ, Hà Nội",0899.49.04.07,Hà Nội,Haval,0
+Haval Long Biên,"262 Cổ Linh, Phường Thạch Bàn, Quận Long Biên, Hà Nội.",0899.49.04.07,Hà Nội,Haval,0

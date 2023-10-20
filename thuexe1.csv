@@ -1,0 +1,525 @@
+,Name,Dia Chi,Phone,Website,Province/City
+0,Công Ty TNHH Thuê Xe Du Lịch Nam Định - Mai Khanh,"Số Nhà 149A, Đường Lưu Hữu Phước, P. Hạ Long, TP. Nam Định, T. Nam Định",0916 04 6679,https://thuexedulichnamdinh.com,Nam Định
+1,Vận Tải Du Lịch Phi Loan - Công Ty TNHH Thương Mại Du Lịch Phi Loan,"145/4 Đường Nguyễn Đình Chính, P. 11, Q. Phú Nhuận, TP. Hồ Chí Minh (TPHCM)",(028) 38422268 - 0903 163 615,http://philoan.com.vn,Hồ Chí Minh
+2,Công Ty TNHH Thương Mại Dịch Vụ Du Lịch Việt Tín,"204E Sư Vạn Hạnh, Phường 9, Quận 5, TP. Hồ Chí Minh (TPHCM)",(028) 38333108 - 0908 223 757,http://viettintravel.com.vn,Hồ Chí Minh
+3,Công Ty Cổ Phần TMDV Quê Hương,"475a Dương Thị Mười, P. Tân Chánh Hiệp, Q. 12, Tp Hồ Chí Minh (TPHCM)",0967 471 767,http://thuexetulaihcm.com,Hồ Chí Minh
+4,Công Ty TNHH Thương Mại Dịch Vụ Sukami VN,"Số 4, Đường Số 22, CV Phần Mềm Quang Trung, P. Tân Chánh Hiệp, Quận 12, Tp. Hồ Chí Minh (TPHCM)",0903.984.604,http://chothuexedulichkimdung.com,Hồ Chí Minh
+5,Công Ty TNHH Một Thành Viên Du Lịch Phương Vy Tour,"202 Đỗ Văn Thi, Khu Phố Nhất Hòa, P. Hiệp Hòa, TP. Biên Hòa, Tỉnh Đồng Nai",0909 922 398 - 0918 692 398,https://phuongvytour.com,Đồng Nai
+6,Công Ty TNHH MTV Du Lịch In,"106, Đường Số 1, Khu Dân Cư City Land, Phường 7, Quận Gò Vấp, TP Hồ Chí Minh (TPHCM)",(028) 39899989 - 0934 797 779,http://www.intour.com.vn,Hồ Chí Minh
+7,Công Ty TNHH Du Lịch Quốc Tế Đại Việt - GRANDVIET TOUR,"Số 08, Nguyễn Chí Thanh, Quận Ba Đình, Tp. Hà Nội (TPHN)",(024) 3747 4138 - (024) 3724  5364,http://www.dulichdaiviet.com,Hà Nội
+8,Công Ty TNHH Du Lịch Hoàng Nam,"5C Lương Ngọc Quyến, P. Hàng Buồm, Q. Hoàn Kiếm, TP Hà Nội (TPHN)","(024) 38730914, 0962.203.566",http://dulichhoangnam.vn,Hà Nội
+9,Công Ty TNHH Dịch Vụ Phương Nghi,"Số 115/117/119 Đường Tây Sơn, P. Ghềnh Ráng, Tp. Quy Nhơn, T. Bình Định","(0256) 3891122, 0919 501 839",http://congtyphuongnghi.vn,Bình Định
+10,Công Ty TNHH Lữ Hành Quốc Tế Golden Life,"Số 43A đường Lê Thánh Tôn, Phường Lê Lợi, Tp Quy Nhơn, Tỉnh Bình Định",0256 3813959 Hotline: 1900 599946,http://goldenlife.vn,Bình Định
+11,Công Ty TNHH Du Lịch Vận Tải Và Thương Mại Ecovico,"326 Cù Chính Lan, Phường An Khê, Quận Thanh Khê, TP. Đà Nẵng",(0236) 3712771 - 0905 204 445 - 0935 264 445,http://www.ecovico.com,Đà Nẵng
+12,VietDa Travel - Công Ty Cổ Phần Việt Đà,"269 Núi Thành, Phường Hoà Cường Bắc, Quận Hải Châu, Tp Đà Nẵng","(0236) 3647979, 3647981",http://vietdatravel.com,Đà Nẵng
+13,Công Ty TNHH MTV Vận Tải Và Du Lịch Nguyễn Anh Huy,"Số 76, Tổ 4, Khu 14, X. Long Đức, H. Long Thành, T. Đồng Nai","0932 600 060, 0914 846 932",http://vantainguyenanhhuy.com,Đồng Nai
+14,Công Ty TNHH Vận Tải Và Du Lịch Nguyễn Anh Tuấn,"C15, tổ 2, khu Phước Hải, Thị Trấn Long Thành, Huyện Long Thành, Tỉnh Đồng Nai","0902 077 707, 0931 770 807",http://thuexechatluong.com.vn,Đồng Nai
+15,Công Ty TNHH Việt Sài Gòn Tour,"82/27A Lý Chính Thắng, P.Võ Thị Sáu, Quận 3, Tp Hồ Chí Minh (TPHCM)","0283526708, 0902227810, 0909141801",http://vietsaigontour.com,Hồ Chí Minh
+16,Công Ty TNHH Vận Tải Du Lịch Và Dịch Vụ Thương Mại Long Hiền,"Lô D2-32, KDC Số 5 Nguyễn Tri Phương (60 Nguyễn Đăng Đạo), P. Hòa Cường Bắc, Q. Hải Châu, TP. Đà Nẵng","0903 578 012, 0975 288 111",,Đà Nẵng
+17,Nhà Hàng Hương Biển,"Cổng chính chợ thương mại Cầu Bươu, đường Phan Trọng Tuệ, Thanh Trì, Hà Nội",0947 000 268,,Hà Nội
+18,Công Ty TNHH Thương Mại Và Du Lịch Khát Vọng Việt,"Số 1 Lô 4E Trung Yên, Yên Hoà, Q. Cầu Giấy, Tp Hà Nội (TPHN)",(024) 66635511,http://dulichkhatvongviet.com,Hà Nội
+19,Tổng Công Ty Vận Chuyển Hàng Hóa Hàng Không Việt Nam,"Tầng 46-50 Tòa Nhà Hành Chính, Bitexco Số 2 Hải Triều, Phường Bến Nghé, Quận , Tp. Hồ Chí Minh (TPHCM)","0932 109 595, 0906 990 125",http://phuochoanganh.com,Hồ Chí Minh
+20,Công Ty TNHH MTV Tuấn Việt Nhất,"Số 24N/6, Khu Phố Bình Đáng 2, Phường Bình Hòa, TX Thuận An, Tỉnh Bình Dương","(0274) 3763269, 0988 190 678",http://chuyenchothuexe.com,Bình Dương
+21,Công Ty Cổ Phần Thương Mại Du Lịch Và Tổ Chức Sự Kiện Việt Nam,"P. 202, Tòa Nhà Văn Phòng, Số 126 Phố Chùa Láng, P. Láng Thượng, Q. Đống Đa, Hà Nội (TPHN)",(024) 6686 1106 - (024) 3562 7741,http://vntours.com.vn,Hà Nội
+22,Công Ty TNHH Du Lịch Đại Thế Giới,"471 Minh Phụng, Phường 10, Quận 11, Tp. Hồ Chí Minh (TPHCM)","(028) 62911211, 0903 998 111",,Hồ Chí Minh
+23,Công Ty TNHH Dịch Vụ Và Du Lịch ABC,"429/13 Quang Trung, P. 10, Q. Gò Vấp, Tp Hồ Chí Minh (TPHCM)","028 3620 5555, 028 3620 7779",http://dulichabc.vn,Hồ Chí Minh
+24,Công Ty Cổ Phần Phát Triển Sản Xuất Thương Mại Sài Gòn,"200 Bis Lý Chính Thắng, Phường 9, Quận 3, TP. Hồ Chí Minh (TPHCM)",(028) 39318189,http://dulichkhachsan.sadaco.com/,Hồ Chí Minh
+25,Công Ty Cổ Phần Tư Vinh,"40 Nguyễn Thuật, P. Hòa An, Q. Cẩm Lệ, Tp. Đà Nẵng","(0236) 3764825, 3764737, 3508509",http://tuvinh.vn,Đà Nẵng
+26,Công Ty Cổ Phần Thương Mại Vận Tải Vàng,"Số 12 A, Ngõ 74/28 Phố Thượng Thanh, Tổ 11, P. Thượng Thanh, Q. Long Biên, TP Hà Nội (TPHN)","(024) 62954499, 0916.386.889",http://vantaivang.com,Hà Nội
+27,Công Ty Cổ Phần Dịch Vụ Phương Trân,"Số 85 Trần Hoàng Na, Hưng Lợi, Ninh Kiều, Cần Thơ",0965.328.328 - 0931.008.333,http://dichvucantho.com.vn,Cần Thơ
+28,Đại LÝ Vé Máy Bay Hiệp Phất Tài - Công Ty TNHH MTV Hiệp Phất Tài,"1314 Tỉnh Lộ 10, Khu Phố 5, Phường Tân Tạo, Quận  Bình Tân, Tp. Hồ Chí Minh(TPHCM)","(028) 54073314, 37673314, 66513314, 62863314",http://vemaybayhiepphattai.com,Hồ Chí Minh
+29,Công Ty TNHH Xây Dựng Thương Mại Dịch Vụ Lộc Hưng Phát,"Số 22, Đường Phan Văn Sửu, Phường 13, Quận Tân Bình, TP Hồ Chí Minh (TPHCM)",(028) 69625135,http://lochungphat.net,Hồ Chí Minh
+30,Công Ty TNHH Thương Mại Dịch Vụ Thanh Hiệp Phát,"20/8A Nguyễn Văn Cự, KP 5, Phường Tân Tạo A, Quận Bình Tân, TP Hồ Chí Minh (TPHCM)","(028) 22410907, 0909.252.642",http://thuexebinhtan.ticc.vn,Hồ Chí Minh
+31,Công Ty TNHH Thương Mại Dịch Vụ Vận Tải Đại Nghĩa,"Số 181/21 Nghĩa Phát, Phường 6, Q. Tân Bình, TP. Hồ Chí Minh (TPHCM)",(028) 39716050 - 0908 847 405,,Hồ Chí Minh
+32,Công Ty TNHH MTV Thương Mại Dịch Vụ Vận Tải Phú Thành Phát,"Số 68 Hẻm 9, Tổ 38, Đường Trần Nhân Tông, Khu Cầu Xéo, TT. Long Thành, Tỉnh Đồng Nai","(0251) 3844483, 0908 128 856",http://vantaiphuthanhphat.com,Đồng Nai
+33,Công Ty TNHH MTV Phú Thành Hiệp N,"308 Đường Mai Thị Non, TT. Bến Lức, H. Bến Lức, Long An",(0272) 3655686,http://phuthanhhiepn.mov.mn,Long An
+34,Shop Hoa Lan Nghi,"7A/5/16 Thành Thái, Phường 14, Quận 10, TP. Hồ Chí Minh (TP.HCM)","(028) 35026056, 38866876",http://hoalannghi.com,Hồ Chí Minh
+35,Công Ty TNHH Truyền Thông Du Lịch Phúc Thịnh,"155 Tên Lửa, P. Bình Trị Đông B, Q. Bình Tân, Tp. Hồ Chí Minh (TPHCM)",0989 114 488,http://dulichphucthinh.com,Hồ Chí Minh
+36,Công Ty Cổ Phần Abc Toàn Cầu,"Số 374, đường Lạc Long Quân, P.Xuân La, Quận Tây Hồ, Tp Hà Nội (TPHN)","024.37199100, Hotline: 0364895868",http://thuexedulich.com.vn,Hà Nội
+37,Công Ty Cổ Phần Đầu Tư Du Lịch Toàn Cầu,"256 Nguyễn Khoái, P.Thanh Lương, Q. Hai Bà Trưng, TP Hà Nội (TPHN)","02439948904, 0909254511",,Hà Nội
+38,Công Ty TNHH Du Lịch Giấc Mơ Việt,"Nhà C18, Lô 8, KĐT Định Công, P. Định Công, Q. Hoàng Mai, Tp.Hà Nội (TPHN)",0935999886,http://dreamtravel.com.vn,Hà Nội
+39,Công Ty TNHH Vận Tải Và Thương Mại Hoàng Thắng,"Thôn Thiết Trụ, Xã Bình Minh, Huyện Khoái Châu, Hưng Yên",(0221) 18525252,,Hưng Yên
+40,Công Ty TNHH Dịch Vụ Du Lịch Tuấn Dũng,"Số 24 Đường 3/2, Phường Thuận Phước, Q. Hải Châu, TP. Đà Nẵng","(0236) 3828384, 0914 43 43 43",https://tuandungtravel.com,Đà Nẵng
+41,Công Ty TNHH Sản Xuất Thương Mại Du Lịch MeMo,"27/22 Đường Âu Dương Lân, P. 3, Q .8 Tp. Hồ Chí Minh  (TPHCM)  - VPGD: Số 59 Hoàng Việt, P. 4, Q. Tân Bình, Tp. Hồ Chí Minh (TPHCM)","(028) 38841783, 22005008",http://dulichmemo.com,Hồ Chí Minh
+42,Công Ty TNHH Thương Mại Du Lịch Phong Cảnh Việt,"268/4 Nguyễn Thái Bình, P. 12, Q. Tân Bình, Tp. Hồ Chí Minh (TPHCM)",(028) 38110388,,Hồ Chí Minh
+43,Công Ty Cổ Phần Du Lịch Thương Mai Và Đầu Tư Tracotour,"16A Nguyễn Công Trứ, Q. Hai Bà Trưng,TP Hà Nội (TPHN)","(024) 39713627, 39711692",http://tracotour.com,Hà Nội
+44,Công Ty TNHH MTV Phú Lộc Bình,"05 Sương Nguyệt ánh, Quận Sơn Trà, TP. Đà Nẵng",0983 494 272,http://thuexegiaredanang.com.vn,Đà Nẵng
+45,Công Ty TNHH MTV Du Lịch Phong Cách Việt,"292/33/35 Bình Lợi, P. 13, Q. Bình Thạnh, Tp. Hồ Chí Minh (TPHCM)","(028) 3553 2095, 0934 008 116",http://phongcachviettravel.vn,Hồ Chí Minh
+46,Công Ty TNHH Dịch Vụ Thương Mại Và Vận Tải Nhất Thiên Sơn,"19/393 A Lê Đức Thọ, F.15, Q, Gò Vấp, TP. Hồ Chí Minh (TPHCM)","(028) 39165131, 093.4689.393",http://chuyenkhoxuong.com,Hồ Chí Minh
+47,Công Ty TNHH Thương Mại Dịch Vụ Và Du Lịch Đất Tây Đô,"14 Trần Văn Hoài, P. Xuân Khánh, Q. Ninh Kiều, Tp. Cần Thơ","(0292) 3768471, 3768472, 3768473, 0939.593.567",http://www.taydotravel.com,Cần Thơ
+48,Công Ty Cổ Phần Phát Triển Thương Mại Và Du Lịch Phù Đổng,"Km 3, Quốc Lộ 3, X. Mai Lâm, H. Đông Anh, Hà Nội",0912 075 844,http://phudongtravel.com.vn,Hà Nội
+49,Công Ty TNHH Quang Hùng,"Số 18 Nguyễn Hữu Cầu, Phường 3, TP. Vũng Tàu, Tỉnh Bà Rịa - Vũng Tàu","(0254) 3531861, 3531860, 0933 700 898",http://vungtaucar.com,Bà Rịa - Vũng Tàu
+50,Công Ty TNHH Tứ Diệp Thảo,"Xóm 11, X. Cổ Nhuế, H. Từ Liêm, TP Hà Nội (TPHN)","(024) 22005708, 22005709, 22606694, 22606695",http://lcctravel.net,Hà Nội
+51,Công Ty TNHH Thương Mại Và Du Lịch Sài Gòn Bình Minh,"163/14/39 Tô Hiến Thành, P 13, Q. 10, Tp. Hồ Chí Minh (TPHCM)","0917 111 877, 028 39252995",http://www.saigonsunrise.com,Hồ Chí Minh
+52,Công Ty TNHH Thương Mại Dịch Vụ Và Du Lịch Thiên Ý Thành,"50A Khu Dân Cư Phước Yên A, X. Phú Quới, H. Long Hồ, Vĩnh Long  CN: 169/22 Đường Phó Cơ Điều, Phường 3, TP. Vĩnh Long","(0270) 6270049, 6270079 - 0914 031 559",,Vĩnh Long
+53,Công Ty Cổ Phần Môi Trường Đô Thị Quy Nhơn,"40 Phan Bội Châu, P. Lê Lợi, TP. Quy Nhơn, Bình Định","(0256) 3822545, 3826609",http://mtdtquynhon.com.vn,Bình Định
+54,Công Ty Cổ Phần Thương Mại Và Dịch Vụ Du Lịch Đà Nẵng Xanh,"376 Nguyễn Tri Phương, Q. Hải Châu, Tp Đà Nẵng","(0236) 2475555, 6506789",https://www.danangxanh.com,Đà Nẵng
+55,Công Ty TNHH Thương Mại Dịch Vụ Du Lịch Lúa Vàng,"198 Nguyễn Văn Cừ, P. An Hòa, Q. Ninh Kiều, Tp. Cần Thơ","(0292) 6257676,  0938.43.24.26",http://dulichluavang.com,Cần Thơ
+56,Công Ty TNHH Dịch Vụ Du Lịch Nối Vòng Tay Lớn,"Số 03, Ngách 203/43 Tôn Đức Thắng, P. Hàng Bột, Q. Đống Đa, TP.Hà Nội (TP.HN)",0966 653 888 - 0936 868 282,http://banduongdulich.com,Hà Nội
+57,Doanh Nghiệp Tư Nhân Dịch Vụ Du Lịch Biển Hà Tiên,"14 Tuần Phủ Đạt, TX. Hà Tiên, Kiên Giang",(0297) 370 1575,http://bienhatientravel.com,Kiên Giang
+58,Công Ty Cổ Phần VNTour,"38 Út Tịch, Phường 04, Quận Tân Bình, Tp. Hồ Chí Minh (TP.HCM)",1900555578,http://vntour.com.vn,Hồ Chí Minh
+59,Công Ty TNHH MTV Lữ Khách Việt,"126M, Tổ 17, Kp 5, P. Trảng Dài, Tp. Biên Hòa, Đồng Nai",0933 748 666,http://lukhachviet.com,Đồng Nai
+60,Công Ty TNHH Thương Mại Dịch Vụ Du Lịch Trần Đặng,"246 - 248 Đề Thám, Quận 1, TP. Hồ Chí Minh(TPHCM)",(028) 38389593,https://www.thesinhtourist.vn,Hồ Chí Minh
+61,Công Ty TNHH Đầu Tư Thương Mại Và Du Lịch Mở Hà Nội,"Số 18B/165 đường Cầu Giấy, P.Dịch Vọng, Q.Cầu Giấy, Tp Hà Nội (TPHN)",024 3912 0000 – 0904 988 377,,Hà Nội
+62,Công Ty TNHH Du Lịch Và Vận Tải Đinh Vy Vân,"E2 KQH Hoàng Diệu, Phường 5, Tp. Đà Lạt, Tỉnh Lâm Đồng","(0263) 3900792, 0908 032 339",http://vyvantravel.com,Lâm Đồng
+63,Công Ty TNHH Thương Mại Và Du Lịch An Tâm,"Số 109, Trần Hưng Đạo, P. Cửa Nam, Q. Hoàn Kiếm, Tp. Hà Nội (TPHN)","0972 60 70 50, 0912 121 836",http://antamtour.vn,Hà Nội
+64,Công Ty Cổ Phần Phú Mỹ Phát,"495 Nguyễn Hữu Thọ, Phường Khuê Trung, Quận Cẩm Lệ, TP. Đà Nẵng",0904.402.402 - 0905.627.627 - 0977.627.627,http://phumyphat.com,Đà Nẵng
+65,Công Ty Cổ Phần Thương Mại Và Du Lịch Phú Hoàng Minh,"Số 10, Ngách 336/9, Ngõ 336, Nguyễn Trãi, Q. Thanh Xuân, TP Hà Nội (TPHN)","(024) 39271362, 39907235, 0936 686 086",http://phuhoangminh.vn,Hà Nội
+66,Công Ty Cổ Phần Du Lịch Và Thương Mại Quốc Tế Á Âu,"Phòng 1705, Tòa Nhà 129 Ban Cơ Yếu Chính Phủ, Số 51 Quan Nhân Phường Nhân Chính, Quận Thanh Xuân, Tp. Hà Nội(TPHN)","(024) 35668268, 35668266, 63257536",http://www.asiaholiday.com.vn,Hà Nội
+67,Công Ty Cổ Phần Tập Đoàn Vận Tải Phượng Hoàng,"Thôn Ninh Phúc, X. Hùng An, Kim Động, Hưng Yên","(0221) 3551464, 3862022",http://phuonghoanggroup.vn,Hưng Yên
+68,Công Ty Cổ Phần Dịch Vụ An Dân,"21 Đặng Trần Côn, P. Quốc Tử Giám, Q. Đống Đa, Tp. Hà Nội","(04) 37464646, 36414141",http://xedulichngoclinh.vn,Hà Nội
+69,Công Ty TNHH Du Lịch Nụ Cười Việt,"27A Nguyễn Tất Thành, P.Phước Trung, Tp Bà Rịa, Vũng Tàu",0908 010 274,,Vũng Tàu
+70,Công Ty TNHH Vận Tải Và Du Lịch Tùng Dương,"Số 10 Tập Thể Thiết Bị 2, X. Vĩnh Quỳnh, H. Thanh Trì, Tp Hà Nội (TPHN)","0937.444.444, 0984.359.999",http://canthuexe.com,Hà Nội
+71,Công Ty TNHH Du Lịch Lữ Hành Văn Lang,"142A Đường 868, Khu Phố 2, Phường 1, Thị Xã Cai Lậy, Tiền Giang","(0273) 3710904, 3710905",http://www.dulichvanlang.com/,Tiền Giang
+72,Công Ty Cổ Phần Du Lịch Việt Nam TravelMart,"Số 68, Đường Nguyễn Thị Minh Khai, P. Thạch Thang, Q. Hải Châu, Tp. Đà Nẵng",(0236) 3886555,http://vietnamtravelmart.com.vn,Đà Nẵng
+73,Công Ty Cổ Phần Xúc Tiến Thương Mại Đầu Tư Và Du Lịch ANZ,"71 Phố Mai Hắc Đế, Q. Hai Bà Trưng, Hà Nội (TPHN)","0987 12 13 18, 024 397 444 05",http://www.dulichanz.com,Hà Nội
+74,Công Ty TNHH Du Lịch Chân Trời Mới,"39 Nguyễn Hữu Cảnh, Phường 22, Quận Bình Thạnh, Tp. Hồ Chí Minh (TPHCM)",(028) 35140507,http://nhtravel.vn,Hồ Chí Minh
+75,Công Ty TNHH MTV Thái Loan Phát,"102/C1 Hà Huy Giáp, P. Quyết Thắng, Tp. Biên Hòa, Đồng Nai",(0251) 3826555,http://thailoanphat.com,Đồng Nai
+76,Avani Harbour View Hotel,"12 Trần Phú, Ngô Quyền, Tp Hải Phòng",(0225) 3827827,http://www.avanihotels.com,Hải Phòng
+77,Công Ty TNHH Thương Mại Dịch Vụ Du Lịch Xây Dựng Gia Huy,"60 Út Tịch, Phường 4, Quận Tân Bình, TP. Hồ Chí Minh (TPHCM)",(028) 71096868​,,Hồ Chí Minh
+78,Công Ty TNHH Hiệp Phong Phát,"239/5A Đường Tân Quý, P. Tân Quý, Q. Tân Phú, Tp Hồ Chí Minh  (TPHCM)",(028) 62672188,http://hiepphongphat.vn,Hồ Chí Minh
+79,Công Ty TNHH Thương Mại Điện Tử Du Lịch Thời Đại Việt,"25 Đỗ Quang Đẩu, Phường Phạm Ngũ Lão, Quận 1, TP. Hồ Chí Minh (TP.HCM)",0911.329.788,http://www.eraviettravel.com,Hồ Chí Minh
+80,Công ty Du Lịch Hành Trình Việt - Công Ty TNHH Du Lịch Vận Chuyển Hành Trình Việt,"2 Hoa Phượng, Phường 02, Quận Phú Nhuận, Tp Hồ Chí Minh (TPHCM)",0908 618 571,https://www.dulichhanhtrinhviet.com/,Hồ Chí Minh
+81,Công Ty TNHH MTV Giao Nhận Vận Tải Thái Bình Phát,"Ô 36 Lô A, Tổ 11, KP 4, P. An Phú, TX Thuận An, Bình Dương",(0274) 3777190,,Bình Dương
+82,Công Ty TNHH Phú Đạt Gia,"65 Nguyễn Biểu (110 Đinh Tiên Hoàng), TP. Huế, Thừa Thiên-Huế","(0234) 3589993, 3589994, 3589995",http://www.phudatgiahue.com.vn,Thừa Thiên-Huế
+83,Công Ty Cổ Phần Thương Mại Dịch Vụ Hanoitrans,"Số 54, Ngõ 154, Phố Việt Hưng, Việt Hưng, Q.Long Biên, TP Hà Nội (TPHN)","(024) 38779977, 0913 534 040",http://xedulich.vn,Hà Nội
+84,Công Ty TNHH Thương Mại Và Dịch Vụ Du Lịch Quảng Đà Thành,"40 Ngô Thi Sĩ, Ngũ Hành Sơn - Thành Phố Đà Nẵng",(0236) 2638638,http://dathanhtravel.com,Ngũ Hành Sơn - Thành Phố Đà Nẵng
+85,Công Ty TNHH Dịch Vụ Du Lịch Đất Nước Việt,"1096A Khu phố 3 Đường Số 4, P.Tam Phú, Tp Thủ Đức, Tp Hồ Chí Minh (TPHCM)","(028) 38210737, 38210739", http://www.datnuocviettour.com,Hồ Chí Minh
+86,Công ty TNHH Trần Gia Phú Thái,"302 Nguyễn Trãi, Trung Văn, Từ Liêm, Hà Nội (TPHN)",19001281,http://phuthaitravel.com/,Hà Nội
+87,Công Ty CP TMDV Du Lịch Tình Yêu Việt (VIET LOVE TRAVEL),"31B đường 38, Phường Hiệp Bình Chánh, Quận Thủ Đức, Tp Hồ Chí Minh(TPHCM)",(028) 37266636/ 0919 600 087,http://vietlovetravel.com,Hồ Chí Minh
+88,Công Ty TNHH Đầu Tư Và Du Lịch Nét Việt,"316/48 Nguyễn Văn Nghi, Phường 7, Quận Gò Vấp, TP. Hồ Chí Minh (TPHCM)",(028) 38957456,http://dulichnetviet.vn,Hồ Chí Minh
+89,Công Ty TNHH Thương Mại Và Dịch Vụ Du Lịch Thành Thành,"31A Lê Quý Đôn, TP. Nha Trang, Khánh Hòa  VPGD: 44 Lê Thành Phương, Tp. Nha Trang, Khánh Hòa",(058) 3527007,http://www.thanhthanhtravel.vn,Khánh Hòa
+90,Công Ty TNHH Minh Phong,"Số 7 Cô Bắc, Tp. Nha Trang, Khánh Hòa",(0258) 3514924,,Khánh Hòa
+91,Công Ty TNHH Thương Mại Và Du Lịch Phong Lưu,"101/5 Đường Hoàng Diệu, P. 5, TP Đà Lạt, T. Lâm Đồng","0933 114 339, 0905204530, 0909456557",https://www.dalattour.vn,Lâm Đồng
+92,Công Ty TNHH Thương Mại Dịch Vụ Xây Dựng Quang Long,"A57 Tân Sơn, Phường 12, Q. Gò Vấp, TP. Hồ Chí Minh (TPHCM)",(028) 62731792 - 0983 767 410,http://xaydungquanglong.com,Hồ Chí Minh
+93,Công Ty Cổ Phần Đầu Tư Thương Mại Và Du Lịch Kinh Đô - KINHDO TRAVEL,"Phòng 1001 Tầng 10 Tòa tháp Thành Công, 57 Láng Hạ, Ba Đình, Hà Nội(TPHN)","(024) 35190717, 0904376116",http://dulichkinhdo.com.vn,Hà Nội
+94,Công Ty TNHH Dịch Vụ Du Lịch Khánh Lan,"216 Tôn Đản, Phường 8, Quận 4, TP. Hồ Chí Minh  CS 2: 186 Tôn Đản, Phường 8, Quận 4, TP. Hồ Chí Minh  CS 3: 15/11 Huỳnh Tấn Phát, Xã Phú Xuân, Huyện Nhà Bè, TP. Hồ Chí Minh","(028) 39411157, 39411157, 37770138",http://dulichkhanhlan.com,Hồ Chí Minh
+95,Công Ty CP Du Lịch Quốc Tế ALO TOUR,"193 Tôn Đức Thắng, Phường An Dương, Quận Lê Chân, Tp. Hải Phòng",0936 759 666 - 0977 173 666,http://dulichalotour.com/,Hải Phòng
+96,Công Ty TNHH TM Và DV Go Travel,"770 Trần Hưng Đạo, Phường 7, Quận 5, Tp Hồ Chí Minh (TPHCM)",(84-28) 3838 3878,http://www.gotravel.vn/,Hồ Chí Minh
+97,Công Ty TNHH MTV TM Và Dịch Vụ Trung Hưng phát,"139/40 Đường Số 9, Khu phố 5 , Phường Linh Tây, Quận Thủ Đức, Thành phố Hồ Chí Minh",(028) 62822079,http://trunghungphat.com,Hồ Chí Minh
+98,Công Ty TNHH MTV Công Nghệ Và Dịch Vụ Kim Long,"350 Nguyễn Tri Phương, P. Hòa Thuận Tây, Q. Hải Châu, TP. Đà Nẵng",(0236) 3656300 - 0905 680 486,http://kimlonggps.com,Đà Nẵng
+99,Dịch Vụ Cho Thuê Xe Tại Long Xuyên,"8 Trần Bình Trọng, Mỹ Xuyên, Long Xuyên, An Giang",0918 375 120,,An Giang
+100,Cứu Hộ Giao Thông Bình Dương,"21 Ấp Cổng Xanh , Xã Tân Bình, H. Bắc Tân Uyên, Bình Dương",(0650) 3691791,http://www.cuuhobinhduong.com,Bình Dương
+101,Công Ty Cổ Phần Truyền Thông Sự Kiện Du Lịch Phú Dũng,"Số 11, Tổ 15, Phường Phúc Diễn, Quận Bắc Từ Liêm, Tp. Hà Nội (TPHN)","(024) 35146929, 37765480, 0978.136.666",http://www.phudungtourism.com,Hà Nội
+102,Công Ty TNHH Du Lịch Hành Trình Phương Đông,"Nhà A6, TTĐH Sư Phạm, Ngõ 100, Đường Hoàng Quốc Việt, P. Nghĩa Đô, Q. Cầu Giấy, Hà Nội(TPHN)","(024) 37480841, 0378607777",http://www.hanhtrinh-phuongdong.com,Hà Nội
+103,Công Ty Cổ Phần Thương Mại Dịch Vụ HaNoiTRANS,Số 54 - Ngõ 154 - Việt Hưng - Long Biên - Hà Nội,(024) 38 77 99 77,http://xedulich.vn,Hà Nội
+104,Công Ty Cổ Phần Du Lịch Và Thương Mại Bắc Thăng Long,"25 Hồ Đắc Di, P. Nam Đồng, Q. Đống Đa, Tp Hà Nội (TPHN)",(024) 35332077,http://btl.com.vn,Hà Nội
+105,Công Ty TNHH Thương Mại Và Dịch Vụ Du Lịch Quê Hương Việt,"Phòng7, Lầu 6, Lô A, Tòa Nhà 769-783 Trần Xuân Soạn (Cao Ốc Hoàng Anh Gia Lai), P. Tân Hưng, Q. 7, Tp. Hồ Chí Minh",(08) 62639377,www.qht.vn,Hồ Chí Minh
+106,Công Ty TNHH Xúc Tiến Thương Mại Quốc Tế VTE (V.T.E travel),"Tầng 3, Số 56, Đường Hoàng Văn Thái, P. Khương Mai, Q. Thanh Xuân, Hà Nội (TPHN)",(024) 35668372,http://vtetravel.com,Hà Nội
+107,Công Ty Cổ Phần Du Lịch Và Thương Mại Hải Đăng,"17 Bùi Thị Xuân, Q.Hai Bà Trưng, Tp. Hà Nội (TPHN)",(024) 39454500,,Hà Nội
+108,Công Ty TNHH Dịch Vụ Thương Mại Du Lịch Đông Âu,"276 Nguyễn Tất Thành, P. 13, Q. 4, Tp. Hồ Chí Minh (TPHCM)","0909 824 539, 0918 333 303, 0989 002 468",http://hellovietnam.biz,Hồ Chí Minh
+109,Công Ty TNHH MTV Thương Mại Du Lịch Đồng Hành Việt,"4 Ngô Chân Lưu, Q. Liên Chiểu, Tp. Đà Nẵng",(0236) 2247076,http://donghanhviet.com.vn,Đà Nẵng
+110,Công Ty TNHH Đồng Nội Phú Quốc,"Trần Hưng Đạo, Cửa Lấp, Xã Dương Tơ, Huyện Phú Quốc, Kiên Giang",(0297) 3994 444,http://tourphuquoc.vn,Kiên Giang
+111,Công Ty Cổ Phần Thương Mại Và Du Lịch Rồng Việt,"Phòng 284, Tầng 2, Tòa Nhà Sholega, Số 275 Lạch Tray, Q. Ngô Quyền, Tp. Hải Phòng","(0225) 3503435, 0902 242 325",,Hải Phòng
+112,Công Ty Tổ Chức Hội Nghị Sự Kiện và Du Lịch Quốc Tế Hòa Bình,"39 An Trạch 1, P. Quốc Tử Giám, Q. Đống Đa, Tp. Hà Nội","(04) 37325976, 35171797",http://hoabinhtourist.com,Hà Nội
+113,Công Ty TNHH Lương Thanh Hải,"Lầu 1, Số 11, Tổ 28, Ấp 3, Xã Hiệp Phước, Huyện Nhơn Trạch, Tỉnh Đồng Nai",(0251) 3569869,,Đồng Nai
+114,Công Ty TNHH Thương Mại Và Dịch Vụ Du Lịch Bắc Á,"Số nhà 55, ngõ 1, tổ 15, P. Cầu Diễn, Q. Nam Từ Liêm, Tp Hà Nội (TPHN)","(024) 38383211, 37336500, 39907228",http://www.thuexe.com,Hà Nội
+115,Công Ty Cổ Phần Truyền Thông Và Du Lịch Bản Sắc Việt,"27/325 Kim Ngưu, Q. Hai Bà Trưng, Hà Nội","(04) 35991666, 35991555",http://bsv.teambuilding.com,Hà Nội
+116,Công Ty TNHH Đầu Tư Du Lịch Minh Giang,"Số 15, Ngõ 2, Tây Sơn, P. Yết Kiêu, Q. Hà Đông, Hà Nội","(04) 39949166, 39995032",http://minhgiangtour.com,Hà Nội
+117,Công Ty TNHH Thương Mại Và Du Lịch Hanoi Newtour,"Số 88, Tổ 12, P. Long Biên, Q. Long Biên, Hà Nội",(04) 36700566,http://hanoinewtour.com.vn/,Hà Nội
+118,Công Ty TNHH Nhà Nước MTV Du Lịch Công Đoàn Hà Nội,"98 Tô Ngọc Vân, P. Quảng An, Q. Tây Hồ, Tp. Hà Nội (TPHN)","(024) 37192197, 37192181",http://www.congdoantour.com.vn,Hà Nội
+119,Công Ty TNHH Một Thành Viên Ân Thanh Nam,"6/22 Bình Đức 2, P. Bình Hòa, TX. Thuận An, Bình Dương",0965 636 997,,Bình Dương
+120,Công Ty Cổ Phần Cơ Khí Sơn La,"Km 10, Khu Công Nghiệp Chiềng Sinh, Phường Chiềng Sinh, Sơn La",(022) 3874343,http://coxamasonla.vn,Sơn La
+121,Xuân Đại Thắng Hotel - Công Ty TNHH Dịch Vụ Bảo Vệ Xuân Đại Thắng,"Số 375, Ấp Hòa Bình, Xã Giang Điền, Huyện Trảng Bom, Tỉnh Đồng Nai",(0251) 3602268 - 0933.339.939,,Đồng Nai
+122,Công Ty TNHH An Cường Anh,"Số 10, KDC. 434, KP. Bình Đáng, P. Bình Hòa, TX. Thuận An, Bình Dương","(0274) 3766585, 3784669",http://ancuonganh.com,Bình Dương
+123,Công Ty TNHH Thương Mại Và Du Lịch Hành Trình Xanh,"Số 5, Ngách 182, Ngõ 34, Phố Vĩnh Tuy, Q. Hai Bà Trưng, Hà Nội",(04) 321207019,http://dulichhanhtrinhxanh.com,Hà Nội
+124,Công Ty TNHH Du Lịch Huyền Thoại,"228 Tổ 7, KP. 5, P. Tân Hoà, Biên Hoà, Đồng Nai  CN:  204/5, KP. 3, P. Tân Mai, Tp. Biên Hòa, Đồng Nai",(0251) 3988692,http://dulichhuyenthoai.com,Đồng Nai
+125,Công Ty Cổ Phần Du Lịch Và Dịch Vụ Minh Hải,"Số 01, đường Lý Bôn, P4, Tp. Cà Mau, T. Cà Mau",(0290) 3831828,http://dulichminhhai.com,Cà Mau
+126,Công Ty Cổ Phần Du Lịch Thương Mại Quốc Tế Năm Châu,"Số 55 - CT7 Khu Đô Thị Văn Phú, Phú La, Quận Hà Đông, TP. Hà Nội (TP.HN)",0936 126 188,,Hà Nội
+127,Công Ty TNHH Thương Mại Và Dịch Vụ Du Lịch Hà Trang,"194 Ngô Gia Tự, Tp. Nha Trang, T. Khánh Hòa",02583515177,http://hatrangtravel.com,Khánh Hòa
+128,Công Ty TNHH Vũ Hùng Phát,"số 211, phố Giáp Nhất, phường Thượng Đình, Quận Thanh Xuân, Tp. Hà Nội",(024) 32808080,http://congtyvuhungphat.com,Hà Nội
+129,Công Ty Cổ Phần Vân Hương,"145 Khuất Duy Tiến, P. Nhân Chính, Q. Thanh Xuân, Tp Hà Nội (TPHN)","02422133262, 02439971230",https://vanhuong.vn,Hà Nội
+130,Công ty TNHH Sự Kiện Và Du Lịch Quốc Tế Sao Việt,"Số 341, Đường Thống Nhất, Phường Gia Sàng,  Tp. Thái Nguyên","(0208) 6262728, 0979.097.111",,Thái Nguyên
+131,Công Ty TNHH Thương Mại Dịch Vụ Du Lịch Phương Nam,"275E Phạm Ngũ Lão, P. Phạm Ngũ Lão, Q. 1, Tp. Hồ Chí Minh","(08) 38364668, 38364086",http://phuongnamtravel.vn,Hồ Chí Minh
+132,Công Ty Cổ Phần Giải Pháp Kho Vận ánh Dương,"63A Điện Biên Phủ, Phường 15, Quận Bình Thạnh, TP Hồ Chí Minh (TPHCM)","(028) 38405100, 0906 412 868",http://slsc.com.vn,Hồ Chí Minh
+133,Công Ty TNHH Thương Mại Dịch Vụ Du Lịch Đệ Nhất,"763 Lê Hồng Phong, Phường 12, Quận 10, TP Hồ Chí Minh (TPHCM)",(028) 62577779,https://denhattravel.vn,Hồ Chí Minh
+134,Công Ty TNHH MTV Thương Mại Dịch Vụ Du Lịch Ước Mơ,"Số 10, Đường Số 4, KDC Metro Cash, P. Hưng Lợi, Q. Ninh Kiều, TP. Cần Thơ","(0292) 3733999, 0939.404.242",http://www.dulichuocmo.com,Cần Thơ
+135,Công Ty TNHH Du Lịch Bazan Việt Nam,"957 Phan Văn Trị, Phường 7, Quận Gò Vấp, Tp. Hồ Chí Minh",(08) 35888868,http://bazantravel.com,Hồ Chí Minh
+136,Công Ty Cổ Phần Thương Mại Phát Triển Công Nghệ Và Du Lịch Quốc Tế AMI,"Số 32, ngõ 69 B phố Chùa Láng, P. Láng Thượng, Q. Đống Đa, Tp Hà Nội (TPHN)",(024) 37282660,http://www.amibay.vn,Hà Nội
+137,DNTN Vận Tải Và Du Lịch Lê Đang,"48 Nguyễn Văn Linh, P. Phú Lâm, Tp. Tuy Hòa, Phú Yên","0935 456 567, 0985 186 188",http://xedulichledang.com,Phú Yên
+138,Công ty TNHH Kết Nối Taxi Nội Bài,"Thôn Lập Trí, Xã Minh Trí, Huyện Sóc Sơn, Tp. Hà Nội",(04) 35729666,http://xetaxinoibai.vn,Hà Nội
+139,Công Ty TNHH Thương Mại Và Dịch Vụ Gate Việt Nam,"Số 1 Ngõ 499 Kim Mã, Q. Ba Đình, Hà Nội",(04) 66810810,http://www.thuexe.net,Hà Nội
+140,Công Ty Cổ Phần Thương Mại Du Lịch Và Hợp Tác Quốc Tế Havinas,"Tầng 4, Tòa Nhà Vinatea, Số 46 Tăng Bạt Hổ, P. Phạm Đình Hồ, Q. Hai Bà Trưng, Tp Hà Nội (TPHN)",(024) 22425899,http://havinatravel.com.vn,Hà Nội
+141,Công Ty Cổ Phần Thăng Long Tourist Việt Nam,"Số Nhà 264, Tổ Dân Phố Đồng Tâm, P. Ba Hàng, Thị Xã Phú Yên, T. Thái Nguyên - Văn Phòng Giao Dịch: TP Hà Nội (TPHN)",(0208) 22111758,http://thanglongtourist.com.vn,Hà Nội
+142,Công Ty Du Lịch Toàn Hoàn Châu,"179 võ nguyên giáp. P8, TP Trà Vinh, Tỉnh Trà Vinh",(0294) 3865898,,Trà Vinh
+143,Công Ty TNHH MTV Vận Tải Hải Trung Kim,"110/1777D Lê Đức Thọ, P. 13, Q. Gò Vấp, Tp. Hồ Chí Minh  VPGD: Phòng 706, Lầu 7, 79 Trương Định, P. Bến Thành, Q. 1, Tp. Hồ Chí Minh",(08) 62774781,http://goodcarvietnam.com,Hồ Chí Minh
+144,Công Ty Cổ Phần TM DV Và Du Lịch Đại Phong (Let's Tour),"Số 129 ngõ 217 Trần Phú, Quận Hà Đông, Tp Hà Nội",(024) 32006389,,Hà Nội
+145,Công Ty TNHH Thương Mại Dịch Vụ Và Du Lịch Aroma Hà Nội,"Số 2, Ngõ 24, Nguyễn Văn Ngọc, Ba Đình, Tp. Hà Nội",0988 782 081,http://aromatravel.vn,Hà Nội
+146,Công Ty TNHH MTV Thương Mại Du Lịch Kiên Giang ,"Số 5 Lê Lợi, P. Vĩnh Thanh Vân, Tp. Rạch Giá, Kiên Giang","(077) 3862081, 3945522",http://ktskiengiang.com,Kiên Giang
+147,Công Ty TNHH Thương Mại Dịch Vụ Du Lịch Vận Tải Kim Thanh Phát,"97 Dương Khuê, P. Hiệp Tân, Q. Tân Phú, Tp. Hồ Chí Minh","(08) 39738603, 39738924",http://kimthanhphattrans.com,Hồ Chí Minh
+148,Công Ty TNHH MTV An Gia Phú,"268A Đường Độc Lập, P.Tân Thành, Q.Tân Phú, Tp Hồ Chí Minh (TPHCM) - Chi Nhánh : Q. Ngũ HànhSơn, TP. ĐàNẵng",(028) 62816700 - Hotline: 0913118208 (Mr. Duy),http://www.agpvietnam.com,ĐàNẵng
+149,Công Ty Dịch Vụ Du Lịch Minh Tâm,"Hiên Vân, Tiên Du, Bắc Ninh",(0241) 3838045,http://dulichminhtam.vn,Bắc Ninh
+150,Công Ty TNHH MTV Nhị Đông Hải,"Số 187 Nguyễn Hữu Thọ, Quận Hải Châu, Tp. Đà Nẵng",(0511) 3634111,,Đà Nẵng
+151,Công Ty TNHH Du Lịch Và Đầu Tư Hữu Nghị,"Số 8, Phan Bội Châu, Quận Hoàn Kiếm, Tp. Hà Nội",(024) 38267421,http://www.dulichhuunghi.com,Hà Nội
+152,Công Ty TNHH Đầu Tư Du Lịch Rồng Đông Dương,"282 Nam Kỳ Khởi Nghĩa, P. 8, Q. 3, Tp. Hồ Chí Minh",(08) 38436819,http://www.indochinevn.com,Hồ Chí Minh
+153,Công Ty Cổ Phần Vận Tải Việt Mỹ,"14 Km 12,Quốc Lộ 1A, Vĩnh Quỳnh, H. Thanh Trì, TP Hà Nội (TPHN)","(024) 38617089, 36875084, 0913 598 362",http://vantaivietmy.com,Hà Nội
+154,Du Lịch Minh Phương - Đồng Hồ - Mắt Kính Phương,"18 Nguyễn Oanh, P. 7, Q. Gò Vấp, Tp. Hồ Chí Minh (TPHCM)","(028) 38941030, 0903.935.104",,Hồ Chí Minh
+155,Công Ty TNHH Thu Hiền,"426 Ngô Quyền, P. Mân Thái, TP. Đà Nẵng",0868.627.627,http://thuhien.com.vn,Đà Nẵng
+156,Công Ty TNHH Thương Mại & Du Lịch Let's Fly Travel,"172/14/4 Bạch Đằng, Nha Trang, Khánh Hòa",1900636332,https://letsflytravel.vn,Khánh Hòa
+157,Công Ty TNHH Thương Mại Thiết Bị Kỹ Thuật Thái Dương,"38 Nguyễn Chí Thanh, TT. Phú Mỹ, H. Tân Thành, Bà Rịa-Vũng Tàu","(064) 3932769, 0978 667 769",,Bà Rịa-Vũng Tàu
+158,Công Ty TNHH Thương Mại Và Du Lịch Greencanal Việt Nam,"P 301, Tòa nhà Văn Hoa, 51 Kim mã, Quận Ba Đình, TP Hà Nội (TPHN)","(024) 37245292, 0936 035 658",http://dulichq.com,Hà Nội
+159,Công Ty Cổ Phần Truyền Thông Du Lịch Việt,"175 Nguyễn Thái Bình, Quận 1, Tp. Hồ Chí Minh",(08) 73056789,http://www.dulichviet.com.vn,Hồ Chí Minh
+160,Công Ty TNHH Du Lịch Hoàng Khởi,"184 Cộng Hòa, P. 12, Q. Tân Bình, Tp. Hồ Chí Minh (TP.HCM)","(028) 66851616, 66601616",http://hoangkhoitravel.com,Hồ Chí Minh
+161,Công Ty TNHH Thương Mại Và Du Lịch Đại Lâm,"58/22 Nguyễn Bỉnh Khiêm, Quận 1,Tp. Hồ Chí Minh (TPHCM)","(028) 39141973, 39141974",dailamtravel.com.vn,Hồ Chí Minh
+162,Công Ty TNHH MTV Dịch Vụ Vận Tải Lam Đạt,"42/13C Tân Thới Nhất 5, Khu phố 7, P.Tân Thới Nhất, Quận 12, TP Hồ Chí Minh (TPHCM)","(028) 38832293, 0903 377 990",http://vantailamdat.com,Hồ Chí Minh
+163,Khách Sạn Thủy Tiên,"212-214 Nam Kỳ Khởi Nghĩa, Tp. Vũng Tàu",(064) 3527791,,Vũng Tàu
+164,Công Ty TNHH Sapa Pathfinder Travel,"Số 13, Đường Xuân Viên, TT. Sapa, Lào Cai",(020) 3873468,http://sapapathfinder.com,Lào Cai
+165,Khách Sạn Anh Linh,"38 Dương Văn An, Đồng Hới, Quảng Bình",(052) 3820297,,Quảng Bình
+166,Công Ty TNHH Thiết Kế Xây Dựng Thương Mại An Phú,"97 Nguyễn Văn Trỗi, Phước Hưng, Tp. Bà Rịa, Bà Rịa-Vũng Tàu",(064) 3732977,,Bà Rịa-Vũng Tàu
+167,Công Ty TNHH MTV Du Lịch Rồng Hoàng Gia,"50/1 Y Tổ 13, Khu Phố 2, P.An Bình, TP Biên Hòa, Đồng Nai",(061) 3839006,http://ronghoanggia.com.vn,Đồng Nai
+168,Bảo Ninh Beach Resort,"Hà Dương, Bảo Ninh, Đồng Hới, Quảng Bình","(052) 3854688, 3854866",http://baoninhbeachresort.com.vn,Quảng Bình
+169,Công Ty TNHH Thương Mại Tư Vấn Dịch Vụ Du Lịch Văn Hóa Việt,"55B Nguyễn Thị Minh Khai, Phường Bến Thành, Quận 1, Tp. Hồ Chí Minh",(08) 39309717,http://dulichvanhoaviet.com.vn,Hồ Chí Minh
+170,Công Ty TNHH MTV Thương Mại Vận Tải Quỳnh Anh,"112A, Cao Thắng, Phường 17, Phú Nhuận, TP. Hồ Chí Minh (TPHCM)",0903 992 967,http://vantaiquynhanh.com,Hồ Chí Minh
+171,Công Ty TNHH MTV Du Lịch Vietnam Locals,"Số 78 Nguyễn Phúc Thái, Tp.Huế",(0234) 3511333,http://vietnamlocals.com,
+172,Công Ty TNHH Thương Mại Tư Vấn Dịch Vụ Du Lịch Văn Hóa Việt,"55B Nguyễn Thị Minh Khai, Phường Bến Thành, Quận 1, Thành phố Hồ Chí Minh",(08) 3930 9717,http://dulichvanhoaviet.com.vn,Hồ Chí Minh
+173,Công Ty TNHH Vũ Ngọc,"1091 Ngô Quyền, Q. Sơn Trà, Tp. Đà Nẵng","(0236) 3831225, 0903.501.225",http://vungoctravel.com,Đà Nẵng
+174,Công Ty TNHH MTV Du Lịch Thái Dương,"302 Đường Cộng Hoà, Phường 13, Quận Tân Bình, Tp. Hồ Chí Minh (TPHCM)","(028) 62746427, 66846427, 0938 569 108",https://thaiduonglimousine.com,Hồ Chí Minh
+175,Công Ty TNHH Thương Mại  Dịch Vụ  Du Lịch VT Khởi Nghiệp,"101/1 Nguyễn Xiển, KP. Thái Bình 1, P. Long Bình, Quận 9, TP. Hồ Chí Minh (TPHCM)",0907 940 828,,Hồ Chí Minh
+176,Công Ty TNHH MTV Dịch Vụ Dầu Khí Sài Gòn Du Lịch,"16 Phùng Khắc Khoan, P. Đa Kao, Q. 1,Tp. Hồ Chí Minh",(08) 38239447,http://www.spsctour.vn/,Hồ Chí Minh
+177,Công Ty TNHH Dịch Vụ Du Lịch & Thương Mại KMK,"77A Phan Đình Phùng, Phường Thị Nại, TP. Quy Nhơn, Tỉnh Bình Định",(0256) 3812615,http://kmktourist.com,Bình Định
+178,Công Ty Cổ Phần Du Lịch AST,"56 Cầu Gỗ, Q. Hoàn Kiếm, Hà Nội","(04) 39262628, 39262688",http://asttravelvietnam.com,Hà Nội
+179,Công Ty TNHH Sao Phương Nam TRAVEL,"165 Phan Chu Trinh, TP. Tam Kỳ, Quảng Nam",(0235) 3828383,http://saophuongnamtravel.com,Quảng Nam
+180,Công Ty Cổ Phần Du Lịch Đồng Nai,"105 Hà Huy Giáp, P. Quyết Thắng, Tp. Biên Hòa, Đồng Nai",(061) 3822368,http://dulichdongnai.com,Đồng Nai
+181,Công Ty Cổ Phần Du Lịch Đồng Tháp,"Số 6, Đổ Công Tường, Phường 2,  Tp. Cao Lãnh, Tỉnh Đồng Tháp","(067) 3852136,",http://www.dongthaptourist.com,Đồng Tháp
+182,Công Ty TNHH Đầu Tư Vận Tải Du Lịch An Tâm,"12/4/17 Nguyễn Sơn, P. Phú Thọ Hoà, Q. Tân Phú, Tp. Hồ Chí Minh (TPHCM)","(028) 66788841, 0938 628 289",http://www.kenhchothuexe.com,Hồ Chí Minh
+183,Công Ty TNHH MTV Dịch Vụ Du Lịch Nụ Cười Vàng,"11/22 Xô Viết Nghệ Tĩnh, P. 17, Q. Bình Thạnh, Tp. Hồ Chí Minh",(08) 38404152,http://goldensmiletravel.com,Hồ Chí Minh
+184,Công Ty CP Vận Tải Và Dịch Vụ Du Lịch Hà Nội CTH,"23 Sài Đồng, Q. Long Biên, Tp. Hà Nội",093.456.9398,http://xedulichcth.com,Hà Nội
+185,Khách Sạn Sunny,"Số 96/2 Trần Phú, Tp. Nha Trang, Tỉnh Khánh Hòa","(0258) 3525244, 3525299",http://anvistagroup.com,Khánh Hòa
+186,Công Ty Cổ Phần Du Lịch Đông Hà Travel,"410 Lê Duẩn, TP. Đông Hà, Quảng Trị",(053) 3705588,http://donghatravel.com,Quảng Trị
+187,Du Lịch Tam Kỳ,"702 Phan Chu Trinh, Tp. Tam Kỳ, Quảng Nam","(0510) 3907999, 3821333",http://dulichtamky.vn,Quảng Nam
+188,Công Ty TNHH MTV Hân Du Travel,"210a Đội Cung, Phường 9, Quận 11, TP. Hồ Chí Minh (TP HCM)",090 380 1195,http://handutravel.com,Hồ Chí Minh
+189,Công Ty TNHH Thương Mại Quốc Tế Phương Vượng,"Số 99, Tổ 5, P. Cự Khối, Q. Long Biên, TP Hà Nội (TPHN)",0989.349.409,http://nhanchohang24h.com.vn,Hà Nội
+190,Công Ty TNHH Du Lịch Bầu Trời Việt,"Tổ 1, Khu Phố 5, Phường Trảng Dài, TP. Biên Hòa, Đồng Nai","(061) 8875171, 8875173",http://www.dulichbautroiviet.com,Đồng Nai
+191,Khách Sạn Hương Duy,"23 Hoàng Đức Lương, An Hải Bắc, Sơn Trà, Tp. Đà Nẵng",(0511) 3937328,http://huongduyhotel.webs.vn,Đà Nẵng
+192,Công Ty TNHH Thương Mại Dịch Vụ Du Lịch Lợi Đạt,"105 Phạm Ngũ Lão, P. Phạm Ngũ Lão, Q. 1, Tp. Hồ Chí Minh  CN 1: 117 Lý Tự Trọng, P. Bến Thành, Q. 1, TP. Hồ Chí Minh  CN 2: 260 Lê Thánh Tôn, P. Bến Thành, Q. 1, TP. Hồ Chí Minh","(08) 38214623, 38224585",http://loidattourist.com,Hồ Chí Minh
+193,Công Ty TNHH Du Lịch Song Châu Đà Lạt,"46 Bùi Thị Xuân, P. 2, Tp. Đà Lạt, Lâm Đồng",(063) 3536567,http://www.songchaudalattravel.com,Lâm Đồng
+194,Sapa Stunning View Hotel,"63 Mường Hoa, Sapa, Lào Cai",(020) 3871163,http://stunningviewhotel.com,Lào Cai
+195,Doanh Nghiệp Tư Nhân Trương Minh Tiến,"418 Tôn Đức Thắng, P. Hòa Minh, Q. Liên Chiểu, Tp. Đà Nẵng",(0236) 3842868,,Đà Nẵng
+196,Công Ty TNHH 9 Rồng,"30B Đường Vành Đai Phi Trường, P. An Thới, Q. Bình Thủy, Tp. Cần Thơ",(0710) 3767224,http://www.vientriyuna.com,Cần Thơ
+197,Công Ty TNHH Du Lịch Thương Mại Đất Việt,"75 Trần Quang Khải, TP. Vinh, Tỉnh Nghệ An","(0238) 3845737, 0949 978 898",http://thuexenghean.vn,Nghệ An
+198,Công Ty TNHH Thành Bưởi,"266-268 Lê Hồng Phong, P. 4, Q. 5, Tp. Hồ Chí Minh",(08) 38339242,http://www.thanhbuoi.com.vn,Hồ Chí Minh
+199,CÔNG TY TNHH DỊCH VỤ DU LỊCH VẬN TẢI ĐẠI VIỆT,"Số 563  Đường Phạm Ngọc Thạch, P. Phú Mỹ, TP. Thủ Dầu Một, T. Bình Dương",06503885988,http://daivietbinhduong.com.vn/,Bình Dương
+200,Công Ty TNHH DV Vận Tải Và Du Lịch Ngọc Việt,"86 Đường Số 42, P. 10, Q. 6,Tp. Hồ Chí Minh (TPHCM)",028.2216.6688,http://ngocviettravel.net,Hồ Chí Minh
+201,Công Ty Du Lịch An Thành,"Số 9 Đường Thanh Niên, P. Quán Thánh, Q. Ba Đình, Tp. Hà Nội",(04) 37151214,http://anthanhtravel.com,Hà Nội
+202,Công Ty Cổ Phần Detra Sài Gòn,"2323/1B Quốc Lộ 1A, P. An Phú Đông, Q. 12, Tp. Hồ Chí Minh (TPHCM)","(028) 37197161, 0906 710 186",http://thuexegiaresaigon.com,Hồ Chí Minh
+203,Công Ty TNHH Thương Mại Và Du Lịch Linh Châu,"Số 66, Đường 3, Phù Lỗ, Sóc Sơn, TP Hà Nội (TPHN)",0388 155 155 - 0966 433 366,https://vipsedan.vn,Hà Nội
+204,Công Ty CP TM DV Du Lịch Và Quảng Cáo Khám Phá Mới,"146/59/18/155 Vũ Tùng, Khu Phố 2, P. 2, Q. Bình Thạnh, Tp. Hồ Chí Minh  VPDD: 144 Đinh Tiên Hoàng, P1, Q. Bình Thạnh, Tp. Hồ chí Minh","0938756468, 0947 093 535 ",,Hồ chí Minh
+205,Công Ty TNHH MTV Du Lịch Hội An Phố,"45 Thái Phiên, Hội An Quảng Nam",(0510) 3928700,http://www.dulichhoian.pro,Hội An Quảng Nam
+206,Công Ty Cổ Phần Thương Mại Dịch Vụ Xuất Nhập Khẩu Vinh Linh,"Số 3 Điện Biên Phủ, P. 15, Q. Bình Thạnh, Tp. Hồ Chí Minh","(08) 35141714, 35141715",http://thuexevinhlinh.com.vn,Hồ Chí Minh
+207,Công Ty CP Du Lịch Lữ Hành Non Nước Việt,"14/32/72 Đờng 53, Phường 14, Quận gò vấp Tp. Hồ Chí Minh",(08) 62609561,http://nnv.com.vn,Hồ Chí Minh
+208,Công Ty TNHH In Đào Gia,"418 Bạch Mai, Hà Nội",(04) 22400890,,Hà Nội
+209,CÔNG TY TNHH TM DV VẬN TẢI DU LỊCH VẠN NGÂN,"Tầng 2, 246 Phan Bội Châu, TP. Quy Nhơn, Bình Định",(0256) 3828828,http://vantaidulichvanngan.com/,Bình Định
+210,Khách Sạn Bank Star II Cửa Lò,"Số 190, Đường Bình Minh, TX Cửa Lò, Nghệ An",(038) 3952188,http://bankstarcualohotel.com,Nghệ An
+211,Công Ty TNHH MTV Du Lịch & Vận Tải Huế Locals,"78 Nguyễn Phúc Thái, Phường Kim Long, Tp. Huế, Tỉnh Thừa Thiên - Huế",(054) 3511333,http://huelocals.com,Thừa Thiên - Huế
+212,Công Ty TNHH Một Thành Viên Thương Mại Dịch Vụ Và Du Lịch Nguyễn Bình,"Khu Dân Cư 91/23, Lô 103, Đường 30/4, Q. Ninh Kiều, Tp. Cần Thơ",(071) 3872141,,Cần Thơ
+213,Công Ty Du Lịch Bình Phú,"299-7 Trương Vĩnh Ký, P. Tân Thành, Q. Tân Phú, Tp. Hồ Chí Minh",(08) 54445348,http://www.binhphutourist.net,Hồ Chí Minh
+214,Công Ty TNHH Thương Mại Và Du Lịch Nụ Cười Huế,"1/6 Trần Quang Khải, P. Phú Hội, Tp. Huế, Thừa Thiên-Huế",(0234) 3883659,http://huesmiletravel.com.vn,Thừa Thiên-Huế
+215,Công Ty TNHH Thương Mại Dịch Vụ Du Lịch Triều Dương,"482/15/20 Điện biên phủ, Phường 11, Quận 10, TP.Hồ Chí Minh (TP.HCM)",(028) 38333768,http://trieuduongtourist.com,Hồ Chí Minh
+216,Công Ty TNHH Dịch Vụ Du Lịch Hoàng Hà D.L,"Số 8D, Đường Nguyễn Ái Quốc, Khu Phố 3, P. Quang Vinh, Biên Hòa, Tỉnh Đồng Nai","(0251) 2221778, 0911 466 334",,Đồng Nai
+217,Công Ty TNHH Thương Mại Xây Dựng Vận Tải Thăng Long,"Số 37 đường 70, Tổ Dân phố Ngọc Đại, P.Đại Mỗ, Q.Nam Từ Liêm, TP Hà Nội (TPHN)","(024) 37892085, 0966.599.476",http://vantaithanglong.com.vn,Hà Nội
+218,Công Ty TNHH Du Lịch Đại Dương,"78 Đường Nhà Thờ, Khối 6, P. Thu Thủy, TX. Cửa Lò, Nghệ An",(038) 3949678,http://khachsancualo.vn,Nghệ An
+219,Công Ty TNHH TM DV Trường Long Phát,"36 Đường DL14, P.Thới Hoà ,TX.Bến Cát, Bình Dương",(0274) 3555855,http://truonglongphat.vn,Bình Dương
+220,Công Ty TNHH Dịch Vụ Du Lịch Đoàn Khang,"97 Tôn Thất Hiệp, F. 13, Q. 11, Tp. Hồ Chí Minh",(08) 39623919 ,http://www.didulichgiare.vn,Hồ Chí Minh
+221,Công Ty TNHH MTV Dịch Vụ Du Lịch Mặt Trời Mọc Phú Quốc,"Số 57/12 Trần Hưng Đạo, Dương Đông, Phú Quốc, Tỉnh Kiên Giang",(0297) 3992361,http://phuquocsunrise.com,Kiên Giang
+222,Công Ty TNHH Đầu Tư Dịch Vụ Vận Tải Và Du Lịch Net Việt,"42 Trung Yên 3, P. Trung Hòa, Q. Cầu Giấy, Hà Nội",(04) 37836238,http://www.netviettravel.vn,Hà Nội
+223,Công Ty Cổ Phần Ô Tô Mai Anh,"Số 61 Đường Trần Hưng Đạo, P. Đội Cung, TP. Vinh, Nghệ An","0913060499, 0972850499",,Nghệ An
+224,Công Ty TNHH Du Lịch Và Dịch Vụ HT Việt Nam,"Phòng 201, Số 442, Đ. Bạch Đằng, P. Chương Dương, Hoàn Kiếm, Tp. Hà Nội",(04) 39329527,http://httourism.vn,Hà Nội
+225,Công Ty TNHH Thương Mại Dịch Vụ Địa ốc Và Du Lịch Đại Dương,"72/711A Nguyễn Văn Nghi, P. 7, Q. Gò Vấp, Tp. Hồ Chí Minh","(08) 62565612, 62565612",http://daiduongtravel.com.vn,Hồ Chí Minh
+226,Công Ty TNHH Lai Hoàn Cầu ( Trạm Điều Hành Xe DL Hoàn Cầu),"17 Dương Bá Trạc, Phường 1, Quận 8, Tp. Hồ Chí Minh",(08) 38511120,http://laihoancau.com,Hồ Chí Minh
+227,Công Ty Cổ Phần Đầu Tư Thương Mại Và Du Lịch Tuấn Minh,"Số 7, Ngõ 89, Đường Lê Đức Thọ, Q. Nam Từ Liêm, TP Hà Nội (TPHN)","(024) 66806555, 0914.246.986",http://tuanminhtravel.com,Hà Nội
+228,Công Ty TNHH Thương Mại Xuất Nhập Khẩu T&T,"619B Phạm Thế Hiển, P. 4, Q. 8, Tp. Hồ Chí Minh",(028) 38501481,,Hồ Chí Minh
+229,Công Ty TNHH Thương Mại Và Dịch Vụ Đại Đồng Đen,"Số 14, Lô 1, Khu Phố 1A, Phường An Phú, Thị Xã Thuận An, Tỉnh Bình Dương",039 381 5704,http://www.daidongden.com,Bình Dương
+230,Doanh Nghiệp Tư Nhân Nguyên Thành Đạt,"Số 47 Đại Lộ Tôn Đức Thắng, An Đồng, H. An Dương, Tp. Hải Phòng","(0225) 3835587, 0903.446.448",http://www.xedulichhaiphong.net,Hải Phòng
+231,Công Ty TNHH Đầu Tư Và Phát Triển Thương Mại Làng Việt,"NV1.13 KĐT Viglacera Tây Mỗ, 272 Hữu Hưng, Tây Mỗ, Q. Nam Từ Liêm, TP Hà Nội (TPHN)",(024) 39976610 - 0912 683 836,http://vietvillagestravel.com,Hà Nội
+232,Công Ty TNHH MTV Bnt Travel,"33 Bà Triệu, Phường Xuân Phú, TP Huế, Tỉnh Thừa Thiên Huế",0917458000,http://www.bnttravel.com.vn,Thừa Thiên Huế
+233,Công Ty Cổ Phần Thương Mại Dịch Vụ Và Du Lịch Tâm Nguyên Phát - Du Lịch Miền Trung Tourist,"390 Nguyễn Hoàng, Vĩnh Trung, Q. Thanh Khê, Tp. Đà Nẵng",0905 369 896,http://danangtourist.net.vn,Đà Nẵng
+234,Công Ty Cổ Phần Vận Tải Du Lịch Hưng Long,"338 Trần Khát Chân, Q. Hai Bà Trưng, Hà Nội",(04) 22121855,http://hunglongtravel.com.vn,Hà Nội
+235,Công Ty TNHH Du Lịch EĐen,"64/96 Lê Lai, Phường Bến Thành, Quận 1, Tp. Hồ Chí Minh",(08) 39251188,http://www.edentravel.com.vn,Hồ Chí Minh
+236,Công Ty TNHH MTV Dịch Vụ Vận Tải Xuân Sáu Anh,"Số 28D2A, Thống Nhất, TX Dĩ An, Tỉnh Bình Dương",0933 65 1128 - 0907 300 900,http://www.xecauxuansauanh.vn,Bình Dương
+237,Công Ty Cổ Phần Thương Mại Và Đào Tạo Tin Học Long Thành,"Lầu 12, Khu B, IndoChina Park Tower, 04 Nguyễn Đình Chiểu, P. Đa Kao, Q. 1, TP. Hồ Chí Minh  VP Cần Thơ: Tòa Nhà Bitis Tại 86 Nguyễn Trãi, P. Cái Khế, Q. Ninh Kiều, TP. Cần Thơ  VP HN: Tầng 3, 134 Mai Anh Tuấn, P. Ô Ch�",(08) 22022202,http://www.thuexegiare.net,P. Ô Ch�
+238,Công Ty TNHH Du Lịch Lửa Việt,"677 Trần Hưng Đạo, P.1, Q.5, TP.HCM",02839232148,https://www.luavietours.com/,
+239,Công Ty TNHH Thương Mại Dịch Vụ Du Lịch & Hành Hương Quốc Tế Sukha Travel,"171/10 Quốc Lộ 1A, KP. 3, P. Bình Chiểu, Q. Thủ Đức, Tp. Hồ Chí Minh (TPHCM) , Việt Nam",(08) 62725444,http://sukhatravel.com/,Việt Nam
+240,Khách Sạn Phụng Hồng,"43 (1B Cũ) Bùi Thị Xuân, Phường 2, Tp. Đà Lạt",(063) 3834410,http://khachsanphunghongdalat.com,Đà Lạt
+241,Công Ty TNHH Thương Mại Dịch Vụ Nam Việt,"95 Nguyễn Thái Bình, P. Nguyễn Thái Bình, Q. 1, Tp. Hồ Chí Minh",(028) 38272055,http://namvietagent.com,Hồ Chí Minh
+242,Công Ty TNHH Thương Mại Và Dịch Vụ Du Lịch Hải Minh Nha Trang,"59A Lê Thành Phương, Phương Xài, Tp. Nha Trang, Khánh Hòa","0903 506 907, 0935 429 549",http://dulichhaiminh.vn,Khánh Hòa
+243,"Phong Nha Locals Travel & Transport Co., Ltd","1 Trường Pháp, Đồng Hới, Quảng Bình",0932 465 127,http://phongnhalocals.com,Quảng Bình
+244,Công Ty TNHH Khang Việt Travel,"Số 328/26 Ấp Phước Yên A, X. Phú Quới, H. Long Hồ, Vĩnh Long",(070) 3503693,http://khangviettravel.com.vn,Vĩnh Long
+245,Công Ty Cổ Phần Dịch Vụ Du Lịch Châu Á Toàn Cầu,"O6 Quang Trung, Phường 11, Quận Gò Vấp, Tp. Hồ Chí Minh","0901 944 826, 0901 472 492",http://agtravel.com.vn,Hồ Chí Minh
+246,Công Ty Cổ Phần Du Lịch Và Thương Mại Mặt Trời Việt,"211/13 Nguyễn Văn Linh. P Hưng Lợi. Q Ninh Kiều, TP. Cần Thơ",(0292) 3783022,http://vietsuncantho.com,Cần Thơ
+247,Công Ty TNHH Một Thành Viên Dịch Vụ Vận Tải Lam Đạt,"42/13C Tân Thới Nhất 5, Khu phố 7, Phường Tân Thới Nhất, Quận 12, TP. Hồ Chí Minh (TPHCM)","(028) 38832293, 0977.676.366",http://vantailamdat.com,Hồ Chí Minh
+248,Công Ty TNHH Lý Vĩnh,"131/11 Tô Hiến Thành, Phường 13, Quận 10, TP. Hồ Chí Minh",0982 107 949,http://lyvinh.vn,Hồ Chí Minh
+249,Công Ty TNHH Du Lịch Tuấn Linh,"Phòng 509, Tòa Nhà 15T2, 18 Tam Trinh, Q. Hai Bà Trưng, Tp. Hà Nội (TPHN)","(024) 62768855, 0913 505 609",http://thue-xe.com,Hà Nội
+250,Dịch Vụ Cho Thuê Xe Máy Tại Tuy Hòa Phú Yên,"24 Trần Bình Trọng, P. 3, Tuy Hòa, Phú Yên",0166 666 1221,http://chothuexemayotaituyhoaphuyen.com,Phú Yên
+251,CÔNG TY TNHH PHÁT TRIỂN DỊCH VỤ THƯƠNG MẠI HOÀNG GIA,"81 Lê Văn Lương, Thanh Xuân, Tp.Hà Nội",0975.060.368,http://xeototulai.com,Hà Nội
+252,Công Ty TNHH Vận Tải & Du Lịch Hồ Lộc,"68 Văn Cao, Q. Thanh Khê, Tp. Đà Nẵng",(0511) 3655220,http://holoctravel.com,Đà Nẵng
+253,Công Ty Cổ Phần Du Lịch Và Vận Tải DNT,"Số 22, Ngõ 322E, Lê Trọng Tấn, P. Khương Mai, Q. Thanh Xuân, Hà Nội  VPGD: 25 Nguyễn Viết Xuân, P. Khương Mai, Q. Thanh Xuân, Hà Nội","(04) 35666722, 35666466",http://thuexedulich24h.vn,Hà Nội
+254,Công Ty Cổ Phần Thương Mại Và Du Lịch Sơn Hà,"Số 5, Lô 1B, Vũ Phạm Hàm, Quận Cầu Giấy, Tp. Hà Nội",(04) 39430114,http://www.shbay.vn,Hà Nội
+255,Công Ty Cổ Phần Công Nghệ DiDi Việt Nam,"Ô 19, lô 1.A.I.2 - N02 Nguyễn Cơ Thạch, Phường Mỹ Đình 1, Quận Nam Từ Liêm, Hà Nội.","(04) 35266666, (04) 39919919",https://didivietnam.vn/,Hà Nội
+256,Công Ty TNHH Thương Mại Du Lịch Đất Chín Rồng,"P1 Đường Số 7, KĐT Mới Hưng Phú, P. Hưng Thạnh, Q Cái Răng, Tp. Cần Thơ","(0292) 3969698, 0939 595 107",http://datchinrongtravel.com,Cần Thơ
+257,Công Ty TNHH Thương Mại Dịch Vụ Du Lịch Tình Bạn Việt,"119 Phạm Cự Lượng, P. An Hải Đông, Q. Sơn Trà, TP. Đà Nẵng","(0511) 3824499, 3825597",http://www.friendlytours.com.vn,Đà Nẵng
+258,Cứu Hộ Lâm Đồng,"79A Hai Bà Trưng, Phường 6, Đà Lạt, Lâm Đồng",(063) 3911967,http://cuuho.thegioixeoto.com,Lâm Đồng
+259,Công Ty TNHH MTV Thương Mại Và Dịch Vụ Dũng Âu,"67/2 Phan Đăng Lưu, Q. Ninh Kiều, TP. Cần Thơ",0918 624 541,,Cần Thơ
+260,Công Ty TNHH Asia Destination,"50 Yersin, P.Phương Sài, Tp. Nha Trang, Khánh Hòa",(058) 3820120,http://www.asiadestination.vn,Khánh Hòa
+261,Công Ty TNHH Du Lịch Và Thương Mại ANNAM,"Số 142, Ngõ 29 Tổ 4, Phố Thượng Thanh, Phường Thượng Thanh, Quận Long Biên, Hà Nội (TP.HN)",(024) 37676423,http://annamtravel.com.vn,Hà Nội
+262,Công Ty TNHH Đại Đoàn Kết,"52 Hàng Bài, Hoàn Kiếm, Hà Nội",(04) 39381550,http://huonganhtour.vn,Hà Nội
+263,Công Ty Cổ Phần Thương Mại & Hợp Tác Quốc Tế Đất Mới,"Tầng 10, Tòa Nhà Viwaseen, Số 48 Tố Hữu, P. Trung Văn, Q. Nam Từ Liêm, Tp Hà Nội (TPHN)","02466733377, 0983003317",http://flytime.vn/,Hà Nội
+264,Công Ty TNHH Vận Tải Và Du Lịch Anh Vũ,"973 Ngô Gia Tự , Tổ 10, P. Đức Giang, Q. Long Biên, TP Hà Nội (TPHN)","(024) 66883315, 0982.573.898",http//xeanhvu.com,Hà Nội
+265,Công Ty TNHH Thương Mại Du Lịch Nam Long,"29 Đoàn Trần Nghiệp, Vĩnh Phước, Nha Trang, Khánh Hoà","(058) 3540055, 3706181, 3526166",http://namlong.com.vn,Khánh Hoà
+266,Công Ty TNHH Thương Mại Và Du Lịch Hoàng Nhựt,"317 Phan Đình Phùng, P. 15, Q. Phú Nhận, Tp. Hồ Chí Minh  CN: 366 Tân Sơn Nhì, P.nTân Sơn Nhì, Q. Tân Phú, Tp. Hồ Chí Minh","0908 286 464, 0908 387 875",http://hoangnhut.com,Hồ Chí Minh
+267,Công Ty TNHH TM - DV Vận Tải Thiên Phát,"1/6 Võ Văn Ngân, KP2, P.Linh Chiểu, Q.Thủ Đức, TP Hồ Chí Minh (TPHCM)",0936 992 667,http://xecauthienphat.com,Hồ Chí Minh
+268,Công Ty Cổ Phần Du lịch Văn Lang,"Số 292 K5, Đường Phú Lợi, P. Phú Hoà, Tp. Thủ Dầu Một, Bình Dương",(061) 3824268,,Bình Dương
+269,Công Ty TNHH MTV Dịch Vụ Du Lịch Đảo Ngọc Kim Cương,"Tổ 3, Đường Phan Đình Phùng, KP1, TT Dương Đông, Phú Quốc, Kiên Giang",(077) 3992325,http://tourphuquocvn.com,Kiên Giang
+270,Khách Sạn Thành Đại Nam,"Khu Phố 1, P. Hiệp An, Tp. Thủ Dầu Một, Bình Dương","(0650) 3845678, 3896389, 3891389",http://laccanhdainamvanhien.vn,Bình Dương
+271,Công Ty TNHH TMDV Ô Tô Vạn An,"P507 - E5 Thành Công,Ba Đình, Hà Nội",0989403456,http://thuexevanan.com,Hà Nội
+272,Công Ty Cổ Phần Vận Tải Du Lịch Hưng Long,"Số 338 Trần Khát Chân, Q. Hai Bà Trưng, Tp.Hà Nội",(024) 36889889,http://hunglongtravel.com.vn,Hà Nội
+273,Công Ty TNHH Du Lịch Phú Thọ Xanh,"457 Minh Phụng, P. 10, Q. 11, Tp. Hồ Chí Minh","(08) 39637041, 39637042, 22121447",http://phuthoxanhtourist.vn,Hồ Chí Minh
+274,Dịch Vụ Cho Thuê Xe Du Lịch Hồ Chí Minh,"482 Điện Biên Phủ, P. 11, Q. 10, Tp. Hồ Chí Minh  VP: Đưởng Số 5, P. Bình Trị Đông, Q. Bình Tân, Tp. Hồ Chí Minh",(08) 66819666,http://thuexehcm.net,Hồ Chí Minh
+275,Công Ty TNHH Vận Tải Quốc Tế Thái Phát,"26F/1 Lê Quốc Hưng, Phường 12, Quận 4, Tp. Hồ Chí Minh","(08) 38262676, 38262236",http://tptravelvietnam.com,Hồ Chí Minh
+276,Công Ty TNHH Dịch Vụ Du Lịch Nam Nhật Tân,"22/25/11 Thống Nhất (48/7/14 Đường số 1), P. 16, Q. Gò Vấp, Tp. Hồ Chí Minh (TPHCM)","(028) 22443316, 0919.040.843", http://www.namnhattan.znn.vn,Hồ Chí Minh
+277,Công Ty Du Lịch Hoa Sen Châu Á,"C11/33 Phạm Hùng, Bình Hưng, Bình Chánh, Tp. Hồ Chí Minh",(08) 37581056,http://hoasenchaua.com,Hồ Chí Minh
+278,Trung Tâm Điều Hành Hướng Dẫn Du Lịch - Công Ty CP Du Lịch Hải Phòng,"15 Lê Đại Hành, Q. Hồng Bàng, Tp. Hải Phòng",(031) 3842989,http://haiphongtravel.com,Hải Phòng
+279,Công Ty TNHH Cho Thuê Xe Cần Thơ,"14 Trần Văn Hoài, P. Xuân Khánh, Q. Ninh Kiều, TP. Cần Thơ",(0292) 3768472,,Cần Thơ
+280,Công Ty TNHH Thương Mại Vận Tải Và Du Lịch Phương Đông,"68 Phạn Hồng Thái, TP. Thanh Hóa, Thanh Hóa","(037) 3723899, 0979 452 456",,Thanh Hóa
+281,Khách Sạn Phương Huy 1 Đà Lạt,"125-127 Bùi Thị Xuân, P. 2, Tp. Đà Lạt, Lâm Đồng","(063) 3588567, 3614567",http://www.phuonghuyhotel.com,Lâm Đồng
+282,Công Ty TNHH Vận Tải Du Lịch Minh Hoàng,"Số 10, P. Đông Hải, TP. Đồng Hới, Quảng Bình",(0232) 3856568,http://thuexequangbinh.com,Quảng Bình
+283,Cửu Long Phú Quốc Resort,"Trần Hưng Đạo Nối Dài, Dương Tơ, Phú Quốc, Tỉnh Kiên Giang","(0297) 3994833, 3994823",http://cuulongphuquocresort.com,Kiên Giang
+284,Công Ty Cổ Phần Bigbigtrans,"Phòng 407-408, lầu 4 Tòa nhà HảI Âu 39D Trường Sơn, P.4, Q. Tân Bình Tp. Hồ Chí Minh",(028) 22450751,http://bigbigtrans.com,Hồ Chí Minh
+285,Công Ty TNHH Xây Dựng Dịch Vụ Du Lịch Khám Phá Việt,"143A Ung Văn Khiêm, P. 25, Q. Bình Thạnh, Tp. Hồ Chí Minh","(08) 66732363, 62584973",http://khamphaviet.com,Hồ Chí Minh
+286,Công Ty TNHH Thương Mại Đầu Tư Du Lịch Tín Việt,"260APhan Văn Hớn, KP.6, P.Tân Thới Nhất, Quận 12, Tp. Hồ Chí Minh",(08) 35923473,http://tinviettravel.com.vn,Hồ Chí Minh
+287,Công Ty TNHH Thương Mại Dịch Vụ Vận Tải Hoa Việt,"818/53B Nguyễn Kiệm, P. 3, Q. Gò Vấp, Tp. Hồ Chí Minh","(08) 35880357, 22406822",http://hoaviettour.com,Hồ Chí Minh
+288,Công Ty TNHH Nắng Đà Nẵng,"83 Đinh Công Trứ, Sơn Trà, Tp. Đà Nẵng",(0511) 3991917,http://dulichnangdanang.com,Đà Nẵng
+289,Công Ty TNHH TIENHOAICOM,"Số 515 Trần Khát Chân, Phố Huế, Q. Hai Bà Trưng, Hà Nội",(04) 65554999,http://thtravel.com.vn,Hà Nội
+290,Công Ty TNHH MTV Dịch Vụ Vận Tải Quốc Tế Hoàng Nguyễn,"140 Đường DC11, P. Sơn Kỳ, Q. Tân Phú, Tp. Hồ Chí Minh (TPHCM)","(028) 38165565, 0916 303 082",http://thuexe24g.vn,Hồ Chí Minh
+291,Công Ty TNHH TM  DV Du Lịch Hoàng Hải,"Số 53, ngõ Thống Nhất, phố Đại La, Phường Trương Định, Quận Hai Bà Trưng, Tp Hà Nội (TPHN)",(024) 38694567,http://dulichhoanghai.com,Hà Nội
+292,Công Ty TNHH Thương Mại & Dịch Vụ Du Lịch Kỳ Quan Việt,"Số 23,  Phố Tống Duy Tân, Q. Hoàn Kiếm, Hà Nội","(04) 39328771, 39382112",http://leadtravel.vn/,Hà Nội
+293,Công Ty Cổ Phần Du Lịch Thanh Niên Xung Phong (V.Y.C),"178 - 180 Nguyễn Cư Trinh, Q. 1, Tp. Hồ Chí Minh","(08) 38368899, 38368989",http://vcytravel.com,Hồ Chí Minh
+294,Công Ty TNHH Cổng Du Lịch Việt,"388 Lê Văn Thọ, P. 16, Q. Gò Vấp, Tp. Hồ Chí Minh",1900555576,http://gatetravel.vn,Hồ Chí Minh
+295,Công Ty TNHH Du Lịch Hoa Phượng Tím,"17 Bà Triệu, Phường 3, Đà Lạt, Lâm Đồng",0973 055 948,http://dulichdalatonline.com,Lâm Đồng
+296,Công Ty TNHH MTV Thương Mại Dịch Vụ Du Lịch Kỳ Nghỉ Việt,"607C, Chung Cư Mỹ Thuận, Đường An Dương Vương, P16, Q8, Tp. Hồ Chí Minh",(08) 22290588	,http://www.tovietnamholidays.com,Hồ Chí Minh
+297,Công Ty TNHH Thương Mại Dịch Vụ Du Lịch Quốc Khải,"27 Nguyễn Hồng Đào, P. 14, Q. Tân Bình, Tp. Hồ Chí Minh","(08) 38493127, 38493128",,Hồ Chí Minh
+298,Công Ty TNHH Du Lịch Và Giải Trí Phú An - Great Lavita,"164 Hoàng Hoa Thám, Tây Hồ, Tp. Hà Nội",(04) 36417686,http://livetravelcorp.com,Hà Nội
+299,Công Ty TNHH Một Thành Viên Công Nghệ Số Tân Minh Long,"130/19A Hồng Lạc, P. 11, Q. Tân Bình, Tp. Hồ Chí Minh","(08) 39717991, 3971995",,Hồ Chí Minh
+300,Công Ty TNHH Du Lịch Nam Phúc,"3/55/96 Phố Thượng Thanh, Q. Long Biên, Hà Nội  VPDD: Số 178, Nguyễn Văn Cừ, Q. Long Biên, Hà Nội",0243.655.6466,http://www.namphuctourist.vn,Hà Nội
+301,Công Ty TNHH Thương Mại Dịch Vụ Du Lịch Việt An,"79B Nguyễn Bỉnh Khiêm, P. 1, Q. Gò Vấp, Tp. Hồ Chí Minh","(08) 35886461, 35886391",http://www.vietantravel.com,Hồ Chí Minh
+302,Công Ty TNHH Du Lịch Hải Phát,"Quốc Lộ 60, Khóm 5, Phường 8, TP Trà Vinh, T. Trà Vinh",(0294) 3865898,http://haiphattourist.com,Trà Vinh
+303,New Sun Phu Quoc Hotel - Khách Sạn New Sun Phú Quốc,"101 Trần Hưng Đạo, TT. Dương Đông, Phú Quốc, Kiên Giang",(077) 3996941,http://newsunphuquochotel.com,Kiên Giang
+304,Doanh Nghiệp Tư Nhân Cho Thuê Xe Du Lịch Dũng Tâm,"Số 29 Lê Thành Phương, P. 2, Tp.Tuy Hòa, Phú Yên","0979 042 708, 093 5920 056",,Phú Yên
+305,Công Ty TNHH MTV Du Lịch Và Thương Mại Tinh Hoa,"138 Đường 17A, P. Bình Trị Đông B, Q. Bình Tân, Tp. Hồ Chí Minh","(08) 36083608, 62601628",http://tinhhoatravel.com,Hồ Chí Minh
+306,Công Ty TNHH HT Việt Nam Travel,"231, đường TTH7, Phường Tân Thới Hiệp, Quận 12, TPHCM",(028) 37170673,http://dulichht.vn/,
+307,Công Ty Cổ Phần Phát Triển Thương Mại & Du Lịch Quốc Tế Ngôi Sao,"162B Đội Cấn, Q. Ba Đình, Hà Nội","(04) 37222373, 38230230",http://hanoistartour.vn,Hà Nội
+308,Công Ty TNHH Dịch Vụ Vận Tải Hoàng Phú,"686 Nguyễn Văn Cừ, Long Biên, Tp. Hà Nội (TPHN)",(024) 38772236,http://thuexehn.com,Hà Nội
+309,Công Ty Cổ Phần Thương Mại Du Lịch Vận Tải Bình Minh,"111 Chu Văn An, Phường 26, Quận Bình Thạnh, Tp. Hồ Chí Minh",(08) 35511809,http://binhminhtour.com,Hồ Chí Minh
+310,Công Ty TNHH Thương Mại Dịch Vụ Du Lịch Nguyên Khang,"09 Phan Châu Trinh, Tp. Hội An, Quảng Nam","(0510) 3919293, 3919778",http://hoianexpress.com.vn,Quảng Nam
+311,Công Ty TNHH Thương Mại Vầ Dịch Vụ Du Lịch Việt Thái,"42/2 Phạm Văn Chiêu, P. 9, Q. Gò Vấp, Tp. Hồ Chí Minh","(08) 39165336, 39165337, 39165338",http://vietthaitravel.com,Hồ Chí Minh
+312,Công Ty TNHH Du Lịch Việt Nam 24h,"171 Đinh Bộ Lĩnh, P. 26, Quận Bình Thạnh, Tp. Hồ Chí Minh",(08) 66819592,http://www.dulichvietnam24h.org,Hồ Chí Minh
+313,Công Ty TNHH Đầu Tư Thương Mại Và Du Lịch Hoa Mai,"Số 9, Ngõ 92, Nguyễn Khánh Toàn, Q. Cầu Giấy, TP Hà Nội (TPHN)","(024) 37567345, 098.444.8158",http://hoamaitour.vn,Hà Nội
+314,CÔNG TY TNHH DU LỊCH PHÚ SĨ,"70 Nguyễn Háo Vĩnh, Phường Tân Quý, Quận Tân Phú, TP.HCM",(028) 3602 3147 - 3602 3157,http://phusitravel.com/,
+315,Công Ty TNHH MTV Thương Mại Dịch Vụ Vận Tải Khang Tường,"Tp. Thủ Dầu Một, Bình Dương",0915979878,,Bình Dương
+316,Công ty TNHH Dịch Vụ Thường Mại Và Sản Xuất Đức Phúc,"Đư. Võ Cường 17 , Khu Đô Thị HUD, P. Võ Cường, TP. Bắc Ninh, Bắc Ninh",0982 098 850,,Bắc Ninh
+317,Công Ty TNHH Vận Tải Du Lịch Và Thương Mại Vũ Khoa,"Số 7 Vũ Văn Dũng, Phường An Hải Tây, Q. Sơn Trà, Tp. Đà Nẵng",(0511) 3550044,http://thuexedanang.com.vn,Đà Nẵng
+318,Công Ty CPThương Mại Vận Tải Và Du Lịch Hồng Đa,"189 Nguyễn Hữu Thọ, Quận Hải Châu, Tp. Đà Nẵng","(0236) 3782782, 0912 46 42 43",http://thuexemientrung.vn,Đà Nẵng
+319,Công Ty TNHH Hướng Dẫn Du Lịch Việt Nam,"797 Lê Hồng Phong, P. 12, Q. 10, Tp. Hồ Chí Minh",(08) 38620015,http://www.v-travel.com.vn,Hồ Chí Minh
+320,Công Ty TNHH Timur Travel,"69/6/10A Đường Tân Chánh Hiệp 7, KP 10, Phường Tân Chánh Hiệp, Quận 12, Tp. Hồ Chí Minh","0933 777 637, 0903 777 637",http://timurtravel.net,Hồ Chí Minh
+321,Công Ty TNHH  Dịch Vụ Và Thương Mại Tùng Lâm,"Liên Trung, Đan Phượng, HN",0983.610.888,,HN
+322,Công Ty Cổ Phần Thương Mại Dịch Vụ Du Lịch Việt Á Âu,"299 Trần Bình Trọng, P. 4, Q. 5, Tp. Hồ Chí Minh","(08) 38333738, 38333739, 38333188",http://www.vaetravel.com.vn,Hồ Chí Minh
+323,Công Ty TNHH TM & DV Du Lịch Top Global,"235 Trần Phú, P. Phước Ninh, Q. Hải Châu, Tp. Đà Nẵng",(0511) 3654777,http://topglobaltravel.com.vn,Đà Nẵng
+324,Công Ty TNHH MTV Du Lịch Và Thương Mại Vĩnh Tường,"Thôn Nội, X. Yên Bình, H. Vĩnh Tường, Vĩnh Phúc",0969 301 596,,Vĩnh Phúc
+325,Công Ty TNHH MTV Dịch Vụ Du Lịch Việt Asia,"70 Đinh Tiên Hoàng, P. 1, Q. Bình Thạnh, Tp. Hồ Chí Minh",(08) 35034251,http://vietasiatravel.com,Hồ Chí Minh
+326,Trung Tâm Lữ Hành Top Travel,"912 Toà 34T, Hoàng Đạo Thuý, Cầu Giấy, Tp. Hà Nội",(04) 6655 8800,http://toptravel.vn,Hà Nội
+327,Khách Sạn Đế Vương ( HANOI IMPERIAL HOTEL ),"Số 44 Hàng Hành, Q. Hoàn Kiếm, Hà Nội",(04) 39335555,http://hanoiimperialhotel.com,Hà Nội
+328,Công Ty TNHH Thương Mại Dịch Vụ Vận Tải Du Lịch Hoàng Minh Trí,"216 Nguyễn Hồng Đào, P. 14, Q. Tân Bình, Tp. Hồ Chí Minh",(028) 39722363,,Hồ Chí Minh
+329,Công Ty TNHH Dịch Vụ Và Du Lịch Bốn Bạn,"Số 45B Đường Dân Tộc, P. Tân Thành, Q. Tân Phú, TP. Hồ Chí Minh","(08) 39490963, 62675718",http://dulichbonban.com,Hồ Chí Minh
+330,Dịch Vụ Du Lịch Thiên Phúc,"85/106 Phạm Ngũ Lão , P.Thới Bình , Q.Ninh Kiều , Tp.Cần Thơ",0919 133 222,,Thơ
+331,Công Ty Du Lịch Hoàng Khởi,"184 Cộng Hòa, Phường 12, Quận Tân Bình, Tp.HCM",(028) 66601616,http://hoangkhoitravel.com,
+332,Công Ty TNHH Phát Triển Thương Mại Và Dịch Vụ Du Lịch Nhà Việt,"Số 39, Ngõ 265 Phố Bồ Đề, P. Bồ Đề, Q. Long Biên, Hà Nội",(04) 35372666,http://viethometourist.com,Hà Nội
+333,Công Ty TNHH Vận Tải Và Du Lịch Đông Nam,"Số 14 Sông Thao, P. 2, Q. Tân Bình, Tp. Hồ Chí Minh",(08) 66806200,,Hồ Chí Minh
+334,Công Ty TNHH Thương Mại Du Lịch Hành Trình Trẻ,"59 Nghĩa Thục, P. 5, Q. 5, Tp. Hồ Chí Minh","(08) 39231185, 38362375",http://dulichhanhtrinhtre.com.vn,Hồ Chí Minh
+335,Công Ty TNHH Thương Mại Và Dịch Vụ Vina Hoàng Long,"Số 6/21, Ngách 68, Ngõ 68, Đường Nguyễn Văn Linh, P. Thạch Bàn, Q. Long Biên, Hà Nội","0917 892 866, 0947 892 866",http://vinahoanglong.com,Hà Nội
+336,Nhà Xe Anh Kỳ,"Số 100 Lê Văn Hữu, Tổ 21A, Khu vực 5, P. Hải Cảng, Tp. Quy Nhơn, Bình Định",0906 509 799,,Bình Định
+337,Công Ty Du Lịch Hội An,"Số 10 Huỳnh Lý, Hội An, Quảng Nam",0935 753 336,http://hoianprivatecar.com,Quảng Nam
+338,Công Ty TNHH Vận Tải Và Du Lịch Hải Nam,"Số 31, Tổ 10, P. Thượng Thanh, Q. Long Biên, Hà Nội","(04) 62927086, 38772360",http://xehainam.com/,Hà Nội
+339,Công Ty Cổ Phần Đầu Tư Phát Triển Thương Mại Và Du Lịch Goldsun,"Khu HC 15, Nguyễn Tất Thành, P. Liên Bảo, TP Vĩnh Yên, Vĩnh Phúc",(0211) 6335888,http://goldsuntravel.com.vn,Vĩnh Phúc
+340,Hợp Tác Xã Vận Tải & Du Lịch Q.10,"58 Ngô Quyền, Phường 5, Quận 10, Tp. Hồ Chí Minh",(08) 38557483,,Hồ Chí Minh
+341,Công Ty TNHH ĐT TM DV Du Lịch Thiên Phúc,"137/12 Nguyễn Cư Trinh, P.Nguyễn Cư Trinh, Quận 1, Tp. Hồ Chí Minh",(08) 38373877,http://www.thienphuctravel.vn,Hồ Chí Minh
+342,Doanh Nghiệp Tư Nhân Vận Tải Hải Nguyên,"Số 53 Huỳnh Thúc Kháng, Tp.Quy Nhơn, Bình Định",0905 961 447,http://chothuexehainguyen.com,Bình Định
+343,Công Ty Cổ Phần Thương Mại Dịch Vụ Du Lịch Hiền Thảo,"511 Nguyễn Trãi, P. 7, Q. 5, Tp. Hồ Chí Minh",(08) 39520379,http://chothuexehienthao.com,Hồ Chí Minh
+344,Công Ty TNHH Thương Mại Dịch Vụ Du Lịch 777,"144 Đường số 9, Phường Tân Phú, Quận 7, Tp. Hồ Chí Minh",0917 775 560,,Hồ Chí Minh
+345,Công Ty TNHH Du Lịch Và Thương Mại Sông Hồng,"68 Lê Văn Lương, P. Nhân Chính, Q. Thanh Xuân, TP Hà Nội (TPHN)","(024) 35569999, 0983 835 858",https://www.redriverco.com,Hà Nội
+346,Công Ty Cổ Phần Đào Tạo Và Du Lịch Quốc Tế Hà Thành,"Số 15 Ngõ 520 Xã Đàn, P. Nam Đồng, Q. Đống Đa, Hà Nội",(04) 37938085,http://hathanhtravel.com/,Hà Nội
+347,Trung Tâm Dịch Vụ Du Lịch 727,"153 Xô Viết Nghệ Tĩnh, P. 17, Q. Bình Thạnh, Tp. Hồ Chí Minh",(08) 38402288,http://727travel.com.vn,Hồ Chí Minh
+348,Công Ty Cổ Phần Đầu Tư Thương Mại Du Lịch Vận Tải Và Tài Chính Châu Á - VP Xe Hoàng Quân,"Số 2 Trúc Khê, Q. Đống Đa, Hà Nội",(04) 66836607,http://thuexehoangquan.com/,Hà Nội
+349,Công Ty TNHH Thương Mại Và Du Lịch Linh An,"Phòng 810, CT2A, KĐT Mỹ Đình 2, Đường Lê Đức Thọ, Tp. Hà Nội (TPHN)","(024) 37872133, 0948 331 369",http://xelinhan.vn,Hà Nội
+350,Công Ty Cổ Phần Du Lịch Quốc Tế Mở Hạ Long,"CT2, 12A16, Greenbay, P. Hùng Thắng, Tp. Hạ Hong, Quảng Ninh",(033) 2460038,http://sunshinehalong.com,Quảng Ninh
+351,Công Ty CP Đầu Tư TM Du Lịch Vận Tải & Tài Chính Châu Á – Văn Phòng Cho Thuê Xe Hoàng Quân,"Số 17 Đường Trung Yên 12, KĐT Trung Yên, Cầu Giấy, Hà Nội",(04) 66836607,http://thuexehoangquan.com,Hà Nội
+352,Công Ty TNHH Dịch Vụ Du Lịch Phượng Hoàng,"176 Đinh Bộ Lĩnh, P. 26, Quận Bình Thạnh, Tp. Hồ Chí Minh",(08) 35059835,http://www.phuonghoangtourist.com.vn,Hồ Chí Minh
+353,Công Ty TNHH MTV Thành Khánh Đạt,"241 Nguyễn Công Hoan, P. Hoà Khánh Nam, Q. Cẩm Lệ, TP. Đà Nẵng","0935.057.797, 0981.742.145, 0905.021.244",http://mientrungtravel.com,Đà Nẵng
+354,Công Ty TNHH MTV TM Và DV Du Lịch Thanh Bình,"1207/55-57 Phú Riềng Đỏ, P.Tân Phú, TX. Đồng Xoài, Bình Phước",(0651) 3866579,,Bình Phước
+355,Công Ty TNHH MTV Du Lịch Miền Đất Á (ASIATRAVELLAND),"35 Chu Văn An, P. Phú Hội, Tp. Huế, Thừa Thiên-Huế","(054) 3840888, 3844844",http://www.asiatravelland.com,Thừa Thiên-Huế
+356,Công Ty TNHH Du Lịch Quốc Tế Ánh Sao Mới,"Số 365 Bạch Đằng, Phường Chương Dương, Quận Hoàn Kiếm, Tp. Hà Nội",(04) 39981323,http://dulichanhsaomoi.com,Hà Nội
+357,Công Ty TNHH Thương Mại Và Dịch Vụ Kha Trần,"F50 Đường số 6, Khu đô thị mới An Cựu City, Phường An Đông, Tp.Huế, Thừa Thiên, Huế",0327076789 - 0975 035 037,https://thuexekhatran.com,Huế
+358,Công Ty TNHH Thương Mại Dịch Vụ Phú An Khang,"195/15 Xô Viết Nghệ Tỉnh, Phường 17, Q. Bình Thạnh, TP. Hồ Chí Minh (TPHCM)",(028) 38982584,http://phuankhang.vn,Hồ Chí Minh
+359,Công Ty TNHH Dịch Vụ Vận Tải LV,"H92, Đường 55, Khu Dân Cư 586, P. Phú Thứ, Q. Cái Răng, TP. Cần Thơ",0913 636 777,,Cần Thơ
+360,Công Ty TNHH TMDV Vận Tải Và Du Lịch Ánh Bình Minh,"223/2 KP. 1B, P. An Phú, TX. Thuận An, Tỉnh Bình Dương",0967 15 16 89,http://www.chothuexenhanh.vn,Bình Dương
+361,Công Ty TNHH Vận Tải & Du Lịch Khánh Đại Nam,"25 Phong Bắc 2, P. Hòa Thọ Đông, Q. Cẩm Lệ, Tp. Đà Nẵng",(0511) 3785179,,Đà Nẵng
+362,Công Ty CPTM Vận Tải Và Du Lịch Miền Bắc,"508 Ngọc Lâm, Long Biên, Tp. Hà Nội",(04) 66832310,http://xedulichmienbac.vn,Hà Nội
+363,Công Ty TNHH Thuê Xe Sài Gòn,"Số 1603 Phạm Thế Hiển, P. 6, Q. 8, Tp. Hồ Chí Minh (TPHCM)",091 778 2929,https://thuexedulichsaigon.com.vn,Hồ Chí Minh
+364,Công Ty TNHH Du Lịch Việt Thắng,"84/8 Tân Sơn Nhì, Phường Tân Sơn Nhì, Quận Tân Phú, Tp Hồ Chí Minh (TPHCM)",0909081263,http://vietthangtravel.com/,Hồ Chí Minh
+365,Công Ty Cổ Phần Đầu Tư Thương Mại Aloha Việt Nam,"Số 3 - 23/2 Ngõ 23 Cát Linh, Đống Đa, Hà Nội",(04) 38430616 ,http://chothuexehn.com,Hà Nội
+366,Công Ty TNHH Thương Mại Du Lịch Mùa Hè Xanh,"8/10 Đường 27, Kha Vạn Cân, Khu Phố 5, P. Hiệp Bình Chánh. Q. Thủ Đức, Tp. Hồ Chí Minh","(08) 36027731, 36027732",http://dulichmuahexanh.com,Hồ Chí Minh
+367,Du Lịch Vũ Bão,"H3 Trần Quang Diệu, Đà Lạt, Lâm Đồng",0913 736 893,http://chothuexedulichdalat.weebly.com,Lâm Đồng
+368,Công Ty CPTM Vận Tải Và Du Lịch Hoàn Kiếm,"Số 2, Ngõ 69, Lê Văn Lương, Nhân Chính, Thanh Xuân, Hà Nội",(04) 35553599 ,http://hoankiemtransport.com,Hà Nội
+369,Công Ty Cổ Phần Du Lịch Hoàng Gia,"800 Lạc Long Quân, P.9, Q.Tân Bình, Tp. Hồ Chí Minh",(08) 38618999,http://royaltourist.com.vn,Hồ Chí Minh
+370,Công Ty TNHH Du Lịch Và Giải Trí Phú An,"912 Nơ 4B, Bán Đảo Linh Đàm, Q. Hoàng Mai, Hà Nội","(04) 36417686, ",http://livetravelcorp.com,Hà Nội
+371,Công Ty CP Đầu Tư Thương Mại Và Dịch Vụ Du Lịch Trực Tuyến Việt Nam,"125 Khâm Thiên, Q. Đống Đa, Tp. Hà Nội",(04) 39264833,http://www.thuexeoto.vn,Hà Nội
+372,Công Ty Cổ Phần AnhNguyenTour- Việt Nam,"8/27 Nguyễn Thiện Thuật, Nha Trang, Khánh Hòa",0908 898 475,http://anhnguyentournhatrang.com,Khánh Hòa
+373,Công Ty Cổ Phần MAG,"Số 9, Ngách 1/36, Phan Đình Giót, Thanh Xuân, Hà Nội",0973888907,http://www.dulichgiaremag.com,Hà Nội
+374,Công Ty TNHH Thương Mại Dịch Vụ Du Lịch Rồng Lửa Việt,"1/4E Nguyễn Hữu Tiến, P. Tây Thạnh, Q. Tân Phú ,Tp. Hồ Chí Minh",(08) 39617032,http://www.rongluaviet.com/,Hồ Chí Minh
+375,Công Ty Cổ Phần Xây Dựng Thương Mại Và Du Lịch Khải Hoàn Phong,"732/14 Điện Biên Phủ, Q. Thanh Khê, TP. Đà Nẵng","(0511) 3759759, 3759659, 3759679",http://thuexedanang.vn,Đà Nẵng
+376,Dịch Vụ Du Lịch Ngọc Quý,"280 An Dương Vương, Phường 3, Quận 5, Tp. Hồ Chí Minh",0917 853 438,http://chothuexedulich24h.net,Hồ Chí Minh
+377,Công Ty TNHH Du Lịch Phúc Phát,"11B Đường Số 13, Khu Phố 4, P. Linh Xuân, Q. Thủ Đức, TP. Hồ Chí Minh (TPHCM)",0918.132.064,http://phucphattravel.com,Hồ Chí Minh
+378,Công Ty Cổ Phần Thương Mại Và Du Lịch Siren,"29B Nguyễn Gia Thiều, Q. Hoàn Kiếm, Tp. Hà Nội",(04) 39428408,http://sirentours.com,Hà Nội
+379,Công Ty TNHH Vận Tải Và Dịch Vụ Du Lịch Việt Nam,"Số Nhà 16, Ngách 41, Ngõ 195, Trần Cung, P. Cổ Nhuế 1, Q. Bắc Từ Liêm, Tp. Hà Nội  VPCN: 23A Hàng Hành, Hoàn Kiếm, Hà Nội",(04) 39382390. 091 235 8282,http://thuexe.hanoitransferservice.com,Hà Nội
+380,Công Ty TNHH Hùng Kin,"38 Ngọc Hồi, P. Hòa Minh, Q. Liên Chiểu, Tp. Đà Nẵng","0914 222 029, 0914 177 125",http://thuexeotodanang.vn,Đà Nẵng
+381,Công Ty Du Lịch Thắng Vinh,"Khu Đô Thị Sinh Thái Hòa Xuân, Q. Cẩm Lệ, Tp. Đà Nẵng",0935 595 857,,Đà Nẵng
+382,Công Ty Cổ Phần Ali Thương Mại Và Dịch Vụ,"Phòng 2010, CT12A, Khu Đô Thị Kim Văn Kim Lũ, Tp. Hà Nội","(04) 22668866, 23240240",http://vinaholidays.com.vn,Hà Nội
+383,Công Ty Cổ Phần Dịch Vụ Lữ Hành Gia Lai,"29 Lý Tự Trọng, Pleiku, Gia Lai",(059) 3875783,http://gialaitravel.com.vn,Gia Lai
+384,Công Ty TNHH Dịch Vụ Tin Học Và Du Lịch Duy Long D.L,"56/49 Cây Trâm, P. 9, Q. Gò vấp, Tp. Hồ Chí Minh","(08) 38842785, 39210332",http://dulichduylong.vn,Hồ Chí Minh
+385,Công Ty TNHH Đầu Tư Và Thương Mại Đức Vinh,"Số 52 Vũ Phạm Hàm, Trung Yên 1, Q. Cầu Giấy, Tp. Hà Nội",(04) 37246688,http://chothuexe.pro.vn,Hà Nội
+386,Công Ty TNHH VC Du Lịch Thương Mại Trường Vũ,"911-917 Nguyễn Trãi, P14, Q5 Tp. Hồ Chí Minh","(08) 35059659, 35059660",http://www.truongvutour.com,Hồ Chí Minh
+387,Công Ty TNHH Du Lịch Open,"52 Đông Du, Phường Bến Nghé, Quận 1, Tp. Hồ Chí Minh",(08) 73022888,http://thuexedulichtphcm.net,Hồ Chí Minh
+388,Công Ty Như Ý,"11/34 Trần Quý Cáp, P. Thuận Lộc, Tp. Thừa Thiên-Huế",0913 923 252,http://xedulichhue.info/,Thừa Thiên-Huế
+389,Công Ty TNHH Ngọc Thuận Phong,"356 Lãnh Binh Thăng, P. 11, Q. 11, Tp. Hồ Chí Minh","(08) 39628896, 39628896",http://chothuexedulichthuanphongtphcm.com,Hồ Chí Minh
+390,Công Ty TNHH Thương Mại Dịch Vụ Hai Đô,"36/18A Xô Viết Nghệ Tĩnh, P. Thắng Tam, TP. Vũng Tàu, Bà Rịa-Vũng Tàu",(064) 3574856,http://haido.com.vn,Bà Rịa-Vũng Tàu
+391,Công Ty TNHH Du Lịch Và Thương Mại Phú Bảo Khang,"39 Nguyễn Thượng Hiền, P. 5, Q. Bình Thạnh, Tp. Hồ Chí Minh (TPHCM)","(028) 35150208, 35153697, 0908.440.093",http://pbktravel.com.vn,Hồ Chí Minh
+392,Công Ty TNHH Thương Mại Dịch Vụ Quốc Tế Âu Mỹ,"19 Lý Tuệ, Phường Tân Quý, Quận Tân Phú, Tp. Hồ Chí Minh (TPHCM)","(028) 3991 8591, 0911 812 900",https://aumytravel.com,Hồ Chí Minh
+393,Công Ty TNHH Thương Mại Dịch Vụ Daily Travel,"Khu Phố Thị Trấn Hoà Vinh, Huyện Đồng Hoà, Tỉnh Phú Yên, Tp. Hồ Chí Minh","0982 015 701, 01643 834 069",http://dailytravelvietnam.com,Hồ Chí Minh
+394,Công Ty TNHH DV Du Lịch Tuấn Dung,"Số 458, Đ. Trần Cao Vân, P. Xuân Hà, Quận Thanh Khê, TP Đà Nẵng",(0236) 3710007 - 0905 330 085,http://tuandungtour.com,Đà Nẵng
+395,Công Ty TNHH Du Lịch Nha Trang Today,45B Vân Đồn - Nha Trang - Khánh Hoà,0938511948,https://www.nhatrangtoday.vn/,45B Vân Đồn - Nha Trang - Khánh Hoà
+396,Công Ty TNHH Du Lịch Và Thương Mại Tường Ánh,"162B, Đường Minh Lan, Phường Cát Tiên, Tp. Việt Trì, Phú Thọ","(0210) 3844844, 3500444, 0913 389 555",http://www.daiduongtourism.com.vn,Phú Thọ
+397,Công Ty TNHH Thương Mại Dịch Vụ Ô Tô Minh Toàn,"351 Đại Lộ Bình Dương, TT. An Thạnh, H. Thuận An, Bình Dương","(0274) 3748728, 3744696",,Bình Dương
+398,Công Ty TNHH Thương Mại Xây Dựng Và Dịch Vụ Du Lịch Nhật Quang,"Số 5, Ngách 82/186, Phố Kim Mã, P. Kim Mã, Q. Ba Đình, TP Hà Nội (TPHN)","(024) 38465587, 39172171, 0948 586 888",,Hà Nội
+399,Công Ty TNHH Một Thành Viên Thương Mại Và Du Lịch Don Nghi,"205/17 Bùi Viện, Phường Phạm Ngũ Lão, Quận 1, Tp. Hồ Chí Minh","0913 770 018, 0946 166 966",http://donnghitravel.com,Hồ Chí Minh
+400,Công Ty TNHH MTV Sản Xuất Dịch Vụ Du Lịch Gia Khang,"334 Tân Thới Hiệp 22, KP. 3, P. Tân Thới Hiệp, Q. 12, Tp. Hồ Chí Minh",(08) 37179416,http://chothuexegiakhang.net,Hồ Chí Minh
+401,Công Ty Dịch Vụ Cho Thuê Xe Tự Lái Kim,"C7C, Phạm Hùng, Xã Bình Hưng, Huyện Bình Chánh Tp. Hồ Chí Minh (TPHCM)","0914 066 895, 0943 961 311",http://thuexetulaidoimoi.com,Hồ Chí Minh
+402,Công Ty Du Lịch BIG Đà Nẵng,"K59 Lê Hữu Trác, Sơn Trà, Tp. Đà Nẵng",0971 953 195,http://traveladvisorinternet.com,Đà Nẵng
+403,Công Ty TNHH Xây Lắp Và Dịch Vụ Thương Mại Du Lịch Bằng Giang,"Đội 4, Đông Khê, X. Đan Phượng, H. Đan Phượng, Hà Nội",0983 950 921,http://www.banggiangtravel.com,Hà Nội
+404,Công Ty TNHH TM Và Du Lịch Quốc Tế Kenvin Việt Nam,"Số 11 Hàng Rươi, Phường Hàng Mã, Quận Hoàn Kiếm, Tp Hà Nội (TPHN) /  Chung Cư 8X Đầm Sen Số 75 Tô Hiệu, Quận Tân Phú, Tp Hồ Chí Minh (TPHCM)",0981 001 129,https://kenvintravel.com.vn/,Hồ Chí Minh
+405,Công Ty TNHH MTV Thương Mại Dịch Vụ Du Lịch Hạ Linh,"324, Cách Mạng Tháng Tám, Phường Bùi Hữu Nghĩa, Quận Bình Thuỷ, TP. Cần Thơ",0949 358 585,,Cần Thơ
+406,Công Ty TNHH Sản Xuất Thương Mại Dịch Vụ Nguyễn Cường,"593 ấp Ngũ Phúc,Quốc Lộ 1A, X. Hố Nai 3, H. Trảng Bom, Đồng Nai",(0251) 3982022,,Đồng Nai
+407,Công Ty TNHH Một Thành Viên Du Lịch - Dịch Vụ Bến Thành Tourist,"145 Thống Nhất, P. Bình Thọ, Thủy Đức, Tp. Hồ Chí Minh (TPHCM)",(028) 37228855,http://benthanhtourist.com,Hồ Chí Minh
+408,Công Ty TNHH MTV Dịch Vụ Vận Tải Việt & Nhật,"189/31 Đường Đặng Văn Bi, Q. Thủ Đức, Tp. Hồ Chí Minh",0903 180 956,,Hồ Chí Minh
+409,Công Ty TNHH Dịch Vụ Du Lịch Huyền Thoại Việt,"292/17 Bình Lợi, P. 13, Q. Bình Thạnh, Tp. Hồ Chí Minh",(08) 35531055,http://vietnamlegendtravel.com,Hồ Chí Minh
+410,Công Ty TNHH Vận Tải Và Thương Mại Thiên Thanh,"517 Đường Ngô Gia Tự, P. Đức Giang, Q. Long Biên, Hà Nội",(04) 22172662,http://www.thuexethienthanh.com,Hà Nội
+411,Công Ty TNHH MTV HPT Car Family,"Số 6 Đường Số 4, P. Bình An, Q. 2, TP. Hồ Chí Minh",(08) 62744777,http://hptcarrental.com,Hồ Chí Minh
+412,Công Ty TNHH Dịch Vụ LHQT Việt Picnic,"589 Lạc Long Quân, Phường 10, Quận Tân Bình, Tp. Hồ Chí Minh",(08) 73020268,http://vietpicnic.vn,Hồ Chí Minh
+413,Công Ty TNHH Thương Mại Du Lịch Hưng Quyên,"16 Vũ Trọng Hoàng, Q. Cẩm Lệ, Tp. Đà Nẵng",(0511) 3661955,,Đà Nẵng
+414,Công Ty TNHH Vận Tải Và Du Lịch Minh Đức,"Số 9, Ngõ 1/267, Đường Hồ Tùng Mậu, Phường Cầu Diễn, Quận Nam Từ Liêm, TP Hà Nội (TPHN)","098 337 2885,  0966 678 983",https://www.xedulichminhduc.com.vn,Hà Nội
+415,Công Ty TNHH Thương Mại Dịch Vụ Vận Chuyển Thành Đạt,"16/16 Kỳ Đồng, P. 9, Q. 3, Tp. Hồ Chí Minh",(08) 39317760,http://thanhdatco.com.vn,Hồ Chí Minh
+416,Công Ty Cổ Phần Đầu Tư Và Du Lịch Vận Tải Tây Đô,"Số 4, Lô 1, KDT Đền Lừ II, P. Hoàng Văn Thụ, Q. Hoàng Mai, TP Hà Nội (TPHN)","(024) 3656565, 0904 52 60 60",http://taydotravel.com.vn,Hà Nội
+417,Công Ty TNHH Du Lịch Ngũ Hành Sơn,"06 Tiên Sơn, Quận Hải Châu, Tp. Đà Nẵng",0935 002 519,,Đà Nẵng
+418,Công Ty TNHH Thiên Đường Travel,"41 Phạm Ngọc Thạch, Vĩnh Hải, Nha Trang, Khánh Hòa",0163 6377 077,http://thienduongtour.com,Khánh Hòa
+419,Công Ty TNHH Thương Mại Dịch Vụ Du Lịch Lê Trần 312,"957 A Lac Long Quan St., Ward 11, Tan Binh Dist., HCM City",(08) 39717712,,HCM City
+420,Công Ty TNHH TM Dịch Vụ Hành Trang,"287 Khuông Việt, Phường Phú Trung, Quận Tân Phú, Tp. Hồ Chí Minh","0908 456 196, 0902 488 990",http://hanhtrangtravel.com,Hồ Chí Minh
+421, Công Ty TNHH Thương Mại Tiếp Thị Dịch Vụ Du Lịch Nam Phương (Thương Hiệu NP TOUR),"58C Hoàng Hoa Thám, P. 7, Q. Bình Thạnh, Tp. Hồ Chí Minh"," (08) 35511820,", http://www.namphuongtourist.com,Hồ Chí Minh
+422,Công Ty TNHH Du Lịch Đặng Phúc,"E4/125A, Ấp 5, X. Đa Phước, H. Bình Chánh, Tp. Hồ Chí Minh",0932 010 533,,Hồ Chí Minh
+423,Công Ty TNHH Tiếp Vận Toàn Thắng,"Số 100, Ngõ 545 Phố Vũ Tông Phan, Phường Khương Đình, Quận Thanh Xuân, Thành phố Hà Nội",0912 103 556,,Hà Nội
+424,Công Ty TNHH Du Lịch Dịch Vụ Thương Mại Điện Tử Hà Nội,"Phòng 624B, Trung Tâm Thương Mại Đường Sắt, 142 Lê Duẩn, P. Khâm Thiên, Q. Đống Đa, Hà Nội",(024) 35187153,http://hanoietoco.com/,Hà Nội
+425,Công Ty TNHH Gki Việt Nam,"Phòng 502, Tòa Nhà Hòa Bình, KĐTM Vĩnh Hoàng  Quận Hoàng Mai, Tp. Hà Nội",(04) 35625799,,Hà Nội
+426,Công Ty TNHH Vận Chuyển Khách Du Lịch Phi Long,"17/2A Lê Thánh Tôn, P. Bến Nghé, Q. 1, Tp. Hồ Chí Minh","(08) 38220767, 38293210, 38220766",http://philong-rentacar.com,Hồ Chí Minh
+427,Công Ty TNHH Thông Tin Du Lịch Việt Nam,"Phòng 301 607-609 Nguyễn Kiệm P. 9, Q. Phú Nhuận Tp. Hồ Chí Minh",(08) 39951884,http://www.car4rent.net,Hồ Chí Minh
+428,Công Ty Cổ Phần Du Lịch Và Truyền Thông Thủ Đức,"1446/2A Nguyễn Duy Trinh, P. Long Trường, Tp. Thủ Đức, Tp Hồ Chí Minh (TPHCM)",0919 637 392,https://dulichthuduc.com.vn,Hồ Chí Minh
+429,Công Ty TNHH MTV Cho Thuê Xe Tự Lái,"85/56 Phạm Ngũ Lão, P. Thới Bình, TP. Cần Thơ",0947 575 751,,Cần Thơ
+430,Công Ty TNHH MTV Đinh Quỳnh Giang,"16/4 Hoàng Việt, P. 4, Q. Tân Bình, Tp. Hồ Chí Minh","(08) 38449857, 38115794",http://www.quynhgianghotel.com.vn,Hồ Chí Minh
+431,Chi Nhánh Công Ty Cổ Phần Đầu Tư Du Lịch Hà Nội Tại Hải Phòng,"Số 113 Tôn Đức Thắng, Trần Nguyên Hãn, Lê Chân, Hải Phòng",0899.909.920,https://dulichhaiphong.com.vn/,Hải Phòng
+432,Doanh Nghiệp Tư Nhân Du Lịch Thanh Sơn,Doanh Nghiệp Tư Nhân Du Lịch Thanh Sơn,(077) 3991777,http://dulichthanhson.com,Doanh Nghiệp Tư Nhân Du Lịch Thanh Sơn
+433,Công Ty TNHH Sản Xuất Thương Mại Và Vận Chuyển An An,"266/7 Hoàng Văn Thụ, P. 4, Q. Tân Bình, Tp. Hồ Chí Minh",(08) 38463944,http://xedulichxehoa.com,Hồ Chí Minh
+434,Công Ty TNHH Mioto Việt Nam,"305/4 Lê Văn Sỹ, P. 1, Q. Tân Bình, Tp. Hồ Chí Minh (TPHCM)",(028) 22538937,https://www.mioto.vn,Hồ Chí Minh
+435,Công Ty TNHH Thương Mại Và Du Lịch Kỳ Việt,"Số nhà 80, đường Phú Lương, Tổ dân phố 12, Phường Phú Lương, Quận Hà Đông, Tp Hà Nội (TP HN)",(024) 32424670 / 0972578692,https://tady.asia/,Hà Nội
+436,Công Ty TNHH Hoàng Gia Thịnh,"778 Quốc Lộ 1A, KP 4, P. An Phú Đông, Quận 12, Tp. Hồ Chí Minh (TPHCM)",(028) 66800456,https://thuexeviphoanggia.com,Hồ Chí Minh
+437,Công Ty TNHH Xây Dựng Thương Mại Á Châu,"791 Tạ Quang Bửu, P. 5, Q. 8, TP. Hồ Chí Minh",(08) 38569865,http://chothuexecity.com,Hồ Chí Minh
+438,Công Ty TNHH Du Lịch Anh Định,"Số 5, Tổ 50, P. Nghĩa Tân, Q. Cầu Giấy, Tp Hà Nội (TPHN)",(024) 38362128,http://anhdinhtravel.com/,Hà Nội
+439,Công Ty Du Lịch Newland,"Phòng 1202a, Tòa Nhà HH2 Bắc Hà, P. Tố Hữu, Đ. Lê Văn Lương Kéo Dài",(04) 35353636,http://flytime.vn,Đ. Lê Văn Lương Kéo Dài
+440,Công Ty TNHH Du Lịch Dấu Ấn - ANI Travel,"Số 09, Ngõ 08, Liễu Giai, Ba Đình, Hà Nội",(04) 62630333,http://chothuexeani.com,Hà Nội
+441,Du lịch Đà Nẵng Open Tour - Công Ty TNHH MTV Dịch Vụ Du Lịch Đà Nẵng Open Tour,"39 Cao Lỗ, Mân Thái, Sơn Trà, Đà Nẵng",0236.3996 877,https://danangopentour.vn,Đà Nẵng
+442,Công Ty TNHH Thương Mại Dịch Vụ Du Lịch Vận Tải Tấn Thành,"924 Võ Văn Kiệt, Phường 5, Quận 5, TP. Hồ Chí Minh",0938 833 100,http://chothuexehoitulai.com.vn,Hồ Chí Minh
+443,Công Ty TNHH Du Lịch Tùng Vân,"Tổ 2, khu 9A, Bãi Cháy, Hạ Long, Quảng Ninh","01224562668, 09", http://halongtungvancruise.com,Quảng Ninh
+444,Công Ty Du Lịch Hòa Thảo,"Số 30 Hà Chương, Phường Phước Mỹ, Quận Sơn Trà, Tp. Đà Nẵng",(08) 98167267,,Đà Nẵng
+445,Công Ty TNHH Đầu Tư Phát Triển Và Vận Tải Minh Anh,"Số 55, phố Lương Khánh Thiện, Phường Tương Mai, Quận Hoàng Mai, Hà Nội",0985746116,https://vantaiminhanh.com,Hà Nội
+446,Công Ty Cổ Phần Thương Mại Và Dịch Vụ D2N,"59B Lương Khánh Thiện, P. Tương Mai, Q. Hoàng Mai, TP Hà Nội (TPHN)","(024) 66506680, 66506680, 0904 066 465",,Hà Nội
+447,Dịch Vụ Cho Thuê Xe Du Lịch HCM,"482 Điện Biên Phủ, P. 11, Q. 10, Tp. Hồ Chí Minh",(08) 66819666,http://thuexehm.net/,Hồ Chí Minh
+448,Công Ty TNHH Khách Sạn Du Lịch Kỳ Quan Việt,"Số 6, hẻm 58 ngách 11/76, ngõ 52 phố Gia Quất, P.Thượng Thanh, Q.Long Biên, Tp.Hà Nội (TPHN)",(024) 66828597 - 0933585351,https://kyquanviet.vn,Hà Nội
+449,Công ty Cổ phần xây dựng và du lịch Minh Anh,số 10 tổ dân phố 3 - Phường Phú Đô - Quận Nam Từ Liêm - Hà Nội,(04) 32979139,http://www.dietchuotcontrung.net/,Hà Nội
+450,Công Ty TNHH Thương Mại Dịch Vụ Vận Tải  Du Lịch Lan Hương,"349/177 Lê Đại Hành, P. 13, Q. 11, Tp. Hồ Chí Minh","(08) 39628788, 38580293",,Hồ Chí Minh
+451,Dịch Vụ Du Lịch Lượng Sâm,"156/2 Hoàng Văn Thụ, Liên Nghĩa, Đức Trọng, Lâm Đồng",(063) 3647088,,Lâm Đồng
+452,Công Ty TNHH TM DV Phú Bình Dương,"323/E, Tổ 6, KP. 5, P. Uyên Hưng, TX. Tân Uyên, Bình Dương",0941 500 500,http://phubinhduong.com,Bình Dương
+453,Công Ty TNHH Du Lịch Vận Tải Ngọc Minh,"Số 25 ngõ 31, phố Doãn Kế Thiện, Phường Mai Dịch, Quận Cầu Giấy, Tp.Hà Nội (TPHN)",0967279998,http://thuexeotongocminh.com,Hà Nội
+454,Công Ty TNHH Lumina Việt Nam,"Số 1B, Cửa Đông, Quận Hoàn Kiếm, TP Hà Nội (TPHN)",0976 303 436,http://xeotohanoi.com,Hà Nội
+455,Công Ty TNHH Bali Limousine,"Số 15A, Thái Thị Nhạn, Phường 10, Quận Tân Bình, Tp. Hồ Chí Minh (TPHCM)","(028) 39749749, 0939 550 855",https://bali.limo,Hồ Chí Minh
+456,Công Ty Cho Thuê Xe Giá Rẻ Tại Hà Nội,"Tòa Nhà Star OceanBank, Khu Trung Hòa Nhân Chính, Tp. Hà Nội",0163.841.8888,http://chothuexegiarehanoi.com,Hà Nội
+457,Công ty TNHH Thương Mại và Dịch Vụ Vịnh Nha Trang,"154 Trần Qúy Cáp, TP nha Trang, Tỉnh Khánh Hòa",(0258) 3500190 - 0911951879,http://giavevinpearl.com,Khánh Hòa
+458,Hợp Tác Xã Vận Tải Du Lịch Trường Thành,"404 Hoàng Diệu, TP. Buôn Ma Thuột, Đắc Lắc","(050) 3601601, 0913 496 682",http://www.vantaitruonghanh.com/,Đắc Lắc
+459,Công Ty TNHH Thương Mại Du Lịch Khải Quang,"630 - 632 Ngô Quyền, Q. Sơn Trà, Tp. Đà Nẵng",(0511) 3937744,http://khaiquangtravel.com,Đà Nẵng
+460,Công Ty TNHH Giao Nhận Vận Chuyển Vina Rental,"Số 29 Vũ Tông Phan, Khu Phố 5, Phường An Phú, Quận 2, Tp. Hồ Chí Minh (TPHCM)","(028) 62818022,  0928 626 668",https://viren.vn,Hồ Chí Minh
+461,Công Ty TNHH Thương Mại Và DV Du Lịch MP,"70 Phạm Ngọc Thạch, P. 6, Q. 3, Tp. Hồ Chí Minh (TPHCM)",0909 335 385,http://mptourco.vn,Hồ Chí Minh
+462,Dịch Vụ Cho Thuê Xe Du Lịch Minh Đạt,"24 Khu Phố 6, Nguyễn ảnh Thủ, P. Hiệp Thành, Q. 12, Tp. Hồ Chí Minh",0909 173 458,,Hồ Chí Minh
+463,Dịch Vụ Cho Thuê Xe Hùng,"132/42 Đường Hùng Vương, P. Ninh Kiều, TP. Cần Thơ",(071) 3810267,,Cần Thơ
+464,Công Ty Cổ Phần Hà Nội TSC,"Phòng 503, 147 Nguyễn Văn Cừ, P. Ngọc Lâm, Q. Long Biên, Hà Nội",(04) 38779977,http://xedulich.vn/,Hà Nội
+465,Công Ty TNHH MTV TMDV Viễn Thông Lưu An,"Ngã 3 cây Điệp, Đường Lê Hồng Phong, Phường Tân Đông Hiệp, TX Dĩ An, Bình Dương",(0650) 6545454,,Bình Dương
+466,Công Ty TNHH MTV Thương Mại Dịch Vụ Tú Toàn Tiến,"Đường DT7/43, Khu Phố Chiêu Liêu, P. Tân Đông Hiệp, TX. Dĩ An, Bình Dương",0937 554 454,,Bình Dương
+467,Công Ty TNHH Dịch Vụ Du Lịch Thương Mại & Vận Tải Đa Bảo,"K288 Hùng Vương, Q. Hải Châu, Tp. Đà Nẵng",(0511) 3751328,,Đà Nẵng
+468,Công Ty TNHH Thương Mại Dịch Vụ Vận Tải Du Lịch Tất Thành Đạt,"Số 25/B1, Đường Trung Mỹ Tây 2A, KP. 2, P. Trung Mỹ Tây, Q. 12, Tp. Hồ Chí Minh",(028) 62522646,,Hồ Chí Minh
+469,Công Ty Cổ Phần Thương Mại Dịch Vụ Châu Âu Luxury,"22D3 Đinh Bộ Lĩnh, P. 26, Q. Bình Thạnh, Tp. Hồ Chí Minh (TPHCM)","(028) 35114471, 35114477,  0918 176 999",https://thuexechauau.com,Hồ Chí Minh
+470,Công Ty TNHH Vận Tải Và Du Lịch Đức Vinh,"Số 52 Vũ Phạm Hàm, Trung Yên 1, Q. Cầu Giấy, TP Hà Nội (TPHN)","(024) 37246688,  0912 206 287",http://chothuexe.pro.vn,Hà Nội
+471,Công Ty TNHH Thương Mại Và Du Lịch Á Châu Nha Trang,"Lô NV-10-16 KĐT Phước Long, P.Phước Long, TP Nha Trang, Khánh Hòa",034 8888 789,https://thuexenhatrang.vn,Khánh Hòa
+472,Công Ty TNHH MTV Dịch Vụ Du Lịch Phước Thông,"95 Bắc Đầu, Tp. Đà Nẵng",(0511) 3.705192,,Đà Nẵng
+473,Công ty TNHH Litchee Travel,"9 Tổ 20 Bắc Lãm, Phú Lương, Hà Đông, Tp.Hà Nội (TPHN)",0915338688,https://litcheetravel.com,Hà Nội
+474,Doanh Nghiệp Tư Nhân Vy Vy,"573A Phan Văn Trị, P. 5, Q. Gò Vấp, Tp. Hồ Chí Minh (TPHCM)","(028) 39852278, 0938 787 787",http://vyvytravel.com,Hồ Chí Minh
+475,Công Ty TNHH MTV Dịch Vụ Vận Tải Kim Vũ,"236k Lê Văn Sỹ, Phường 1, Q. Tân Bình, Tp. Hồ Chí Minh",0933 048 841,,Hồ Chí Minh
+476,Công Ty TNHH Thương Mại Và Đầu Tư Du Lịch Trang Long,"Số 271 Đường Hoàng Công Chất, P. Phú Diễn, Q. Bắc Từ Liêm, Tp Hà Nội (TP.HN)",(024) 37631361,http://www.tranglongchothuexe.com,Hà Nội
+477,Công Ty TNHH MTV Banaway Travel,"48 Hà Thị Thân, Quận Sơn Trà, TP. Đà Nẵng",0901 619 639 - 0867 619 639,https://taxisieuredanang.com,Đà Nẵng
+478,Công Ty TNHH Tây Nam Kim Đô,"14 Trần Não, P. Bình An, Q. 2, Tp. Hồ Chí Minh (TPHCM)",(028) 37406128,http://www.taynamkimdo.com,Hồ Chí Minh
+479,Công Ty Dịch Vụ Du Lịch Chí Tâm,"67 Bùi Thị Xuân, P. 2, Q. Tân Bình, Tp. Hồ Chí Minh (TPHCM)",(028) 39911006,http://dulichchitam.com,Hồ Chí Minh
+480,Du Lịch Nguyễn Quí,"56/14 Đường Đỗ Tấn Phong, P. Tân Đông Hiệp, Dĩ An, Bình Dương","0915 533 088, 0917 215 988",,Bình Dương
+481,Công Ty TNHH Vận Tải Và Du Lịch Xe Sài Gòn,"104 Bùi Đình Tuý, P.12, Quận Bình Thạnh, Tp Hồ Chí Minh (TPHCM)","0826204060, 0357051457",https://xesaigon.vn/,Hồ Chí Minh
+482,Công Ty Thuê xe Đà Nẵng 365,"Số 223, H18/9, Trường Chinh, Q. Thanh Khê, Tp. Đà Nẵng","(0236) 2660806, 0935 214 222",http://thuexedanang365.com,Đà Nẵng
+483,Công Ty TNHH Ô Tô Hiệp Lợi,"557 Lê Hồng Phong, P. Phú Hòa, TX. Thủ Dầu Một, Bình Dương","(0274) 3838222, 3898555, 0902 48 22 22",http://otohieploi.com.vn,Bình Dương
+484,Dịch Vụ Trường Vân Cho Thuê Xe,"29/1 Quang Trung, P. 10, Q. Gò Vấp, Tp. Hồ Chí Minh",(08) 35892182,,Hồ Chí Minh
+485,Công Ty Du Lịch Nhất Phong,"14 Đoàn Trần Nghiệp, Q. Thanh Khê, Tp. Đà Nẵng","(0511) 3823382, 3766866",http://dulichmientrung.net,Đà Nẵng
+486,Công Ty Cổ Phần Thương Mại Và Phát Triển Du Lịch Bảo An,"Tiến Thịnh, Mê Linh, Hà Nội",0916 995 991,,Hà Nội
+487,Mr. Khang,"KP. 7, Huỳnh Văn Lũy, P. Phú Lợi, TX. Thủ Dầu Một, Bình Dương",0988 623 939,,Bình Dương
+488,Công Ty TNHH Dịch Vụ Du Lịch Biển Việt,"583 Thủ Khoa Huân, P. Thanh Hải, TP. Phan Thiết, T. Bình Thuận",0961 866 634,http://bivitour.com,Bình Thuận
+489,Công Ty Cổ Phần Sản Xuất Kinh Doanh Dịch Vụ Và Xuất Nhập Khẩu Quận 1,"231 - 233 Lê Thánh Tôn, P. Bến Thành, Q. 1, Tp. Hồ Chí Minh (TPHCM)","(028) 38230611, 0902 383 188",http://www.fimexco.com.vn,Hồ Chí Minh
+490,Cho Thuê Xe Du Lịch Việt Linh,"22 Trần Bình Trọng, P. 4, TP. Tuy Hòa, Phú Yên","0905 068 486, 01234 068 486, 01689 160 602",http://chothuexedulichtuyhoaphuyen.com,Phú Yên
+491,Visa Liên Đại Dương,"56 Nguyễn Cư Trinh, P.Phạm Ngũ Lão, Quận 1, TP Hồ Chí Minh (Tp.HCM)",0903309776 - 028.39020426,https://visaliendaiduong.com,Hồ Chí Minh
+492,HP Star Tour - Công Ty Cổ Phần Du Lịch Và Thương Mại Sao Hải Phòng,"133 Đường Trần Phú,  P. Cầu Đất, Q. Ngô Quyền, Tp. Hải Phòng","(0225) 3569075, 0903 233 121 – 0934 242 296",http://hpstartour.com/,Hải Phòng
+493,Công Ty Cổ Phần Liên Minh Du Lịch Toàn Cầu,"P507 nhà N2E Khu Chung cư Trung Hòa Nhân Chính, Phường Nhân Chính, Quận Thanh Xuân, Tp Hà Nội (TPHN)",0943398288,https://globaltravel.com.vn/,Hà Nội
+494,Công Ty TNHH Du Lịch Vận Tải Tiến Phát,"50/15 Đường HT 31, Khu Phố 1, P. Hiệp Thành, Q. 12, Tp. Hồ Chí Minh (TPHCM)","(028) 62508389,",,Hồ Chí Minh
+495,Công Ty TNHH Thương Mại Dịch Vụ Du Lịch Ev Việt Nam,"Số 7 ngõ 18 Nguyên Hồng, Đống Đa, Hà Nội (Tp.Hn)",(024) 3378 3838 - 0986151522,http://evtravel.com.vn,Hà Nội
+496,Công Ty TNHH Thương Mại Nectar,"TT lim, Tiên Du, Bắc Ninh",0945702790,http://thuexedulichbacninh.com,Bắc Ninh
+497,Công Ty TNHH Phát Triển Du Lịch Non Nước Việt,"Số 5 đường Vành Đai, hồ Điều Hòa, tổ Phương Lưu 6, P. Đông Hải 1, Q. Hải An, Tp.Hải Phòng",0904.834.026 - 0906.061.630 - 0984.234.09,http://dulichnonnuocviet.vn/,Phòng
+498,Công Ty TNHH Biệt Thự Nghỉ Dưỡng LE VILLA,"Tầng 5, 62A PHẠM NGỌC THẠCH, Q3, HCM",0868.956.067,http://www.chothuebietthunghiduong.net/,HCM
+499,Công Ty du lịch Việt Du,"52/2 Út Tịch, Phường 4, Quận Tân Bình, Tp. Hồ Chí Minh (TpHCM)",0915797718,https://dulichvietdu.com,Hồ Chí Minh
+500,Công Ty TNHH Xe Hà Tĩnh,"Số 07, Trịnh Khắc Lập, P.Trần Phú, TP.Hà Tĩnh",0916761118,http://xehatinh.com.vn,Tĩnh
+501,Nhà Phân Phối Gia Thịnh,"35B23 Khu Dân Cư 91B, Quận Ninh Kiều, TP. Cần Thơ",0918 523 839,,Cần Thơ
+502,Dịch Vụ Thuê Xe Máy Tại Dương Đông Phú Quốc,"106 Trần Hưng Đạo, Dương Đông, Phú Quốc, Kiên Giang, Việt Nam",0985554956,http://www.thuexemay.pro,Việt Nam
+503,Công Ty TNHH TM DV & Du Lịch Luco,"71/4 Bùi Thị Xuân, Phường 5, Quận Tân Bình, Tp.Hồ Chí Minh (TPHCM)",(028) 399 069 86,http://lucotravel.com,Hồ Chí Minh
+504,Công Ty Du Lịch Mai Linh Miền Trung,"Số 92 - 94 Đường 2 Tháng 9, Quận Hải Châu, Thành Phố Đà Nẵng",0934740404,http://mailinhtour.vn/vi/,Thành Phố Đà Nẵng
+505,Công Ty Cổ Phần Saigon Star - Saigon Star Travel,"1224|31, QL 22, Trung Mỹ Tây, Quận 12, Tp.Hồ Chí Minh (Tphcm)",0902998694,,Hồ Chí Minh
+506,Công ty TNHH Thương Mại Và Dịch Vụ Du Lịch 24h,"49/12 ông ích Khiêm, Phường Thanh Bình, Quận Hải Châu, Tp Đà Nẵng",0931 999 180,https://dulichdanang24h.vn/,Đà Nẵng
+507,Xe Đưa Đón Sân Bay Cam Ranh Thu Hiền,"96B/18 Trần Phú, Phường Lộc Thọ, Tp Nha Trang, Tỉnh Khánh Hòa","0935936358, 0915833840",https://thuhien.vn/,Khánh Hòa
+508,Cần Giờ Tourist,"Số 86 Đường số 11, KDC Cityland Park Hills , Phường 10, Quận Gò Vấp, Tp Hồ Chí Minh Tp Hồ Chí Minh (TpHCM)",0283987 6155,,Hồ Chí Minh
+509,Công Ty TNHH Du Lịch Tâm Lộc,"6 Phố Phúc Minh, Phường Phúc Diễn, Quận Bắc Từ Liêm, Tp Hà Nội (TPHN)",0983111786,https://dulichtamloc.com,Hà Nội
+510,Thuê Xe Bảo Minh - Công ty TNHH Anh Em Bảo Minh,"Số nhà 55 Tổ dân phố Cầu 7, ngách 123/31 đường Thụy Phương, P.Thụy Phương, Q.Bắc Từ Liêm, Tp Hà Nội (TPHN)",0978143954,https://thuexebaominh.com,Hà Nội
+511,Du Lịch Lan Hạ Xanh - Công Ty Cổ Phần Du Lịch Quốc Tế Lan Hạ Xanh,"Số 43 Nguyễn Hữu Huân, Phường Lý Thái Tổ, Quận Hoàn Kiếm, Tp Hà Nội (TPHN)",0976951999,,Hà Nội
+512,Công Ty TNHH Truyền Thông Sự Kiện Phúc Nguyên,"Tầng 2, Số 4 Ngách 36 Ngõ 178/80 Phố Chợ Khâm Thiên, P. Trung Phụng, Q. Đống Đa, Tp Hà Nội (TPHN)","024 3736 9024, 024 7305 9688",https://sukienphucnguyen.com,Hà Nội
+513,Công Ty TNHH Thương Mại Và Du Lịch Nam Việt Cường,"182 Bà Triệu, P. Thanh Bình, Tp. Hải Dương, Tỉnh Hải Dương","0989242805, 0913374303",http://haiduongtour.com.vn,Hải Dương
+514,Công Ty TNHH TNHH Đầu Tư Dịch Vụ Và Du Lịch Á Đông,"243 Trần Kiên, Kiến An, Hải Phòng",0913 394 789,,Hải Phòng
+515,Tổng Đài Taxi Star,"Tân Sơn 2, Xã Thành Hải, TP. Phan Rang Tháp Chàm, Ninh Thuận",02593952952,,Ninh Thuận
+516,Công Ty Hào Hùng,"9-11 Giải Phóng, Hai Bà Trưng, Tp Hà Nội (TPHN)","0968.19.6668, 035.219.5555",,Hà Nội
+517,Công Ty Cổ Phần Vận Tải Và Du Lịch Cent,"Số 103, Ngõ 603 Lạc Long Quân, P. Xuân La, Q.Tây Hồ, Tp Hà Nội (TPHN)","1900955559, 0834808080",,Hà Nội
+518,Công Ty Cổ Phần Đầu Tư Và Du Lịch Hà Thành,"L08, B02, KĐT Dương Nội, Q.Hà Đông, Tp Hà Nội (TPHN)","0968742813, 0369077335",,Hà Nội
+519,Công Ty TNHH Sigo Việt Nam,"9/6 Tân Hòa 2, Phường Hiệp Phú, Quận 9, Tp Hồ Chí Minh (TPHCM)",0938165616,,Hồ Chí Minh
+520,PT Travel - Công Ty Cổ Phần Đầu Tư Du Lịch Quốc Tế Hà Nội PT,"L1-04, Ngõ 68 Lưu Hữu Phước, Cầu Diễn, Nam Từ Liêm, Tp Hà Nội (TPHN)",0832577555,,Hà Nội
+521,Công Ty TNHH MTV Thương Mại Và Du Lịch Unifa Travel,"A4 -24 Nguyễn Sinh Sắc, Đà Nẵng",090 101 90 52,,Đà Nẵng
+522,Công Ty TNHH Dịch Vụ Vận Tải Và Du Lịch Huynh Đệ,"75 A, Bùi Văn Hòa, tổ 3, Kp5 , P. Long Bình , Tp. Biên Hòa, T. Đồng Nai","0903001655, 0909001655",,Đồng Nai
+523,Công Ty CPĐT & PT Thương Hiệu Adam Việt,"Số 130 Ngõ 97 Thái Thịnh, P.Thịnh Quang, Q.Đống Đa, Tp Hà Nội",0941859966,,Hà Nội
